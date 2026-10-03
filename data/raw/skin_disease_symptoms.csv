@@ -1,0 +1,502 @@
+text,disease,symptoms,body_location,severity,source
+I have itchy red patches on my elbows and knees that keep coming back,psoriasis,"itchy, red patches, scaly",elbows and knees,moderate,synthetic
+My skin has thick silvery scales on my scalp and it flakes a lot,psoriasis,"silvery scales, flaking, thick patches",scalp,moderate,synthetic
+Red inflamed skin with white flaky buildup on my arms,psoriasis,"red, inflamed, white flakes",arms,moderate,synthetic
+I get painful cracked skin on my hands during winter with red plaques,psoriasis,"cracked skin, red plaques, pain",hands,severe,synthetic
+Dry scaly patches behind my ears that are very itchy,psoriasis,"dry, scaly, itchy",behind ears,mild,synthetic
+My nails have become pitted and are separating from the nail bed,psoriasis,"pitted nails, nail separation",nails,moderate,synthetic
+Thick red patches covered with silvery white scales on my lower back,psoriasis,"thick patches, silvery scales",lower back,moderate,synthetic
+I have widespread red scaly plaques on my trunk and limbs,psoriasis,"red plaques, scaly, widespread",trunk and limbs,severe,synthetic
+Small drop shaped red spots appeared suddenly on my torso after a throat infection,psoriasis,"drop shaped spots, red, sudden onset",torso,moderate,synthetic
+Itchy burning sensation on red patches on my shins,psoriasis,"itchy, burning, red patches",shins,moderate,synthetic
+Persistent flaky scalp with thick crusts that won't go away with regular shampoo,psoriasis,"flaky scalp, thick crusts",scalp,moderate,synthetic
+Red patches with well defined borders on my knees,psoriasis,"red patches, defined borders",knees,mild,synthetic
+Painful cracking skin between my fingers with red scaly patches,psoriasis,"cracking, scaly, painful",fingers,moderate,synthetic
+My elbows have rough raised red patches that bleed when I scratch them,psoriasis,"raised patches, bleeding, rough",elbows,moderate,synthetic
+Symmetric red scaly patches on both knees and elbows,psoriasis,"symmetric, scaly, red",knees and elbows,moderate,synthetic
+Thick white scales that flake off constantly from my scalp,psoriasis,"white scales, flaking, constant",scalp,moderate,synthetic
+Red raised patches on my forearms that have a silvery coating,psoriasis,"raised patches, silvery coating",forearms,moderate,synthetic
+My skin cracks and bleeds on my palms with dry scaly plaques,psoriasis,"cracking, bleeding, scaly plaques",palms,severe,synthetic
+I noticed red patches forming along my hairline with silvery flakes,psoriasis,"red patches, silvery flakes",hairline,moderate,synthetic
+Itchy red spots on my legs that have thick scaly buildup,psoriasis,"itchy, scaly buildup",legs,moderate,synthetic
+My toenails are thick discolored and crumbling with psoriasis,psoriasis,"thick nails, discolored, crumbling",toenails,moderate,synthetic
+Painful red patches in my armpit folds that crack when I move,psoriasis,"painful, cracking, red",armpits,severe,synthetic
+Scaly red patches appeared on my chest after a stressful period,psoriasis,"scaly, red, stress triggered",chest,moderate,synthetic
+White flaky patches on my eyebrows that look like dandruff but thicker,psoriasis,"white flaky, thick, eyebrows",eyebrows,mild,synthetic
+I have coin shaped red plaques on my arms and legs with silver scales,psoriasis,"coin shaped, red plaques, silver scales",arms and legs,moderate,synthetic
+Burning itchy patches on the back of my neck with thick scales,psoriasis,"burning, itchy, thick scales",back of neck,moderate,synthetic
+Red patches on my belly button area with scaly white buildup,psoriasis,"red patches, scaly, white buildup",belly button,mild,synthetic
+My entire back is covered with large red scaly patches,psoriasis,"large patches, scaly, widespread",back,severe,synthetic
+Small red dots all over my body appeared after strep throat,psoriasis,"small red dots, post strep",whole body,moderate,synthetic
+Thick scaly patches on my feet soles that crack and hurt when walking,psoriasis,"thick scaly, cracking, painful",feet soles,severe,synthetic
+Dry red patch on my forehead that keeps flaking no matter what I do,psoriasis,"dry, red, persistent flaking",forehead,mild,synthetic
+I get inverse psoriasis in my groin folds with smooth red patches,psoriasis,"smooth red patches, skin folds",groin folds,moderate,synthetic
+Silvery white plaques on my upper arms that are raised and rough,psoriasis,"silvery plaques, raised, rough",upper arms,moderate,synthetic
+Red scaly rash on my ears that bleeds easily when irritated,psoriasis,"scaly rash, bleeding easily",ears,moderate,synthetic
+Stiff sore joints along with red scaly skin patches on knees,psoriasis,"joint stiffness, scaly patches",knees,severe,synthetic
+My scalp has very thick white buildup that comes off in big flakes,psoriasis,"thick buildup, big flakes",scalp,moderate,synthetic
+Red irritated skin patches around my navel with silvery scaling,psoriasis,"red, irritated, silvery scaling",navel,mild,synthetic
+Patches of raised red skin on my thighs with white dry flakes,psoriasis,"raised red, white flakes",thighs,moderate,synthetic
+I get psoriasis flare ups with red itchy patches when I am stressed,psoriasis,"flare ups, stress, red itchy",various,moderate,synthetic
+Widespread silvery scales covering large parts of my legs and arms,psoriasis,"widespread, silvery scales",legs and arms,severe,synthetic
+Cracked bleeding skin on my heels with thick scaly patches,psoriasis,"cracked, bleeding, scaly",heels,severe,synthetic
+Red patches around my eyes with fine silvery scales,psoriasis,"red patches, fine scales",around eyes,mild,synthetic
+Thick reddish patches on my shoulders that itch after showering,psoriasis,"thick patches, itchy after shower",shoulders,moderate,synthetic
+My fingernails have tiny dents and are turning yellowish,psoriasis,"nail pitting, yellowish nails",fingernails,moderate,synthetic
+Red scaly skin on my ankles that flares up in cold weather,psoriasis,"scaly, cold weather flare",ankles,moderate,synthetic
+Dry patchy skin on my wrists with well defined red borders,psoriasis,"dry, patchy, defined borders",wrists,mild,synthetic
+Large thick plaques on my buttocks with silver white coating,psoriasis,"thick plaques, silver coating",buttocks,moderate,synthetic
+Itchy red lesions on my elbows that worsen when I drink alcohol,psoriasis,"itchy, red, alcohol trigger",elbows,moderate,synthetic
+Flaky white patches on my chin with underlying redness,psoriasis,"flaky, white, redness underneath",chin,mild,synthetic
+Psoriatic patches on my knuckles that crack and bleed in dry air,psoriasis,"cracking, bleeding, dry air",knuckles,severe,synthetic
+I have small pimples on my face with oily skin,acne,"pimples, oily skin",face,mild,synthetic
+My forehead is covered with blackheads and whiteheads,acne,"blackheads, whiteheads",forehead,mild,synthetic
+I get painful cystic bumps on my chin every month,acne,"cystic bumps, painful",chin,severe,synthetic
+Red inflamed bumps on my cheeks with some pus,acne,"red bumps, inflamed, pus",cheeks,moderate,synthetic
+My back has lots of pimples and some scarring from old breakouts,acne,"pimples, scarring, breakouts",back,moderate,synthetic
+I have oily skin and small raised bumps all over my forehead,acne,"oily skin, raised bumps",forehead,mild,synthetic
+Deep painful nodules under my skin on jawline,acne,"deep nodules, painful",jawline,severe,synthetic
+Lots of tiny bumps on my nose with visible pores,acne,"tiny bumps, visible pores",nose,mild,synthetic
+Recurring breakouts on my temples and hairline area,acne,"breakouts, recurring",temples and hairline,moderate,synthetic
+Chest acne with red bumps and occasional whiteheads,acne,"red bumps, whiteheads",chest,moderate,synthetic
+I have comedones and papules across my T zone area,acne,"comedones, papules",T zone,moderate,synthetic
+Pus filled pimples on my shoulders and upper back,acne,"pus filled, pimples",shoulders and back,moderate,synthetic
+Hormonal breakouts along my jawline with deep cysts,acne,"hormonal, deep cysts, breakouts",jawline,severe,synthetic
+Small flesh colored bumps on my forehead that won't go away,acne,"flesh colored bumps, persistent",forehead,mild,synthetic
+My face gets very oily by midday and I develop new pimples,acne,"oily, new pimples",face,moderate,synthetic
+Clusters of small red bumps on my chin that are tender to touch,acne,"clusters, red bumps, tender",chin,moderate,synthetic
+I wake up with new pimples every morning mostly on my cheeks,acne,"new pimples daily, cheeks",cheeks,moderate,synthetic
+Blackheads along the sides of my nose and enlarged pores,acne,"blackheads, enlarged pores",nose,mild,synthetic
+My neck has painful red bumps that sometimes leave dark scars,acne,"painful bumps, dark scars",neck,moderate,synthetic
+I have white pus bumps on my forehead along with oily shiny skin,acne,"pus bumps, oily shiny skin",forehead,moderate,synthetic
+Large painful lump under my skin on my cheek that won't come to head,acne,"painful lump, under skin, no head",cheek,severe,synthetic
+My upper arms have tiny rough bumps that look like goosebumps,acne,"tiny rough bumps, goosebump-like",upper arms,mild,synthetic
+Acne flare ups around my period with deep bumps on chin and jaw,acne,"period related, deep bumps",chin and jaw,moderate,synthetic
+Red angry looking pimples on my back that hurt when I lean against chair,acne,"red pimples, painful, back",back,moderate,synthetic
+Multiple whiteheads on my chin area that keep coming back,acne,"whiteheads, recurring",chin,mild,synthetic
+Dark spots and scars left behind after pimples heal on my face,acne,"dark spots, scarring, post acne",face,moderate,synthetic
+My skin breaks out every time I eat dairy products with bumps on face,acne,"breakouts, dairy trigger",face,moderate,synthetic
+Clogged pores on my nose and chin with blackheads and some inflammation,acne,"clogged pores, blackheads, inflammation",nose and chin,moderate,synthetic
+I get acne on my buttocks with red painful bumps,acne,"red bumps, painful",buttocks,moderate,synthetic
+Tiny closed comedones covering my cheeks that make skin look bumpy,acne,"closed comedones, bumpy texture",cheeks,mild,synthetic
+Inflamed red pimples on my jawline that leave purple marks,acne,"inflamed, purple marks, jawline",jawline,moderate,synthetic
+My shoulders break out with small pus filled pimples in summer,acne,"pus filled, summer breakouts",shoulders,moderate,synthetic
+Hard painful bump under my skin near my ear that has been there for weeks,acne,"hard bump, under skin, persistent",near ear,severe,synthetic
+Lots of small bumps under the skin on my forehead called fungal acne,acne,"small bumps, uniform, under skin",forehead,mild,synthetic
+Red swollen pimple on the tip of my nose that is very painful,acne,"red swollen, painful, single",nose,moderate,synthetic
+Constant breakouts on my chest area with whiteheads and red bumps,acne,"constant breakouts, whiteheads, red bumps",chest,moderate,synthetic
+I have itchy dry skin in the crease of my elbows,eczema,"itchy, dry skin",elbow creases,moderate,synthetic
+Red rashy patches on my baby's cheeks that ooze sometimes,eczema,"red rash, oozing",cheeks,moderate,synthetic
+My hands are extremely dry cracked and itchy especially in winter,eczema,"dry, cracked, itchy",hands,severe,synthetic
+Itchy bumpy rash behind my knees that gets worse at night,eczema,"itchy, bumpy rash, worse at night",behind knees,moderate,synthetic
+Dry flaky patches on my eyelids that are red and irritated,eczema,"dry, flaky, red, irritated",eyelids,moderate,synthetic
+I have rough textured skin on my upper arms like chicken skin,eczema,"rough texture, bumpy",upper arms,mild,synthetic
+Weeping blisters on my fingers that crust over and itch terribly,eczema,"blisters, weeping, crusting, itchy",fingers,severe,synthetic
+Red irritated patches in my neck folds that get worse with sweat,eczema,"red, irritated, worse with sweat",neck folds,moderate,synthetic
+My skin feels tight and burns when I apply moisturizer on affected areas,eczema,"tight skin, burning",various,moderate,synthetic
+Chronic itchy rash on my ankles that leaves dark marks,eczema,"chronic itch, rash, dark marks",ankles,moderate,synthetic
+Dry scaly patches on my wrists with intense itching,eczema,"dry, scaly, intense itching",wrists,moderate,synthetic
+My child has red itchy patches on face and scalp since infancy,eczema,"red, itchy, infantile onset",face and scalp,moderate,synthetic
+Skin thickening and darkening on my inner elbows from constant scratching,eczema,"thickened skin, darkening, scratching",inner elbows,severe,synthetic
+Very dry skin all over body with patches that flare up periodically,eczema,"dry skin, periodic flares",whole body,moderate,synthetic
+Itchy patches that weep clear fluid when I scratch them,eczema,"itchy, weeping, clear fluid",various,moderate,synthetic
+Rough bumpy patches on the backs of my arms that feel like sandpaper,eczema,"rough, bumpy, sandpaper texture",backs of arms,mild,synthetic
+My baby has crusty yellow patches on the scalp and behind ears,eczema,"crusty, yellow patches, baby",scalp and ears,moderate,synthetic
+Extremely itchy rash in the creases of my knees and elbows at night,eczema,"itchy, crease areas, nighttime",knee and elbow creases,moderate,synthetic
+Dry cracked skin on my lips that peels and stings,eczema,"dry, cracked, peeling, stinging",lips,moderate,synthetic
+My hands develop tiny itchy blisters that pop and ooze clear fluid,eczema,"tiny blisters, itchy, oozing",hands,moderate,synthetic
+Dark thickened skin on my neck from years of scratching the itch,eczema,"dark, thickened, chronic scratching",neck,severe,synthetic
+Red itchy rash around my eyes that makes my eyelids swollen,eczema,"red, itchy, swollen eyelids",around eyes,moderate,synthetic
+I scratch my skin raw at night because the itching is so intense,eczema,"intense itch, nighttime, skin damage",various,severe,synthetic
+Circular dry patches on my cheeks that feel rough and scaly,eczema,"circular dry patches, rough, scaly",cheeks,mild,synthetic
+My fingers crack and bleed in winter with very dry irritated skin,eczema,"cracking, bleeding, winter flare",fingers,severe,synthetic
+Red inflamed skin in my armpit creases that weeps and stings,eczema,"inflamed, weeping, stinging",armpit creases,moderate,synthetic
+Dry itchy patches on my shins that leave ashy white marks,eczema,"dry, itchy, ashy marks",shins,mild,synthetic
+My eczema flares up whenever I use scented soap or lotion,eczema,"flare up, fragrance trigger",various,moderate,synthetic
+Small itchy vesicles on the sides of my fingers in warm weather,eczema,"itchy vesicles, warm weather",finger sides,moderate,synthetic
+Crusty oozing rash behind my toddler's ears that keeps returning,eczema,"crusty, oozing, recurring, child",behind ears,moderate,synthetic
+Very dry rough skin on the backs of my knees with constant urge to scratch,eczema,"dry, rough, constant itch",backs of knees,moderate,synthetic
+Red irritated patches on my inner thighs where skin rubs together,eczema,"red, irritated, friction area",inner thighs,moderate,synthetic
+My eyelids are swollen dry and flaky with redness that comes and goes,eczema,"swollen, dry, flaky, intermittent",eyelids,moderate,synthetic
+Itchy red rash on my hands that gets worse when I wash dishes,eczema,"itchy, red, worsens with water",hands,moderate,synthetic
+Thick leathery patches on my ankles from rubbing and scratching over years,eczema,"thick, leathery, chronic",ankles,severe,synthetic
+I have a circular red ring shaped rash on my arm,ringworm,"circular rash, ring shaped, red",arm,moderate,synthetic
+Itchy round patch with raised edges and clear center on my thigh,ringworm,"itchy, round patch, raised edges, clear center",thigh,moderate,synthetic
+Scaly ring shaped spots appearing on my chest,ringworm,"scaly, ring shaped spots",chest,moderate,synthetic
+Red circular lesion on my neck that is expanding outward,ringworm,"circular lesion, expanding, red",neck,moderate,synthetic
+I got a ring shaped itchy spot after playing with a stray cat,ringworm,"ring shaped, itchy, animal contact",various,moderate,synthetic
+Multiple circular red patches on my stomach with flaky borders,ringworm,"multiple circular patches, flaky borders",stomach,moderate,synthetic
+Itchy ring on my groin area that spreads when I sweat,ringworm,"itchy ring, spreading with sweat",groin,moderate,synthetic
+My scalp has a bald patch with scaly red border,ringworm,"bald patch, scaly border",scalp,moderate,synthetic
+Round itchy patch between my toes with peeling skin,ringworm,"round patch, itchy, peeling",between toes,mild,synthetic
+Circular rash on my forearm with small blisters along the edge,ringworm,"circular rash, blisters on edge",forearm,moderate,synthetic
+Expanding ring shaped lesion on my back that itches,ringworm,"expanding, ring shaped, itchy",back,moderate,synthetic
+Red scaly ring on my face near my beard area,ringworm,"red, scaly, ring shaped",face,moderate,synthetic
+I have jock itch with circular red patches in my inner thigh,ringworm,"jock itch, circular, red",inner thigh,moderate,synthetic
+Itchy circular rash on my child's scalp with hair loss in that area,ringworm,"circular rash, hair loss, itchy",scalp,moderate,synthetic
+Round patch with raised scaly border appeared on my wrist,ringworm,"round, raised border, scaly",wrist,moderate,synthetic
+Itchy red ring on my upper arm that started small and keeps growing,ringworm,"red ring, growing, itchy",upper arm,moderate,synthetic
+Peeling skin between my toes with redness and burning sensation,ringworm,"peeling, redness, burning",between toes,moderate,synthetic
+I caught a skin infection from the gym with a circular red rash,ringworm,"circular rash, gym contact",various,moderate,synthetic
+Round red lesion on my forearm with healing center and active edges,ringworm,"round lesion, healing center, active edges",forearm,moderate,synthetic
+My child developed circular bald spots on scalp after touching a puppy,ringworm,"circular bald spots, animal contact",scalp,moderate,synthetic
+Itchy rash in my groin folds that has a distinct ring pattern,ringworm,"itchy, ring pattern, groin",groin folds,moderate,synthetic
+Red circular spots on my shoulders that appeared after using shared gym equipment,ringworm,"circular spots, shared equipment",shoulders,moderate,synthetic
+Flaky scaly ring on my calf that itches when I sweat,ringworm,"flaky, scaly ring, sweat trigger",calf,moderate,synthetic
+My feet have cracked peeling skin between the toes with red patches,ringworm,"cracked, peeling, red patches",feet,moderate,synthetic
+Annular red lesion on my abdomen with slightly raised borders,ringworm,"annular, raised borders",abdomen,moderate,synthetic
+Ring shaped rash on my chest that has been spreading for two weeks,ringworm,"ring shaped, spreading",chest,moderate,synthetic
+I have athletes foot with itchy peeling skin and cracking between toes,ringworm,"athletes foot, itchy, peeling, cracking",toes,moderate,synthetic
+Multiple ring shaped red spots appeared on my back after wrestling practice,ringworm,"multiple rings, wrestling contact",back,moderate,synthetic
+Circular patch on my jawline with tiny bumps along the edge,ringworm,"circular, tiny edge bumps",jawline,moderate,synthetic
+Itchy red ring on my wrist that spreads in warm humid weather,ringworm,"red ring, warm weather spread",wrist,moderate,synthetic
+Scaly round patch on my thigh that gets bigger every few days,ringworm,"scaly round, expanding",thigh,moderate,synthetic
+Red expanding circle on my arm with dry flaky skin in the center,ringworm,"expanding circle, dry center",arm,moderate,synthetic
+I noticed a round itchy lesion on my neck after sharing a towel,ringworm,"round, itchy, shared towel contact",neck,moderate,synthetic
+Ring like rash on my elbow that appeared after contact with infected pet,ringworm,"ring rash, pet contact",elbow,moderate,synthetic
+Circular red patches on both arms that are slightly raised and scaly,ringworm,"circular, bilateral, raised, scaly",both arms,moderate,synthetic
+I have white patches of skin on my hands that have no pigment,vitiligo,"white patches, no pigment",hands,moderate,synthetic
+Loss of skin color in patches around my mouth and eyes,vitiligo,"loss of color, patches",around mouth and eyes,moderate,synthetic
+White depigmented spots appearing on my arms and spreading slowly,vitiligo,"white spots, depigmented, spreading",arms,moderate,synthetic
+My hair is turning white in a small patch on my scalp,vitiligo,white hair patch,scalp,mild,synthetic
+Symmetrical white patches on both my knees,vitiligo,"symmetrical, white patches",knees,moderate,synthetic
+I have noticed pale white spots on my face that are very visible,vitiligo,"pale white spots, visible",face,moderate,synthetic
+Skin on my fingertips has lost all color and turned completely white,vitiligo,"loss of color, completely white",fingertips,moderate,synthetic
+White patches on my chest and back that have been growing over months,vitiligo,"white patches, growing",chest and back,moderate,synthetic
+Depigmented areas around my eyes that look lighter than rest of face,vitiligo,"depigmented, lighter areas",around eyes,mild,synthetic
+I have white milky patches on my elbows and wrists,vitiligo,white milky patches,elbows and wrists,moderate,synthetic
+Large areas of skin losing color on my torso,vitiligo,large depigmented areas,torso,severe,synthetic
+White patches appeared on my genitals and inner thighs,vitiligo,"white patches, depigmented",genitals and thighs,moderate,synthetic
+My skin has patches where the melanin seems completely gone,vitiligo,"melanin loss, patches",various,moderate,synthetic
+Premature graying of hair along with white skin patches on face,vitiligo,"premature graying, white patches",face and hair,moderate,synthetic
+Small white spots on my legs that are slowly expanding and merging,vitiligo,"white spots, expanding, merging",legs,moderate,synthetic
+Pale colorless patches on the backs of my hands that appeared gradually,vitiligo,"pale, colorless, gradual onset",backs of hands,moderate,synthetic
+My lips have lost pigment and turned lighter in some areas,vitiligo,"lip depigmentation, lighter areas",lips,mild,synthetic
+White patches on my neck that become more obvious after sun exposure,vitiligo,"white patches, visible in sun",neck,moderate,synthetic
+I have depigmented spots on my shins that are spreading to my calves,vitiligo,"depigmented spots, spreading",shins and calves,moderate,synthetic
+Patches of white skin on my forehead near the hairline,vitiligo,"white patches, hairline",forehead,moderate,synthetic
+My eyelashes have turned white in one small area along with skin around it,vitiligo,"white eyelashes, surrounding depigmentation",eyelashes and periorbital,moderate,synthetic
+Completely white patch on my ankle that has been there for a year,vitiligo,"completely white, stable patch",ankle,moderate,synthetic
+Irregular shaped white patches on my upper back spreading slowly,vitiligo,"irregular, white, slowly spreading",upper back,moderate,synthetic
+Loss of color on the skin around my nostrils and corners of mouth,vitiligo,"depigmentation, nostrils, mouth corners",nose and mouth,moderate,synthetic
+I noticed white spots on my feet that do not tan in the sun,vitiligo,"white spots, no tanning",feet,mild,synthetic
+My underarms have developed pale white patches on both sides,vitiligo,"pale patches, bilateral, underarms",underarms,moderate,synthetic
+Depigmented ring around a mole on my arm that is growing wider,vitiligo,"depigmented ring, halo, around mole",arm,mild,synthetic
+White patches on my scalp causing white hair to grow in those areas,vitiligo,"white patches, white hair growth",scalp,moderate,synthetic
+Skin on my hands and feet losing color symmetrically on both sides,vitiligo,"symmetric depigmentation, hands and feet",hands and feet,moderate,synthetic
+I have a large area of white skin on my abdomen without any pigment,vitiligo,"large white area, no pigment",abdomen,moderate,synthetic
+Milky white patches behind my ears that are expanding,vitiligo,"milky white, expanding",behind ears,moderate,synthetic
+Gradual loss of skin color on my elbows creating pale smooth patches,vitiligo,"gradual color loss, smooth patches",elbows,moderate,synthetic
+White spots on my wrists that have merged into larger patches over time,vitiligo,"white spots, merging, progressive",wrists,moderate,synthetic
+My beard area has patches where the hair grows white and the skin is pale,vitiligo,"white beard patches, pale skin",beard area,moderate,synthetic
+Depigmented patches on my knuckles and finger joints on both hands,vitiligo,"depigmented, knuckles, bilateral",knuckles,moderate,synthetic
+My face turns very red and flushed especially in the center of my face,rosacea,"redness, flushing, central face",face center,moderate,synthetic
+I have visible blood vessels on my cheeks and nose,rosacea,visible blood vessels,cheeks and nose,moderate,synthetic
+My nose and cheeks get very red after drinking hot beverages,rosacea,"redness, triggered by hot drinks",nose and cheeks,mild,synthetic
+Bumpy red skin on my forehead with visible veins,rosacea,"bumpy, red, visible veins",forehead,moderate,synthetic
+My face burns and stings when I apply skincare products,rosacea,"burning, stinging, product sensitivity",face,moderate,synthetic
+Persistent redness across my nose and cheeks that never goes away,rosacea,persistent redness,nose and cheeks,moderate,synthetic
+Small red pus filled bumps on my cheeks that look like acne but aren't,rosacea,"red bumps, pus filled, acne-like",cheeks,moderate,synthetic
+My eyes feel dry and irritated along with facial redness,rosacea,"dry eyes, irritated, facial redness",face and eyes,moderate,synthetic
+Flushing of my face triggered by spicy food and sun exposure,rosacea,"flushing, food trigger, sun trigger",face,moderate,synthetic
+Thickening skin on my nose with enlarged pores and redness,rosacea,"thickening, enlarged pores, redness",nose,severe,synthetic
+Red bumps on my chin and forehead with visible spider veins,rosacea,"red bumps, spider veins",chin and forehead,moderate,synthetic
+My face turns beet red in warm environments and when stressed,rosacea,"facial redness, heat trigger, stress trigger",face,moderate,synthetic
+Swollen red nose with bumpy texture and broken blood vessels,rosacea,"swollen, bumpy, broken vessels",nose,severe,synthetic
+Sensitive facial skin that reacts to wind cold and alcohol,rosacea,"sensitive skin, reactive to elements",face,moderate,synthetic
+Central face redness with papules and pustules on cheeks,rosacea,"redness, papules, pustules",cheeks,moderate,synthetic
+Facial redness that gets worse when I eat spicy food or drink wine,rosacea,"redness, spicy food trigger, wine trigger",face,moderate,synthetic
+I notice tiny red veins appearing on my cheeks and sides of nose,rosacea,"tiny red veins, telangiectasia",cheeks and nose,mild,synthetic
+My face feels hot and prickly especially in the afternoon sun,rosacea,"hot, prickly, sun trigger",face,moderate,synthetic
+Bumpy red patches on my chin that flare up with temperature changes,rosacea,"bumpy, red, temperature trigger",chin,moderate,synthetic
+Red irritated eyes with swollen lids along with red facial skin,rosacea,"red eyes, swollen lids, facial redness",eyes and face,moderate,synthetic
+My cheeks always look sunburned even though I haven't been in the sun,rosacea,persistent sunburn look,cheeks,moderate,synthetic
+Rough bumpy texture on my nose with enlarged pores and permanent redness,rosacea,"rough, bumpy, enlarged pores, redness",nose,moderate,synthetic
+I get red blotchy patches on my face when I exercise or feel embarrassed,rosacea,"red blotchy, exercise trigger, emotion trigger",face,mild,synthetic
+Small pimple like bumps on my forehead that are not regular acne,rosacea,"pimple-like, not typical acne",forehead,moderate,synthetic
+My face feels like it is on fire after using most skincare products,rosacea,"burning sensation, product sensitivity",face,moderate,synthetic
+Watery irritated eyes with crusty eyelids and red flushed cheeks,rosacea,"watery eyes, crusty lids, red cheeks",eyes and cheeks,moderate,synthetic
+Visible network of small blood vessels across my entire nose,rosacea,visible blood vessel network,nose,moderate,synthetic
+My face flushes bright red when I drink any type of alcohol,rosacea,"flushing, alcohol trigger",face,moderate,synthetic
+Constant redness on the bridge of my nose and inner cheeks,rosacea,"constant redness, nose bridge",nose and cheeks,moderate,synthetic
+Grainy bumpy texture on my cheeks with underlying redness and stinging,rosacea,"grainy texture, redness, stinging",cheeks,moderate,synthetic
+My nose has become bulbous and red with thickened bumpy skin,rosacea,"bulbous nose, thickened skin",nose,severe,synthetic
+Red flushing on my forehead and cheeks triggered by hot showers,rosacea,"flushing, hot shower trigger",forehead and cheeks,moderate,synthetic
+Dry gritty feeling in my eyes combined with facial redness across cheeks,rosacea,"dry gritty eyes, facial redness",eyes and cheeks,moderate,synthetic
+Persistent central face redness that looks like a butterfly pattern,rosacea,"butterfly pattern redness, persistent",central face,moderate,synthetic
+My skin gets red and itchy after touching certain metals like nickel,contact_dermatitis,"red, itchy, triggered by metal",various,moderate,synthetic
+I developed a rash where my new watch band touches my wrist,contact_dermatitis,"rash, triggered by watch band",wrist,mild,synthetic
+Blistering rash on my hands after using new cleaning products,contact_dermatitis,"blistering, rash, chemical trigger",hands,severe,synthetic
+Red itchy patches where my necklace sits on my neck,contact_dermatitis,"red, itchy, jewelry trigger",neck,mild,synthetic
+My skin reacted badly to a new laundry detergent with red bumps everywhere,contact_dermatitis,"red bumps, detergent trigger",various,moderate,synthetic
+Itchy blisters on my feet from new shoes,contact_dermatitis,"itchy blisters, footwear trigger",feet,moderate,synthetic
+Red swollen eyelids after using new eye makeup,contact_dermatitis,"red, swollen, cosmetic trigger",eyelids,moderate,synthetic
+I got a rash on my arm after touching poison ivy in the garden,contact_dermatitis,"rash, plant trigger, poison ivy",arm,moderate,synthetic
+My hands crack and peel from constant handwashing and sanitizer use,contact_dermatitis,"cracking, peeling, irritant trigger",hands,moderate,synthetic
+Rash under my ring finger where my wedding ring sits,contact_dermatitis,"rash, ring trigger",ring finger,mild,synthetic
+Red streaky rash on my arms after gardening without gloves,contact_dermatitis,"red streaky rash, plant contact",arms,moderate,synthetic
+Burning sensation and redness on my scalp after using hair dye,contact_dermatitis,"burning, redness, hair dye trigger",scalp,moderate,synthetic
+Itchy rash on my earlobes from wearing cheap earrings,contact_dermatitis,"itchy rash, earring trigger",earlobes,mild,synthetic
+My face broke out in a rash after trying a new facial cream,contact_dermatitis,"rash, facial cream trigger",face,moderate,synthetic
+Dry peeling irritated skin on my hands from latex glove use at work,contact_dermatitis,"dry, peeling, latex trigger",hands,moderate,synthetic
+Red bumpy rash on my wrist exactly where my fitness tracker band sits,contact_dermatitis,"red bumpy rash, tracker band trigger",wrist,mild,synthetic
+My hands get raw and red from washing with harsh industrial soap at work,contact_dermatitis,"raw, red, industrial soap trigger",hands,moderate,synthetic
+Itchy red rash on my neck from a new perfume I started wearing,contact_dermatitis,"itchy, red, perfume trigger",neck,mild,synthetic
+Blisters and swelling on my feet after wearing rubber sandals,contact_dermatitis,"blisters, swelling, rubber trigger",feet,moderate,synthetic
+My eyelids became puffy and red after trying a new mascara brand,contact_dermatitis,"puffy, red, mascara trigger",eyelids,moderate,synthetic
+Red rash on my stomach where my belt buckle rubs against my skin,contact_dermatitis,"red rash, belt buckle trigger",stomach,mild,synthetic
+I got a blistery rash on my hands after handling a new brand of cement,contact_dermatitis,"blistery rash, cement trigger",hands,severe,synthetic
+Itchy red patches on my legs after shaving with a new shaving cream,contact_dermatitis,"itchy, red, shaving cream trigger",legs,mild,synthetic
+My underarms developed a burning rash after switching deodorant brands,contact_dermatitis,"burning rash, deodorant trigger",underarms,moderate,synthetic
+Swollen itchy lips after using a new lipstick,contact_dermatitis,"swollen, itchy, lipstick trigger",lips,moderate,synthetic
+Red irritated skin on my hands where rubber gloves touch my wrists,contact_dermatitis,"red, irritated, rubber glove trigger",wrist area,moderate,synthetic
+My skin peels and cracks on my fingertips from handling cardboard all day,contact_dermatitis,"peeling, cracking, occupational trigger",fingertips,moderate,synthetic
+Rash on my chest from the metal pendant on my necklace,contact_dermatitis,"rash, metal pendant trigger",chest,mild,synthetic
+Itchy blisters on my palms after using a new hand sanitizer daily,contact_dermatitis,"itchy blisters, sanitizer trigger",palms,moderate,synthetic
+Red patch on my wrist that appeared within hours of wearing a leather strap,contact_dermatitis,"red patch, leather strap trigger",wrist,mild,synthetic
+Burning red skin on my face after applying sunscreen I never used before,contact_dermatitis,"burning, red, sunscreen trigger",face,moderate,synthetic
+My hands are peeling and cracking after using bleach without gloves,contact_dermatitis,"peeling, cracking, bleach trigger",hands,moderate,synthetic
+Rash shaped exactly like the adhesive bandage I wore on my arm,contact_dermatitis,"rash, bandage shaped, adhesive trigger",arm,mild,synthetic
+Swollen red patch on my ankle from a new ankle bracelet,contact_dermatitis,"swollen, red, jewelry trigger",ankle,mild,synthetic
+Widespread itchy rash after swimming in a chlorinated pool,contact_dermatitis,"itchy rash, chlorine trigger",various,moderate,synthetic
+I suddenly got red raised welts all over my body that are very itchy,hives,"red welts, itchy, sudden onset",whole body,moderate,synthetic
+Itchy swollen patches on my skin that come and go within hours,hives,"itchy, swollen patches, transient",various,moderate,synthetic
+Large red hives appeared on my arms after eating shellfish,hives,"hives, food trigger, shellfish",arms,moderate,synthetic
+My skin has raised bumps that turn white when I press them,hives,"raised bumps, blanching",various,moderate,synthetic
+Welts on my face and neck after taking a new medication,hives,"welts, medication trigger",face and neck,moderate,synthetic
+Itchy wheals on my torso that keep appearing in different spots,hives,"wheals, moving, itchy",torso,moderate,synthetic
+I break out in hives whenever I exercise or get too hot,hives,"hives, exercise trigger, heat trigger",various,moderate,synthetic
+Red blotchy patches all over my legs that appeared overnight,hives,"red blotchy, overnight onset",legs,moderate,synthetic
+Swollen itchy bumps on my hands that last for a few hours then disappear,hives,"swollen bumps, transient, itchy",hands,mild,synthetic
+I get hives on my arms when I'm under a lot of stress,hives,"hives, stress trigger",arms,mild,synthetic
+Raised red patches with irregular borders on my chest and back,hives,"raised patches, irregular borders",chest and back,moderate,synthetic
+Allergic welts covering my torso after taking antibiotics,hives,"welts, antibiotic trigger",torso,severe,synthetic
+My skin swells into large puffy wheals that itch intensely,hives,"swelling, puffy wheals, intense itch",various,severe,synthetic
+Random itchy bumps appearing and disappearing on different parts of body,hives,"random bumps, appearing disappearing",various,moderate,synthetic
+Pressure hives forming on my waist where my belt sits tight,hives,"pressure hives, belt trigger",waist,mild,synthetic
+Itchy raised welts on my back that appeared after eating peanuts,hives,"welts, peanut allergy trigger",back,moderate,synthetic
+My whole body breaks out in hives when I get cold,hives,"whole body hives, cold trigger",whole body,moderate,synthetic
+Large swollen blotches on my thighs that last a few hours then fade,hives,"swollen blotches, transient",thighs,moderate,synthetic
+Red itchy welts on my arms that appear and move to new areas within minutes,hives,"welts, rapidly moving, itchy",arms,moderate,synthetic
+I developed hives on my face and throat after taking ibuprofen,hives,"hives, ibuprofen trigger, throat",face and throat,severe,synthetic
+Itchy raised patches on my legs that come and go all day long,hives,"itchy patches, intermittent",legs,moderate,synthetic
+My skin gets puffy and welted when I scratch it with any pressure,hives,"dermographism, puffy when scratched",various,moderate,synthetic
+Large red itchy patches appeared on my stomach within an hour of eating eggs,hives,"large patches, egg allergy trigger",stomach,moderate,synthetic
+Hives all over my arms and chest that appear every evening and fade by morning,hives,"evening hives, fading by morning",arms and chest,moderate,synthetic
+Tiny itchy bumps covering my forearms after being in direct sunlight,hives,"tiny bumps, sunlight trigger",forearms,moderate,synthetic
+Red wheals on my back and shoulders that itch terribly after a hot bath,hives,"wheals, hot bath trigger",back and shoulders,moderate,synthetic
+I got swollen itchy patches all over after eating something at a restaurant,hives,"swollen patches, food trigger",whole body,moderate,synthetic
+My lips swell up along with welts on my face when I eat certain fruits,hives,"lip swelling, welts, fruit trigger",face and lips,severe,synthetic
+Itchy hives on my hands and wrists that flare up when I am anxious,hives,"hives, anxiety trigger",hands and wrists,mild,synthetic
+Large flat raised welts on my stomach that blanch white in the center,hives,"flat welts, blanching center",stomach,moderate,synthetic
+Red blotchy hives on my neck that appeared after wearing a wool scarf,hives,"blotchy hives, wool trigger",neck,mild,synthetic
+I get chronic hives almost every day for weeks and cannot find the cause,hives,"chronic, daily, unknown trigger",various,moderate,synthetic
+Itchy wheals on my legs that pop up after walking in cold weather,hives,"wheals, cold weather trigger",legs,moderate,synthetic
+Red raised bumps all over my body that appeared right after a bee sting,hives,"raised bumps, bee sting trigger",whole body,severe,synthetic
+My scalp is very flaky with yellowish greasy scales,seborrheic_dermatitis,"flaky scalp, yellowish scales, greasy",scalp,moderate,synthetic
+I have dandruff that won't go away no matter what shampoo I use,seborrheic_dermatitis,persistent dandruff,scalp,mild,synthetic
+Red scaly patches in my eyebrows and around my nose,seborrheic_dermatitis,"red, scaly, greasy patches",eyebrows and nose,moderate,synthetic
+Greasy yellowish flakes on my scalp with itching,seborrheic_dermatitis,"greasy flakes, yellowish, itching",scalp,moderate,synthetic
+Cradle cap on my infant's scalp with thick yellow crusty patches,seborrheic_dermatitis,"thick yellow crusts, cradle cap",scalp,moderate,synthetic
+Flaky red skin in my beard area that gets worse with stress,seborrheic_dermatitis,"flaky, red, stress trigger",beard area,moderate,synthetic
+Itchy scaly patches behind my ears and on my hairline,seborrheic_dermatitis,"itchy, scaly",behind ears and hairline,moderate,synthetic
+My eyebrows have white flaky patches that are embarrassing,seborrheic_dermatitis,"white flakes, eyebrows",eyebrows,mild,synthetic
+Redness and flaking in the creases beside my nose,seborrheic_dermatitis,"redness, flaking, nasolabial folds",beside nose,mild,synthetic
+Greasy scales on my chest with slight redness underneath,seborrheic_dermatitis,"greasy scales, redness",chest,moderate,synthetic
+Chronic dandruff with redness and itching on my scalp,seborrheic_dermatitis,"chronic dandruff, redness, itching",scalp,moderate,synthetic
+Yellow crusty patches on my scalp that smell unpleasant,seborrheic_dermatitis,"yellow crusts, odor",scalp,moderate,synthetic
+My forehead hairline has flaky greasy scales that keep returning,seborrheic_dermatitis,"flaky, greasy, recurring",forehead hairline,moderate,synthetic
+Red patches with oily looking flakes on my face,seborrheic_dermatitis,"red patches, oily flakes",face,moderate,synthetic
+Scaly irritated skin in my ear canals and behind ears,seborrheic_dermatitis,"scaly, irritated",ears,moderate,synthetic
+Yellowish oily flakes in the folds of my nose that are itchy,seborrheic_dermatitis,"yellowish, oily, itchy, nose folds",nose folds,moderate,synthetic
+My mustache area has red flaky patches with greasy looking scales,seborrheic_dermatitis,"red, flaky, greasy, mustache area",upper lip,moderate,synthetic
+Dandruff that gets much worse during winter months with thick flakes,seborrheic_dermatitis,"dandruff, winter worse, thick flakes",scalp,moderate,synthetic
+Red itchy patches on my chest in a V shape with yellowish scales,seborrheic_dermatitis,"V shaped, red, yellowish scales",chest,moderate,synthetic
+Flaky skin on my eyelids with slight redness and mild itching,seborrheic_dermatitis,"flaky eyelids, redness, mild itch",eyelids,mild,synthetic
+My scalp gets extremely itchy and produces large greasy flakes when stressed,seborrheic_dermatitis,"itchy, greasy flakes, stress trigger",scalp,moderate,synthetic
+Yellow oily crusts on my baby's soft spot area on top of the head,seborrheic_dermatitis,"yellow oily crusts, baby, fontanelle",top of head,moderate,synthetic
+Red scaly patches in the skin folds behind my ears that come and go,seborrheic_dermatitis,"red, scaly, behind ears, intermittent",behind ears,moderate,synthetic
+I have flaking skin on my upper back with slight itching and greasiness,seborrheic_dermatitis,"flaking, itching, greasy, upper back",upper back,moderate,synthetic
+My scalp produces thick white flakes that stick to my hair and fall on clothes,seborrheic_dermatitis,"thick white flakes, sticky, visible",scalp,moderate,synthetic
+Red irritated patches between my eyebrows with yellowish greasy scales,seborrheic_dermatitis,"red, irritated, yellowish, greasy",between eyebrows,moderate,synthetic
+Itchy flaking skin on the sides of my nose that looks oily,seborrheic_dermatitis,"itchy, flaking, oily",sides of nose,mild,synthetic
+Greasy yellowish crust buildup on my scalp near the ears,seborrheic_dermatitis,"greasy crust, yellowish, near ears",scalp near ears,moderate,synthetic
+My beard area gets red and flaky with waxy looking scales especially in cold weather,seborrheic_dermatitis,"red, flaky, waxy scales, cold trigger",beard,moderate,synthetic
+Persistent dandruff like flaking on my eyebrows that returns within days of treatment,seborrheic_dermatitis,"persistent flaking, eyebrows, returns quickly",eyebrows,moderate,synthetic
+Red scaly patches on my mid chest with greasy yellow flakes,seborrheic_dermatitis,"red, scaly, greasy yellow flakes",mid chest,moderate,synthetic
+Itchy irritated skin around my nostrils with visible flakes,seborrheic_dermatitis,"itchy, irritated, visible flakes",around nostrils,mild,synthetic
+My scalp has patches of thick yellow scale that are hard to remove,seborrheic_dermatitis,"thick yellow scale, hard to remove",scalp,moderate,synthetic
+Flaky red patches on the skin between my sideburns and ears,seborrheic_dermatitis,"flaky, red, sideburn area",sideburns,moderate,synthetic
+Greasy looking scales on my forehead just above the eyebrows,seborrheic_dermatitis,"greasy scales, forehead",above eyebrows,mild,synthetic
+Intense itching between my fingers especially at night,scabies,"intense itching, nighttime, between fingers",fingers,moderate,synthetic
+Small burrow lines visible on my wrist with extreme itchiness,scabies,"burrow lines, extreme itch",wrist,moderate,synthetic
+My whole family has developed the same itchy rash in the past two weeks,scabies,"family spread, itchy rash",various,moderate,synthetic
+Tiny red bumps in a line on my hands that itch terribly at night,scabies,"red bumps, linear, night itch",hands,moderate,synthetic
+Itching that gets much worse at bedtime all over my body,scabies,"nighttime itch, whole body",whole body,moderate,synthetic
+Small pimple like bumps in my armpits and waist area with severe itch,scabies,"pimple like bumps, severe itch",armpits and waist,moderate,synthetic
+Intense itch between my toes and on my wrists with tiny blisters,scabies,"intense itch, blisters",toes and wrists,moderate,synthetic
+I can see thin gray lines on my skin between my fingers,scabies,"thin gray lines, burrows",between fingers,moderate,synthetic
+Red irritated skin in my elbow folds with constant scratching urge,scabies,"red, irritated, scratching urge",elbow folds,moderate,synthetic
+My child is scratching constantly especially at night and has bumps on wrists,scabies,"constant scratching, night, child",wrists,moderate,synthetic
+Extremely itchy rash on my belly and inner thighs worse at night,scabies,"extremely itchy, nighttime worse",belly and thighs,moderate,synthetic
+Small raised bumps and tunnels visible under skin on my palms,scabies,"raised bumps, tunnels, under skin",palms,moderate,synthetic
+Severe itching at night with rash spreading to new body parts each week,scabies,"severe night itch, spreading rash",various,severe,synthetic
+Crusty sores from scratching the intensely itchy bumps between my fingers,scabies,"crusty sores, scratching, intense itch",between fingers,severe,synthetic
+Itchy pimple like rash around my waistline and navel area,scabies,"pimple like rash, itchy",waistline and navel,moderate,synthetic
+My roommate and I both developed intense itching at the same time,scabies,"shared living, simultaneous itch",various,moderate,synthetic
+Thin wavy lines on the web spaces of my fingers that itch unbearably,scabies,"wavy lines, web spaces, unbearable itch",finger web spaces,moderate,synthetic
+I have tiny blisters on the sides of my fingers that itch mostly at night,scabies,"tiny blisters, finger sides, night itch",finger sides,moderate,synthetic
+Red bumpy rash on my lower abdomen and groin that itches intensely at bedtime,scabies,"red bumpy, groin, bedtime itch",lower abdomen and groin,moderate,synthetic
+My partner and I both have itchy rash in the same areas on our bodies,scabies,"partner spread, matching rash areas",various,moderate,synthetic
+Intense itching on my wrists and between fingers that keeps me awake at night,scabies,"intense itch, wrists, insomnia",wrists and fingers,moderate,synthetic
+Small red dots and scratch marks all over my arms and belly from constant itching,scabies,"red dots, scratch marks, constant itch",arms and belly,moderate,synthetic
+I can see S shaped tracks under the skin on my inner wrist,scabies,"S shaped tracks, under skin",inner wrist,moderate,synthetic
+Itchy bumps around my belt line and underwear area that are worst at night,scabies,"itchy bumps, clothing line, nighttime",belt and underwear line,moderate,synthetic
+Pimple like spots on my elbows and knees with terrible nighttime itching,scabies,"pimple spots, elbows knees, night itch",elbows and knees,moderate,synthetic
+My baby has tiny red bumps on the palms and soles that make them very fussy,scabies,"red bumps, palms soles, baby, fussy",palms and soles,moderate,synthetic
+Intense widespread itch that started two weeks after staying at a hostel,scabies,"widespread itch, hostel contact, delayed onset",whole body,moderate,synthetic
+Bumps and blisters in the creases of my body that itch especially under warm covers,scabies,"bumps, blisters, body creases, warmth trigger",body creases,moderate,synthetic
+I noticed track marks between my toes along with severe itching at night,scabies,"track marks, between toes, night itch",between toes,moderate,synthetic
+Red itchy bumps on the front of my wrists and sides of my hands,scabies,"red bumps, wrist front, hand sides",wrists and hands,moderate,synthetic
+Scratching makes the itching worse and new bumps keep appearing on my torso,scabies,"worsens with scratching, new bumps, torso",torso,moderate,synthetic
+Entire family scratching with tiny bumps between fingers and on wrists,scabies,"family outbreak, tiny bumps, fingers wrists",fingers and wrists,moderate,synthetic
+Unbearable itch on my hands and feet at night with visible tiny burrows,scabies,"unbearable itch, hands feet, visible burrows",hands and feet,moderate,synthetic
+Small itchy nodules on my groin area that appeared after the itching started,scabies,"itchy nodules, groin, secondary to itch",groin,moderate,synthetic
+Red scabby patches on my elbows from scratching the intense itch all night,scabies,"scabby patches, elbows, scratching",elbows,severe,synthetic
+Painful inflamed cysts on my cheeks that take weeks to heal,acne,"cysts, painful, slow healing",cheeks,severe,synthetic
+Tiny whiteheads along my hairline that I notice when I pull my hair back,acne,"whiteheads, hairline",hairline,mild,synthetic
+My skin gets bumpy and breaks out after wearing a face mask all day,acne,"breakout, mask trigger",face,moderate,synthetic
+Open and closed comedones scattered all over my chin and nose,acne,"comedones, scattered",chin and nose,moderate,synthetic
+Red angry pimples around my mouth that are swollen and tender,acne,"red pimples, swollen, tender",around mouth,moderate,synthetic
+I squeeze my blackheads and now have inflamed red spots on my nose,acne,"blackheads, inflamed from squeezing",nose,moderate,synthetic
+Rough textured bumpy skin on my cheeks that never fully clears up,acne,"bumpy texture, persistent",cheeks,moderate,synthetic
+Pimples and pustules on my upper chest that get worse in summer heat,acne,"pustules, heat trigger",upper chest,moderate,synthetic
+Small hard bumps under the skin on my chin that you can only feel not see,acne,"hard bumps, subclinical",chin,mild,synthetic
+Cluster of whiteheads and red bumps near my sideburns area,acne,"whiteheads, red bumps, cluster",sideburns,moderate,synthetic
+My nose has big visible pores with blackheads trapped inside them,acne,"visible pores, trapped blackheads",nose,mild,synthetic
+Acne scarring and new breakouts appearing at the same time on my cheeks,acne,"scarring, active breakouts",cheeks,moderate,synthetic
+Deep under the skin pimple on my forehead that is very painful to touch,acne,"deep pimple, painful, under skin",forehead,severe,synthetic
+Greasy shiny skin on my face with constant new pimples forming daily,acne,"greasy, shiny, constant new pimples",face,moderate,synthetic
+Red itchy bumps on my hands after using a new dish soap,contact_dermatitis,"red, itchy, dish soap trigger",hands,moderate,synthetic
+My thighs got a rash from sitting on a chair with nickel studs,contact_dermatitis,"rash, nickel trigger, chair",thighs,mild,synthetic
+Cracked bleeding fingertips from working with solvents without protection,contact_dermatitis,"cracked, bleeding, solvent trigger",fingertips,severe,synthetic
+Bumpy red rash on my foot shaped exactly like my shoe strap,contact_dermatitis,"bumpy rash, shoe strap shaped",foot,mild,synthetic
+Itchy red patches appeared on my arms after using a new body wash,contact_dermatitis,"itchy, red, body wash trigger",arms,moderate,synthetic
+My baby developed a diaper rash after switching to a new diaper brand,contact_dermatitis,"diaper rash, product switch",diaper area,moderate,synthetic
+Puffy red skin around my eyes from an allergic reaction to eye cream,contact_dermatitis,"puffy, red, eye cream trigger",around eyes,moderate,synthetic
+Blisters on my palms after handling certain plants in the garden,contact_dermatitis,"blisters, plant contact",palms,moderate,synthetic
+Red burning skin on my chest from a new body lotion I tried yesterday,contact_dermatitis,"red, burning, lotion trigger",chest,moderate,synthetic
+I got an itchy rash on my ankle from the elastic band of my socks,contact_dermatitis,"itchy rash, elastic band trigger",ankle,mild,synthetic
+My neck turned red and bumpy after wearing a new wool sweater,contact_dermatitis,"red, bumpy, wool trigger",neck,moderate,synthetic
+Dry flaky patches on my fingertips from handling paper all day at work,contact_dermatitis,"dry, flaky, paper handling trigger",fingertips,mild,synthetic
+Red inflamed skin on my wrists where my watch clasp touches my skin,contact_dermatitis,"red, inflamed, watch clasp trigger",wrists,mild,synthetic
+Burning itchy rash on my armpits after applying a new antiperspirant,contact_dermatitis,"burning, itchy, antiperspirant trigger",armpits,moderate,synthetic
+My face became red and swollen after a facial treatment with new products,contact_dermatitis,"red, swollen, facial treatment trigger",face,moderate,synthetic
+Dry rough patches on my hands that appeared after cleaning with ammonia,contact_dermatitis,"dry, rough, ammonia trigger",hands,moderate,synthetic
+Blistering on my forearms from contact with a wild plant during hiking,eczema,"blistering, plant contact",forearms,moderate,synthetic
+My toddler has red scaly cheeks that get worse in dry cold weather,eczema,"red, scaly, cold weather trigger, child",cheeks,moderate,synthetic
+Small fluid filled bumps on the sides of my fingers that itch intensely,eczema,"fluid filled bumps, itchy",finger sides,moderate,synthetic
+Red irritated rash in the folds of my baby's neck and arms,eczema,"red, irritated, skin folds, baby",neck and arm folds,moderate,synthetic
+My legs have very dry ashy patches that crack and become painful,eczema,"dry, ashy, cracking, painful",legs,moderate,synthetic
+Itchy red rash on my feet that flares up when I wear certain shoes,eczema,"itchy, red, shoe trigger",feet,moderate,synthetic
+Thickened skin on the backs of my hands from chronic scratching,eczema,"thickened, chronic scratching",backs of hands,severe,synthetic
+Extremely dry irritated skin around my mouth that peels and stings,eczema,"dry, irritated, peeling, stinging",around mouth,moderate,synthetic
+My inner elbows and behind my knees are always red dry and itchy,eczema,"red, dry, itchy, flexural areas",inner elbows and behind knees,moderate,synthetic
+I developed small itchy water blisters on my palms and soles,eczema,"water blisters, itchy, palms soles",palms and soles,moderate,synthetic
+Red bumpy rash on my eyelids that makes them feel dry and irritated,eczema,"red, bumpy, dry eyelids",eyelids,moderate,synthetic
+My child wakes up scratching every night because of eczema on arms,eczema,"nighttime scratching, child, arms",arms,moderate,synthetic
+Flaky dry patches on my hands that bleed when the skin cracks open,eczema,"flaky, dry, bleeding cracks",hands,severe,synthetic
+Round coin shaped itchy patches on my lower legs,eczema,"coin shaped, itchy, lower legs",lower legs,moderate,synthetic
+Itchy weeping patches behind my ears that crust over and come back,eczema,"itchy, weeping, crusting, recurring",behind ears,moderate,synthetic
+Swollen red raised welts on my back after eating a mango,hives,"swollen, welts, mango trigger",back,moderate,synthetic
+I developed hives on my hands and forearms after touching a cat,hives,"hives, cat contact trigger",hands and forearms,moderate,synthetic
+Itchy red blotches on my torso that flatten when I press on them,hives,"itchy blotches, blanching",torso,moderate,synthetic
+My entire body got covered in welts after taking a new supplement,hives,"entire body welts, supplement trigger",whole body,severe,synthetic
+Large puffy red patches on my back that lasted about four hours,hives,"puffy patches, transient, four hours",back,moderate,synthetic
+I get small hives on my hands whenever I handle raw flour,hives,"small hives, flour trigger",hands,mild,synthetic
+Itchy raised patches on my upper arms that move around my body during the day,hives,"raised patches, migratory",upper arms,moderate,synthetic
+Welts on my thighs that appeared shortly after sitting on a cold bench,hives,"welts, cold trigger, thighs",thighs,moderate,synthetic
+Red swelling on my face and neck after using a new detergent on pillowcases,hives,"red swelling, detergent trigger",face and neck,moderate,synthetic
+My trunk gets covered in red itchy bumps every time I take aspirin,hives,"red bumps, aspirin trigger",trunk,moderate,synthetic
+Hives that appear on my feet and ankles after standing for long periods,hives,"hives, standing trigger",feet and ankles,mild,synthetic
+Large itchy wheals on my arms that appeared after a wasp sting nearby,hives,"wheals, wasp sting trigger",arms,moderate,synthetic
+My child breaks out in hives after eating strawberries,hives,"hives, strawberry trigger, child",various,moderate,synthetic
+Raised itchy patches that first appear on my chest then spread to my arms,hives,"raised patches, spreading, chest to arms",chest and arms,moderate,synthetic
+Hives on my legs and torso that get worse when I scratch them,hives,"hives, worse with scratching",legs and torso,moderate,synthetic
+Red wheals across my shoulders that appeared after heavy backpack use,hives,"wheals, pressure trigger, backpack",shoulders,moderate,synthetic
+Round ring shaped itchy lesion on my leg from a gym shower floor,ringworm,"ring shaped, gym shower contact",leg,moderate,synthetic
+My child got a circular red patch on the cheek after hugging a friend,ringworm,"circular patch, close contact, child",cheek,moderate,synthetic
+Dry scaly ring on my upper back that is slowly expanding over weeks,ringworm,"dry, scaly ring, slowly expanding",upper back,moderate,synthetic
+Itchy red spot on my hand with a clear middle and bumpy raised edges,ringworm,"itchy, clear middle, bumpy edges",hand,moderate,synthetic
+I developed a ring shaped rash under my waistband area,ringworm,"ring rash, waistband area",waist,moderate,synthetic
+Circular scaly patch on my shin that appeared after playing football on grass,ringworm,"circular, scaly, grass contact",shin,moderate,synthetic
+Red expanding ring on my forearm with tiny blisters on the outer border,ringworm,"expanding ring, tiny blisters, border",forearm,moderate,synthetic
+My nails became thick and discolored with a yellowish crumbly texture,ringworm,"thick nails, discolored, crumbly",nails,moderate,synthetic
+Itchy round red patch appeared on my daughter's arm after swimming class,ringworm,"itchy, round, swimming contact, child",arm,moderate,synthetic
+Ring shaped lesion on my waist area that gets itchier after exercise,ringworm,"ring shaped, exercise trigger",waist,moderate,synthetic
+Red scaly circle on my upper arm that my doctor said looks like tinea,ringworm,"red, scaly circle, tinea",upper arm,moderate,synthetic
+Circular bald patch on my scalp with broken hairs and red flaky border,ringworm,"bald patch, broken hairs, flaky border",scalp,moderate,synthetic
+Itchy ring shaped rash near my groin that gets worse in hot weather,ringworm,"ring rash, groin, hot weather worse",groin,moderate,synthetic
+I noticed a red circle on my calf that grew bigger over a week,ringworm,"red circle, growing, one week",calf,moderate,synthetic
+Round lesion on my chest with raised borders and clearing in the center,ringworm,"round, raised borders, central clearing",chest,moderate,synthetic
+My face feels hot and tingly with visible small veins under the skin,rosacea,"hot, tingly, visible veins",face,moderate,synthetic
+Pimple like bumps on my nose and cheeks but no blackheads like real acne,rosacea,"pimple-like, no blackheads",nose and cheeks,moderate,synthetic
+I blush very easily and my face stays red long after the trigger is gone,rosacea,"easy blushing, prolonged redness",face,mild,synthetic
+Bumpy red irritated skin on my chin with flaking and tightness,rosacea,"bumpy, red, flaking, tightness",chin,moderate,synthetic
+My cheeks have a network of tiny broken blood vessels visible under skin,rosacea,"broken blood vessels, network",cheeks,moderate,synthetic
+Red nose and cheeks with stinging sensation whenever wind hits my face,rosacea,"red, stinging, wind trigger",nose and cheeks,moderate,synthetic
+Recurring facial flushing with small raised bumps that never fully clear,rosacea,"flushing, raised bumps, chronic",face,moderate,synthetic
+My eyes water constantly and feel gritty along with red cheeks,rosacea,"watery eyes, gritty, red cheeks",eyes and cheeks,moderate,synthetic
+Red swollen bumps around my nose that look inflamed and are sore,rosacea,"red, swollen, inflamed, sore",around nose,moderate,synthetic
+My forehead and nose bridge are always pink with visible tiny capillaries,rosacea,"persistent pink, visible capillaries",forehead and nose,moderate,synthetic
+Facial skin that stings and turns red after applying any kind of cream,rosacea,"stinging, redness, product reaction",face,moderate,synthetic
+Chronic redness on my chin and jawline with occasional pustules,rosacea,"chronic redness, occasional pustules",chin and jawline,moderate,synthetic
+I notice my face gets bright red whenever I enter a heated room,rosacea,"bright red, heat trigger",face,moderate,synthetic
+Small red papules on my cheeks that flare up and calm down unpredictably,rosacea,"papules, unpredictable flares",cheeks,moderate,synthetic
+My nose skin is thickening and becoming bumpy with large pores,rosacea,"thickening, bumpy, large pores",nose,severe,synthetic
+Red flushed face with a warm burning feeling that lasts for hours,rosacea,"flushed, warm burning, prolonged",face,moderate,synthetic
+Itching all over body that starts exactly when I get into bed at night,scabies,"whole body itch, bedtime onset",whole body,moderate,synthetic
+Tiny red spots between my fingers and on my wrists with relentless itch,scabies,"red spots, between fingers, wrists, relentless",fingers and wrists,moderate,synthetic
+My children at daycare all have the same intensely itchy rash,scabies,"daycare spread, children, itchy rash",various,moderate,synthetic
+Visible zigzag lines on the skin of my hands with terrible nighttime itch,scabies,"zigzag lines, hands, nighttime itch",hands,moderate,synthetic
+Red bumpy rash in my armpit folds that itches badly when I get warm,scabies,"red, bumpy, armpit folds, warmth trigger",armpits,moderate,synthetic
+Itchy blisters on the soles of my feet and between my toes at night,scabies,"blisters, soles, between toes, nighttime",feet,moderate,synthetic
+Constant urge to scratch my wrists and hands especially after a hot shower,scabies,"scratching urge, wrists, hot shower trigger",wrists and hands,moderate,synthetic
+Thin pencil mark like lines on my inner wrist with severe itching,scabies,"pencil mark lines, inner wrist, severe itch",inner wrist,moderate,synthetic
+Red raw skin from scratching between my fingers all night long,scabies,"raw skin, scratching, between fingers, nighttime",between fingers,severe,synthetic
+Pimple like bumps along my waistband that drive me crazy with itching at night,scabies,"pimple bumps, waistband, nighttime itch",waist,moderate,synthetic
+My elderly parent has thick crusted patches with intense itch all over body,scabies,"thick crusts, intense itch, elderly",whole body,severe,synthetic
+Raised red bumps on inner thighs and groin that itch unbearably after dark,scabies,"raised bumps, inner thighs, groin, evening itch",inner thighs and groin,moderate,synthetic
+Small bumps and blisters on the heel of my palm with itch worse under blankets,scabies,"bumps, blisters, palm heel, warmth worsens",palm,moderate,synthetic
+I have been itching for weeks and now my family members started itching too,scabies,"weeks of itch, family spread",various,moderate,synthetic
+Visible burrow tracks on the sides of my fingers with intense nighttime itch,scabies,"burrow tracks, finger sides, nighttime itch",finger sides,moderate,synthetic
+Itchy flaky greasy patches on my scalp that form thick white clumps,seborrheic_dermatitis,"itchy, flaky, greasy, thick clumps",scalp,moderate,synthetic
+Yellow greasy crusts forming in the folds around my nose every morning,seborrheic_dermatitis,"yellow crusts, nose folds, morning",nose folds,moderate,synthetic
+My beard itches with flaky red skin underneath that gets worse with stress,seborrheic_dermatitis,"beard itch, flaky, stress trigger",beard,moderate,synthetic
+Stubborn dandruff on my scalp with large oily flakes and constant itch,seborrheic_dermatitis,"stubborn dandruff, oily flakes, constant itch",scalp,moderate,synthetic
+Red greasy patches on my chest in a butterfly pattern with yellow scales,seborrheic_dermatitis,"red, greasy, butterfly pattern, yellow scales",chest,moderate,synthetic
+Flaking skin on the bridge of my nose and inner eyebrow corners,seborrheic_dermatitis,"flaking, nose bridge, inner eyebrows",nose and eyebrows,mild,synthetic
+My scalp is extremely itchy with yellow waxy buildup along the hairline,seborrheic_dermatitis,"itchy, yellow waxy buildup, hairline",scalp and hairline,moderate,synthetic
+Red irritated skin with greasy scales in the creases of my ears,seborrheic_dermatitis,"red, irritated, greasy scales, ear creases",ears,moderate,synthetic
+I have persistent flaking and redness on my forehead and nasolabial folds,seborrheic_dermatitis,"persistent flaking, redness, forehead and nasolabial",forehead and nose folds,moderate,synthetic
+My baby's scalp has thick yellowish crusty patches that are spreading,seborrheic_dermatitis,"thick yellow crusts, spreading, baby",scalp,moderate,synthetic
+Greasy looking dandruff flakes stuck to my hair that are hard to remove,seborrheic_dermatitis,"greasy dandruff, stuck to hair",scalp,moderate,synthetic
+Red scaly patches behind both ears that get oily and flaky,seborrheic_dermatitis,"red, scaly, oily, behind both ears",behind ears,moderate,synthetic
+Itchy redness and flaking in my outer ear canal that never fully clears,seborrheic_dermatitis,"itchy, redness, flaking, ear canal, chronic",ear canal,moderate,synthetic
+My eyebrow area gets crusty with yellowish greasy flakes periodically,seborrheic_dermatitis,"crusty, yellowish, greasy, periodic",eyebrows,moderate,synthetic
+Heavy white dandruff falling on my shoulders no matter how often I wash,seborrheic_dermatitis,"heavy dandruff, persistent, white flakes",scalp and shoulders,moderate,synthetic
+White patches appearing on my forearms that contrast against my tan,vitiligo,"white patches, contrast with tan",forearms,moderate,synthetic
+I noticed my knuckles and fingertips are losing color and turning white,vitiligo,"losing color, knuckles, fingertips",hands,moderate,synthetic
+Pale spots on my neck that have been slowly getting larger over a year,vitiligo,"pale spots, slowly enlarging",neck,moderate,synthetic
+White depigmented patches on my shins that appeared after a sunburn,vitiligo,"depigmented, post sunburn onset",shins,moderate,synthetic
+My skin around both eyes has become noticeably lighter than the rest of my face,vitiligo,"lighter skin, around eyes, bilateral",around eyes,moderate,synthetic
+Round white spots on my upper arms that do not tan in summer,vitiligo,"round white spots, no tanning",upper arms,moderate,synthetic
+Patchy loss of skin color on the tops of my feet spreading to ankles,vitiligo,"patchy color loss, spreading",feet and ankles,moderate,synthetic
+I have a large white patch on my thigh that appeared six months ago,vitiligo,"large white patch, six month duration",thigh,moderate,synthetic
+Depigmented streaks in my hair along with white patches on my scalp,vitiligo,"depigmented hair, white scalp patches",scalp and hair,moderate,synthetic
+Small milky white dots on my shoulders that are multiplying slowly,vitiligo,"milky white dots, multiplying",shoulders,moderate,synthetic
+My lower lip has a white patch where pigment has completely disappeared,vitiligo,"white patch, lip, pigment loss",lower lip,moderate,synthetic
+Symmetrical loss of skin color on both hands and wrists over the past year,vitiligo,"symmetrical, color loss, bilateral",hands and wrists,moderate,synthetic
+White patches under my armpits that are gradually expanding outward,vitiligo,"white patches, armpits, expanding",underarms,moderate,synthetic
+I noticed a depigmented area around my belly button that keeps growing,vitiligo,"depigmented, belly button, growing",belly button,moderate,synthetic
+Irregular white patches on my back that I only noticed when someone pointed them out,vitiligo,"irregular white patches, incidental finding",back,moderate,synthetic

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skin Disease Chatbot</title>
+  <meta name="description" content="A college NLP project that suggests a possible skin condition category from a plain-language symptom description. Informational only.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%232c6b57'/%3E%3Ctext x='16' y='22' font-size='18' font-family='monospace' font-weight='700' text-anchor='middle' fill='%23f4f6f3'%3ES%3C/text%3E%3C/svg%3E">
+  <link rel="preload" href="{{ url_for('static', filename='fonts/geist.woff2') }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <a class="skip" href="#symptomInput">Skip to message box</a>
+
+  <div class="app">
+    <header class="bar">
+      <div class="avatar" aria-hidden="true">S</div>
+      <div class="who">
+        <strong>Skin Assistant</strong>
+        <span>NLP course project. Informational only.</span>
+      </div>
+      <button class="reset" id="resetBtn" type="button">New chat</button>
+    </header>
+
+    <main class="log" id="log" aria-live="polite" aria-label="Conversation"></main>
+
+    <form class="composer" id="form" novalidate>
+      <div class="field">
+        <label for="symptomInput" hidden>Describe your symptoms</label>
+        <input id="symptomInput" type="text" autocomplete="off" maxlength="300"
+               placeholder="Describe your symptoms, e.g. dry cracked skin behind my knees">
+        <button class="send" id="sendBtn" type="submit">Send</button>
+      </div>
+      <p class="hint">Not a diagnosis. See a dermatologist for any skin concern.</p>
+    </form>
+  </div>
+
+  <script>
+    const log = document.getElementById("log");
+    const form = document.getElementById("form");
+    const input = document.getElementById("symptomInput");
+    const sendBtn = document.getElementById("sendBtn");
+    const resetBtn = document.getElementById("resetBtn");
+
+    const EXAMPLES = [
+      "itchy red patches on my elbows",
+      "small pimples and oily skin on my face",
+      "circular ring shaped rash on my arm",
+      "white patches where my skin lost color",
+      "intense itching between my fingers at night",
+    ];
+
+    const esc = (s) => {
+      const d = document.createElement("div");
+      d.textContent = s;
+      return d.innerHTML;
+    };
+
+    const clock = () =>
+      new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+
+    function toEnd() {
+      requestAnimationFrame(() => {
+        log.scrollTop = log.scrollHeight;
+      });
+    }
+
+    function row(who, inner, wide = false) {
+      const el = document.createElement("div");
+      el.className = `msg ${who}`;
+      const av = who === "bot"
+        ? '<div class="avatar sm" aria-hidden="true">S</div>'
+        : '<div class="avatar sm you" aria-hidden="true">You</div>';
+      el.innerHTML = `${av}<div class="stack${wide ? " wide" : ""}">${inner}<span class="time">${clock()}</span></div>`;
+      log.appendChild(el);
+      toEnd();
+      return el;
+    }
+
+    function greet() {
+      const chips = EXAMPLES.map((t) => `<button type="button" class="chip">${esc(t)}</button>`).join("");
+      const el = row("bot",
+        `<div class="bubble">Hi, I'm the Skin Assistant. Tell me what you see or feel on your skin and I'll suggest the closest match from ten common conditions.</div>
+         <div class="bubble note"><strong>Not medical advice.</strong> I can't diagnose anything. This is a college project.</div>
+         <div class="quick">${chips}</div>`);
+      el.querySelectorAll(".chip").forEach((b) =>
+        b.addEventListener("click", () => send(b.textContent))
+      );
+    }
+
+    function typing() {
+      return row("bot", '<div class="bubble"><div class="typing" aria-label="Typing"><span></span><span></span><span></span></div></div>');
+    }
+
+    function replyResult(data) {
+      const d = data.disease;
+      const tags = d.common_symptoms.map((s) => `<li>${esc(s)}</li>`).join("");
+      return row("bot",
+        `<div class="bubble">Thanks. Based on what you described, this is the closest match:</div>
+         <div class="bubble result">
+           <p class="head">Closest match</p>
+           <h3>${esc(d.name)}</h3>
+           <p class="about">${esc(d.description)}</p>
+           <dl class="facts">
+             <div class="fact"><dt>Often seen with</dt><dd><ul class="tags">${tags}</ul></dd></div>
+             <div class="fact"><dt>Usually appears on</dt><dd>${esc(d.typically_affects)}</dd></div>
+             <div class="fact"><dt>General advice</dt><dd>${esc(d.general_advice)}</dd></div>
+           </dl>
+           <p class="caveat">${esc(data.disclaimer)}</p>
+         </div>`, true);
+    }
+
+    function replyError(msg) {
+      return row("bot", `<div class="bubble err" role="alert">${esc(msg)}</div>`);
+    }
+
+    async function send(text) {
+      text = text.trim();
+      if (!text) return;
+      input.value = "";
+      sendBtn.disabled = true;
+      row("user", `<div class="bubble">${esc(text)}</div>`);
+      const wait = typing();
+      try {
+        const [res] = await Promise.all([
+          fetch("/predict", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ symptoms: text }),
+          }),
+          new Promise((r) => setTimeout(r, 600)),
+        ]);
+        const data = await res.json();
+        wait.remove();
+        if (!res.ok) replyError(data.error || "Something went wrong. Please try again.");
+        else replyResult(data);
+      } catch (e) {
+        wait.remove();
+        replyError("I couldn't reach the server. Check that the app is running and try again.");
+      }
+      sendBtn.disabled = false;
+      input.focus();
+    }
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      send(input.value);
+    });
+
+    resetBtn.addEventListener("click", () => {
+      log.innerHTML = "";
+      greet();
+      input.focus();
+    });
+
+    greet();
+  </script>
+</body>
+</html>

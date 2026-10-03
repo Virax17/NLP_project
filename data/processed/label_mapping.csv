@@ -1,0 +1,11 @@
+disease,label
+acne,0
+contact_dermatitis,1
+eczema,2
+hives,3
+psoriasis,4
+ringworm,5
+rosacea,6
+scabies,7
+seborrheic_dermatitis,8
+vitiligo,9

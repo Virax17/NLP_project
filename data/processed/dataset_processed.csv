@@ -1,0 +1,502 @@
+processed_text,disease,label
+itchy red patch elbow knee keep coming back,psoriasis,4
+skin thick silvery scale scalp flake lot,psoriasis,4
+red inflamed skin white flaky buildup arm,psoriasis,4
+get painful cracked skin hand during winter red plaque,psoriasis,4
+dry scaly patch behind ear very itchy,psoriasis,4
+nail become pitted separating nail bed,psoriasis,4
+thick red patch covered silvery white scale lower back,psoriasis,4
+widespread red scaly plaque trunk limb,psoriasis,4
+small drop shaped red spot appeared suddenly torso after throat infection,psoriasis,4
+itchy burning sensation red patch shin,psoriasis,4
+persistent flaky scalp thick crust go away regular shampoo,psoriasis,4
+red patch well defined border knee,psoriasis,4
+painful cracking skin between finger red scaly patch,psoriasis,4
+elbow rough raised red patch bleed scratch,psoriasis,4
+symmetric red scaly patch both knee elbow,psoriasis,4
+thick white scale flake constantly scalp,psoriasis,4
+red raised patch forearm silvery coating,psoriasis,4
+skin crack bleeds palm dry scaly plaque,psoriasis,4
+noticed red patch forming along hairline silvery flake,psoriasis,4
+itchy red spot leg thick scaly buildup,psoriasis,4
+toenail thick discolored crumbling psoriasis,psoriasis,4
+painful red patch armpit fold crack move,psoriasis,4
+scaly red patch appeared chest after stressful period,psoriasis,4
+white flaky patch eyebrow look like dandruff thicker,psoriasis,4
+coin shaped red plaque arm leg silver scale,psoriasis,4
+burning itchy patch back neck thick scale,psoriasis,4
+red patch belly button area scaly white buildup,psoriasis,4
+entire back covered large red scaly patch,psoriasis,4
+small red dot all over body appeared after strep throat,psoriasis,4
+thick scaly patch foot sol crack hurt walking,psoriasis,4
+dry red patch forehead keep flaking no matter,psoriasis,4
+get inverse psoriasis groin fold smooth red patch,psoriasis,4
+silvery white plaque upper arm raised rough,psoriasis,4
+red scaly rash ear bleeds easily irritated,psoriasis,4
+stiff sore joint along red scaly skin patch knee,psoriasis,4
+scalp very thick white buildup come big flake,psoriasis,4
+red irritated skin patch around navel silvery scaling,psoriasis,4
+patch raised red skin thigh white dry flake,psoriasis,4
+get psoriasis flare ups red itchy patch stressed,psoriasis,4
+widespread silvery scale covering large part leg arm,psoriasis,4
+cracked bleeding skin heel thick scaly patch,psoriasis,4
+red patch around eye fine silvery scale,psoriasis,4
+thick reddish patch shoulder itch after showering,psoriasis,4
+fingernail tiny dent turning yellowish,psoriasis,4
+red scaly skin ankle flare cold weather,psoriasis,4
+dry patchy skin wrist well defined red border,psoriasis,4
+large thick plaque buttock silver white coating,psoriasis,4
+itchy red lesion elbow worsen drink alcohol,psoriasis,4
+flaky white patch chin underlying redness,psoriasis,4
+psoriatic patch knuckle crack bleed dry air,psoriasis,4
+small pimple face oily skin,acne,0
+forehead covered blackhead whitehead,acne,0
+get painful cystic bump chin every month,acne,0
+red inflamed bump cheek pu,acne,0
+back lot pimple scarring old breakout,acne,0
+oily skin small raised bump all over forehead,acne,0
+deep painful nodule under skin jawline,acne,0
+lot tiny bump nose visible pore,acne,0
+recurring breakout temple hairline area,acne,0
+chest acne red bump occasional whitehead,acne,0
+comedo papule across zone area,acne,0
+pu filled pimple shoulder upper back,acne,0
+hormonal breakout along jawline deep cyst,acne,0
+small flesh colored bump forehead go away,acne,0
+face get very oily midday develop new pimple,acne,0
+cluster small red bump chin tender touch,acne,0
+wake new pimple every morning mostly cheek,acne,0
+blackhead along side nose enlarged pore,acne,0
+neck painful red bump sometimes leave dark scar,acne,0
+white pu bump forehead along oily shiny skin,acne,0
+large painful lump under skin cheek come head,acne,0
+upper arm tiny rough bump look like goosebump,acne,0
+acne flare ups around period deep bump chin jaw,acne,0
+red angry looking pimple back hurt lean chair,acne,0
+multiple whitehead chin area keep coming back,acne,0
+dark spot scar left behind after pimple heal face,acne,0
+skin break every time eat dairy product bump face,acne,0
+clogged pore nose chin blackhead inflammation,acne,0
+get acne buttock red painful bump,acne,0
+tiny closed comedo covering cheek make skin look bumpy,acne,0
+inflamed red pimple jawline leave purple mark,acne,0
+shoulder break small pu filled pimple summer,acne,0
+hard painful bump under skin near ear week,acne,0
+lot small bump under skin forehead called fungal acne,acne,0
+red swollen pimple tip nose very painful,acne,0
+constant breakout chest area whitehead red bump,acne,0
+itchy dry skin crease elbow,eczema,2
+red rashy patch baby cheek ooze sometimes,eczema,2
+hand extremely dry cracked itchy especially winter,eczema,2
+itchy bumpy rash behind knee get worse night,eczema,2
+dry flaky patch eyelid red irritated,eczema,2
+rough textured skin upper arm like chicken skin,eczema,2
+weeping blister finger crust over itch terribly,eczema,2
+red irritated patch neck fold get worse sweat,eczema,2
+skin feel tight burn apply moisturizer affected area,eczema,2
+chronic itchy rash ankle leaf dark mark,eczema,2
+dry scaly patch wrist intense itching,eczema,2
+child red itchy patch face scalp since infancy,eczema,2
+skin thickening darkening inner elbow constant scratching,eczema,2
+very dry skin all over body patch flare periodically,eczema,2
+itchy patch weep clear fluid scratch,eczema,2
+rough bumpy patch back arm feel like sandpaper,eczema,2
+baby crusty yellow patch scalp behind ear,eczema,2
+extremely itchy rash crease knee elbow night,eczema,2
+dry cracked skin lip peel sting,eczema,2
+hand develop tiny itchy blister pop ooze clear fluid,eczema,2
+dark thickened skin neck year scratching itch,eczema,2
+red itchy rash around eye make eyelid swollen,eczema,2
+scratch skin raw night itching intense,eczema,2
+circular dry patch cheek feel rough scaly,eczema,2
+finger crack bleed winter very dry irritated skin,eczema,2
+red inflamed skin armpit crease weeps sting,eczema,2
+dry itchy patch shin leave ashy white mark,eczema,2
+eczema flare whenever use scented soap lotion,eczema,2
+small itchy vesicle side finger warm weather,eczema,2
+crusty oozing rash behind toddler ear keep returning,eczema,2
+very dry rough skin back knee constant urge scratch,eczema,2
+red irritated patch inner thigh skin rub together,eczema,2
+eyelid swollen dry flaky redness come go,eczema,2
+itchy red rash hand get worse wash dish,eczema,2
+thick leathery patch ankle rubbing scratching over year,eczema,2
+circular red ring shaped rash arm,ringworm,5
+itchy round patch raised edge clear center thigh,ringworm,5
+scaly ring shaped spot appearing chest,ringworm,5
+red circular lesion neck expanding outward,ringworm,5
+got ring shaped itchy spot after playing stray cat,ringworm,5
+multiple circular red patch stomach flaky border,ringworm,5
+itchy ring groin area spread sweat,ringworm,5
+scalp bald patch scaly red border,ringworm,5
+round itchy patch between toe peeling skin,ringworm,5
+circular rash forearm small blister along edge,ringworm,5
+expanding ring shaped lesion back itch,ringworm,5
+red scaly ring face near beard area,ringworm,5
+jock itch circular red patch inner thigh,ringworm,5
+itchy circular rash child scalp hair loss area,ringworm,5
+round patch raised scaly border appeared wrist,ringworm,5
+itchy red ring upper arm started small keep growing,ringworm,5
+peeling skin between toe redness burning sensation,ringworm,5
+caught skin infection gym circular red rash,ringworm,5
+round red lesion forearm healing center active edge,ringworm,5
+child developed circular bald spot scalp after touching puppy,ringworm,5
+itchy rash groin fold distinct ring pattern,ringworm,5
+red circular spot shoulder appeared after using shared gym equipment,ringworm,5
+flaky scaly ring calf itch sweat,ringworm,5
+foot cracked peeling skin between toe red patch,ringworm,5
+annular red lesion abdomen slightly raised border,ringworm,5
+ring shaped rash chest spreading two week,ringworm,5
+athlete foot itchy peeling skin cracking between toe,ringworm,5
+multiple ring shaped red spot appeared back after wrestling practice,ringworm,5
+circular patch jawline tiny bump along edge,ringworm,5
+itchy red ring wrist spread warm humid weather,ringworm,5
+scaly round patch thigh get bigger every few day,ringworm,5
+red expanding circle arm dry flaky skin center,ringworm,5
+noticed round itchy lesion neck after sharing towel,ringworm,5
+ring like rash elbow appeared after contact infected pet,ringworm,5
+circular red patch both arm slightly raised scaly,ringworm,5
+white patch skin hand no pigment,vitiligo,9
+loss skin color patch around mouth eye,vitiligo,9
+white depigmented spot appearing arm spreading slowly,vitiligo,9
+hair turning white small patch scalp,vitiligo,9
+symmetrical white patch both knee,vitiligo,9
+noticed pale white spot face very visible,vitiligo,9
+skin fingertip lost all color turned completely white,vitiligo,9
+white patch chest back growing over month,vitiligo,9
+depigmented area around eye look lighter rest face,vitiligo,9
+white milky patch elbow wrist,vitiligo,9
+large area skin losing color torso,vitiligo,9
+white patch appeared genitals inner thigh,vitiligo,9
+skin patch melanin seems completely gone,vitiligo,9
+premature graying hair along white skin patch face,vitiligo,9
+small white spot leg slowly expanding merging,vitiligo,9
+pale colorless patch back hand appeared gradually,vitiligo,9
+lip lost pigment turned lighter area,vitiligo,9
+white patch neck become more obvious after sun exposure,vitiligo,9
+depigmented spot shin spreading calf,vitiligo,9
+patch white skin forehead near hairline,vitiligo,9
+eyelash turned white one small area along skin around,vitiligo,9
+completely white patch ankle year,vitiligo,9
+irregular shaped white patch upper back spreading slowly,vitiligo,9
+loss color skin around nostril corner mouth,vitiligo,9
+noticed white spot foot not tan sun,vitiligo,9
+underarms developed pale white patch both side,vitiligo,9
+depigmented ring around mole arm growing wider,vitiligo,9
+white patch scalp causing white hair grow area,vitiligo,9
+skin hand foot losing color symmetrically both side,vitiligo,9
+large area white skin abdomen without pigment,vitiligo,9
+milky white patch behind ear expanding,vitiligo,9
+gradual loss skin color elbow creating pale smooth patch,vitiligo,9
+white spot wrist merged larger patch over time,vitiligo,9
+beard area patch hair grows white skin pale,vitiligo,9
+depigmented patch knuckle finger joint both hand,vitiligo,9
+face turn very red flushed especially center face,rosacea,6
+visible blood vessel cheek nose,rosacea,6
+nose cheek get very red after drinking hot beverage,rosacea,6
+bumpy red skin forehead visible vein,rosacea,6
+face burn sting apply skincare product,rosacea,6
+persistent redness across nose cheek never go away,rosacea,6
+small red pu filled bump cheek look like acne,rosacea,6
+eye feel dry irritated along facial redness,rosacea,6
+flushing face triggered spicy food sun exposure,rosacea,6
+thickening skin nose enlarged pore redness,rosacea,6
+red bump chin forehead visible spider vein,rosacea,6
+face turn beet red warm environment stressed,rosacea,6
+swollen red nose bumpy texture broken blood vessel,rosacea,6
+sensitive facial skin reacts wind cold alcohol,rosacea,6
+central face redness papule pustule cheek,rosacea,6
+facial redness get worse eat spicy food drink wine,rosacea,6
+notice tiny red vein appearing cheek side nose,rosacea,6
+face feel hot prickly especially afternoon sun,rosacea,6
+bumpy red patch chin flare temperature change,rosacea,6
+red irritated eye swollen lid along red facial skin,rosacea,6
+cheek always look sunburned even though sun,rosacea,6
+rough bumpy texture nose enlarged pore permanent redness,rosacea,6
+get red blotchy patch face exercise feel embarrassed,rosacea,6
+small pimple like bump forehead not regular acne,rosacea,6
+face feel like fire after using most skincare product,rosacea,6
+watery irritated eye crusty eyelid red flushed cheek,rosacea,6
+visible network small blood vessel across entire nose,rosacea,6
+face flush bright red drink type alcohol,rosacea,6
+constant redness bridge nose inner cheek,rosacea,6
+grainy bumpy texture cheek underlying redness stinging,rosacea,6
+nose become bulbous red thickened bumpy skin,rosacea,6
+red flushing forehead cheek triggered hot shower,rosacea,6
+dry gritty feeling eye combined facial redness across cheek,rosacea,6
+persistent central face redness look like butterfly pattern,rosacea,6
+skin get red itchy after touching certain metal like nickel,contact_dermatitis,1
+developed rash new watch band touch wrist,contact_dermatitis,1
+blistering rash hand after using new cleaning product,contact_dermatitis,1
+red itchy patch necklace sits neck,contact_dermatitis,1
+skin reacted badly new laundry detergent red bump everywhere,contact_dermatitis,1
+itchy blister foot new shoe,contact_dermatitis,1
+red swollen eyelid after using new eye makeup,contact_dermatitis,1
+got rash arm after touching poison ivy garden,contact_dermatitis,1
+hand crack peel constant handwashing sanitizer use,contact_dermatitis,1
+rash under ring finger wedding ring sits,contact_dermatitis,1
+red streaky rash arm after gardening without glove,contact_dermatitis,1
+burning sensation redness scalp after using hair dye,contact_dermatitis,1
+itchy rash earlobe wearing cheap earring,contact_dermatitis,1
+face broke rash after trying new facial cream,contact_dermatitis,1
+dry peeling irritated skin hand latex glove use work,contact_dermatitis,1
+red bumpy rash wrist exactly fitness tracker band sits,contact_dermatitis,1
+hand get raw red washing harsh industrial soap work,contact_dermatitis,1
+itchy red rash neck new perfume started wearing,contact_dermatitis,1
+blister swelling foot after wearing rubber sandal,contact_dermatitis,1
+eyelid became puffy red after trying new mascara brand,contact_dermatitis,1
+red rash stomach belt buckle rub skin,contact_dermatitis,1
+got blistery rash hand after handling new brand cement,contact_dermatitis,1
+itchy red patch leg after shaving new shaving cream,contact_dermatitis,1
+underarms developed burning rash after switching deodorant brand,contact_dermatitis,1
+swollen itchy lip after using new lipstick,contact_dermatitis,1
+red irritated skin hand rubber glove touch wrist,contact_dermatitis,1
+skin peel crack fingertip handling cardboard all day,contact_dermatitis,1
+rash chest metal pendant necklace,contact_dermatitis,1
+itchy blister palm after using new hand sanitizer daily,contact_dermatitis,1
+red patch wrist appeared within hour wearing leather strap,contact_dermatitis,1
+burning red skin face after applying sunscreen never used before,contact_dermatitis,1
+hand peeling cracking after using bleach without glove,contact_dermatitis,1
+rash shaped exactly like adhesive bandage wore arm,contact_dermatitis,1
+swollen red patch ankle new ankle bracelet,contact_dermatitis,1
+widespread itchy rash after swimming chlorinated pool,contact_dermatitis,1
+suddenly got red raised welt all over body very itchy,hives,3
+itchy swollen patch skin come go within hour,hives,3
+large red hive appeared arm after eating shellfish,hives,3
+skin raised bump turn white press,hives,3
+welt face neck after taking new medication,hives,3
+itchy wheal torso keep appearing different spot,hives,3
+break hive whenever exercise get hot,hives,3
+red blotchy patch all over leg appeared overnight,hives,3
+swollen itchy bump hand last few hour disappear,hives,3
+get hive arm under lot stress,hives,3
+raised red patch irregular border chest back,hives,3
+allergic welt covering torso after taking antibiotic,hives,3
+skin swell large puffy wheal itch intensely,hives,3
+random itchy bump appearing disappearing different part body,hives,3
+pressure hive forming waist belt sits tight,hives,3
+itchy raised welt back appeared after eating peanut,hives,3
+whole body break hive get cold,hives,3
+large swollen blotch thigh last few hour fade,hives,3
+red itchy welt arm appear move new area within minute,hives,3
+developed hive face throat after taking ibuprofen,hives,3
+itchy raised patch leg come go all day long,hives,3
+skin get puffy welted scratch pressure,hives,3
+large red itchy patch appeared stomach within hour eating egg,hives,3
+hive all over arm chest appear every evening fade morning,hives,3
+tiny itchy bump covering forearm after direct sunlight,hives,3
+red wheal back shoulder itch terribly after hot bath,hives,3
+got swollen itchy patch all over after eating something restaurant,hives,3
+lip swell along welt face eat certain fruit,hives,3
+itchy hive hand wrist flare anxious,hives,3
+large flat raised welt stomach blanch white center,hives,3
+red blotchy hive neck appeared after wearing wool scarf,hives,3
+get chronic hive almost every day week not find cause,hives,3
+itchy wheal leg pop after walking cold weather,hives,3
+red raised bump all over body appeared right after bee sting,hives,3
+scalp very flaky yellowish greasy scale,seborrheic_dermatitis,8
+dandruff go away no matter shampoo use,seborrheic_dermatitis,8
+red scaly patch eyebrow around nose,seborrheic_dermatitis,8
+greasy yellowish flake scalp itching,seborrheic_dermatitis,8
+cradle cap infant scalp thick yellow crusty patch,seborrheic_dermatitis,8
+flaky red skin beard area get worse stress,seborrheic_dermatitis,8
+itchy scaly patch behind ear hairline,seborrheic_dermatitis,8
+eyebrow white flaky patch embarrassing,seborrheic_dermatitis,8
+redness flaking crease beside nose,seborrheic_dermatitis,8
+greasy scale chest slight redness underneath,seborrheic_dermatitis,8
+chronic dandruff redness itching scalp,seborrheic_dermatitis,8
+yellow crusty patch scalp smell unpleasant,seborrheic_dermatitis,8
+forehead hairline flaky greasy scale keep returning,seborrheic_dermatitis,8
+red patch oily looking flake face,seborrheic_dermatitis,8
+scaly irritated skin ear canal behind ear,seborrheic_dermatitis,8
+yellowish oily flake fold nose itchy,seborrheic_dermatitis,8
+mustache area red flaky patch greasy looking scale,seborrheic_dermatitis,8
+dandruff get much worse during winter month thick flake,seborrheic_dermatitis,8
+red itchy patch chest shape yellowish scale,seborrheic_dermatitis,8
+flaky skin eyelid slight redness mild itching,seborrheic_dermatitis,8
+scalp get extremely itchy produce large greasy flake stressed,seborrheic_dermatitis,8
+yellow oily crust baby soft spot area top head,seborrheic_dermatitis,8
+red scaly patch skin fold behind ear come go,seborrheic_dermatitis,8
+flaking skin upper back slight itching greasiness,seborrheic_dermatitis,8
+scalp produce thick white flake stick hair fall clothes,seborrheic_dermatitis,8
+red irritated patch between eyebrow yellowish greasy scale,seborrheic_dermatitis,8
+itchy flaking skin side nose look oily,seborrheic_dermatitis,8
+greasy yellowish crust buildup scalp near ear,seborrheic_dermatitis,8
+beard area get red flaky waxy looking scale especially cold weather,seborrheic_dermatitis,8
+persistent dandruff like flaking eyebrow return within day treatment,seborrheic_dermatitis,8
+red scaly patch mid chest greasy yellow flake,seborrheic_dermatitis,8
+itchy irritated skin around nostril visible flake,seborrheic_dermatitis,8
+scalp patch thick yellow scale hard remove,seborrheic_dermatitis,8
+flaky red patch skin between sideburn ear,seborrheic_dermatitis,8
+greasy looking scale forehead above eyebrow,seborrheic_dermatitis,8
+intense itching between finger especially night,scabies,7
+small burrow line visible wrist extreme itchiness,scabies,7
+whole family developed itchy rash past two week,scabies,7
+tiny red bump line hand itch terribly night,scabies,7
+itching get much worse bedtime all over body,scabies,7
+small pimple like bump armpit waist area severe itch,scabies,7
+intense itch between toe wrist tiny blister,scabies,7
+see thin gray line skin between finger,scabies,7
+red irritated skin elbow fold constant scratching urge,scabies,7
+child scratching constantly especially night bump wrist,scabies,7
+extremely itchy rash belly inner thigh worse night,scabies,7
+small raised bump tunnel visible under skin palm,scabies,7
+severe itching night rash spreading new body part each week,scabies,7
+crusty sore scratching intensely itchy bump between finger,scabies,7
+itchy pimple like rash around waistline navel area,scabies,7
+roommate both developed intense itching time,scabies,7
+thin wavy line web space finger itch unbearably,scabies,7
+tiny blister side finger itch mostly night,scabies,7
+red bumpy rash lower abdomen groin itch intensely bedtime,scabies,7
+partner both itchy rash area body,scabies,7
+intense itching wrist between finger keep awake night,scabies,7
+small red dot scratch mark all over arm belly constant itching,scabies,7
+see shaped track under skin inner wrist,scabies,7
+itchy bump around belt line underwear area worst night,scabies,7
+pimple like spot elbow knee terrible nighttime itching,scabies,7
+baby tiny red bump palm sol make very fussy,scabies,7
+intense widespread itch started two week after staying hostel,scabies,7
+bump blister crease body itch especially under warm cover,scabies,7
+noticed track mark between toe along severe itching night,scabies,7
+red itchy bump front wrist side hand,scabies,7
+scratching make itching worse new bump keep appearing torso,scabies,7
+entire family scratching tiny bump between finger wrist,scabies,7
+unbearable itch hand foot night visible tiny burrow,scabies,7
+small itchy nodule groin area appeared after itching started,scabies,7
+red scabby patch elbow scratching intense itch all night,scabies,7
+painful inflamed cyst cheek take week heal,acne,0
+tiny whitehead along hairline notice pull hair back,acne,0
+skin get bumpy break after wearing face mask all day,acne,0
+open closed comedo scattered all over chin nose,acne,0
+red angry pimple around mouth swollen tender,acne,0
+squeeze blackhead inflamed red spot nose,acne,0
+rough textured bumpy skin cheek never fully clear,acne,0
+pimple pustule upper chest get worse summer heat,acne,0
+small hard bump under skin chin feel not see,acne,0
+cluster whitehead red bump near sideburn area,acne,0
+nose big visible pore blackhead trapped inside,acne,0
+acne scarring new breakout appearing time cheek,acne,0
+deep under skin pimple forehead very painful touch,acne,0
+greasy shiny skin face constant new pimple forming daily,acne,0
+red itchy bump hand after using new dish soap,contact_dermatitis,1
+thigh got rash sitting chair nickel stud,contact_dermatitis,1
+cracked bleeding fingertip working solvent without protection,contact_dermatitis,1
+bumpy red rash foot shaped exactly like shoe strap,contact_dermatitis,1
+itchy red patch appeared arm after using new body wash,contact_dermatitis,1
+baby developed diaper rash after switching new diaper brand,contact_dermatitis,1
+puffy red skin around eye allergic reaction eye cream,contact_dermatitis,1
+blister palm after handling certain plant garden,contact_dermatitis,1
+red burning skin chest new body lotion tried yesterday,contact_dermatitis,1
+got itchy rash ankle elastic band sock,contact_dermatitis,1
+neck turned red bumpy after wearing new wool sweater,contact_dermatitis,1
+dry flaky patch fingertip handling paper all day work,contact_dermatitis,1
+red inflamed skin wrist watch clasp touch skin,contact_dermatitis,1
+burning itchy rash armpit after applying new antiperspirant,contact_dermatitis,1
+face became red swollen after facial treatment new product,contact_dermatitis,1
+dry rough patch hand appeared after cleaning ammonia,contact_dermatitis,1
+blistering forearm contact wild plant during hiking,eczema,2
+toddler red scaly cheek get worse dry cold weather,eczema,2
+small fluid filled bump side finger itch intensely,eczema,2
+red irritated rash fold baby neck arm,eczema,2
+leg very dry ashy patch crack become painful,eczema,2
+itchy red rash foot flare wear certain shoe,eczema,2
+thickened skin back hand chronic scratching,eczema,2
+extremely dry irritated skin around mouth peel sting,eczema,2
+inner elbow behind knee always red dry itchy,eczema,2
+developed small itchy water blister palm sol,eczema,2
+red bumpy rash eyelid make feel dry irritated,eczema,2
+child wake scratching every night eczema arm,eczema,2
+flaky dry patch hand bleed skin crack open,eczema,2
+round coin shaped itchy patch lower leg,eczema,2
+itchy weeping patch behind ear crust over come back,eczema,2
+swollen red raised welt back after eating mango,hives,3
+developed hive hand forearm after touching cat,hives,3
+itchy red blotch torso flatten press,hives,3
+entire body got covered welt after taking new supplement,hives,3
+large puffy red patch back lasted four hour,hives,3
+get small hive hand whenever handle raw flour,hives,3
+itchy raised patch upper arm move around body during day,hives,3
+welt thigh appeared shortly after sitting cold bench,hives,3
+red swelling face neck after using new detergent pillowcase,hives,3
+trunk get covered red itchy bump every time take aspirin,hives,3
+hive appear foot ankle after standing long period,hives,3
+large itchy wheal arm appeared after wasp sting nearby,hives,3
+child break hive after eating strawberry,hives,3
+raised itchy patch first appear chest spread arm,hives,3
+hive leg torso get worse scratch,hives,3
+red wheal across shoulder appeared after heavy backpack use,hives,3
+round ring shaped itchy lesion leg gym shower floor,ringworm,5
+child got circular red patch cheek after hugging friend,ringworm,5
+dry scaly ring upper back slowly expanding over week,ringworm,5
+itchy red spot hand clear middle bumpy raised edge,ringworm,5
+developed ring shaped rash under waistband area,ringworm,5
+circular scaly patch shin appeared after playing football grass,ringworm,5
+red expanding ring forearm tiny blister outer border,ringworm,5
+nail became thick discolored yellowish crumbly texture,ringworm,5
+itchy round red patch appeared daughter arm after swimming class,ringworm,5
+ring shaped lesion waist area get itchier after exercise,ringworm,5
+red scaly circle upper arm doctor said look like tinea,ringworm,5
+circular bald patch scalp broken hair red flaky border,ringworm,5
+itchy ring shaped rash near groin get worse hot weather,ringworm,5
+noticed red circle calf grew bigger over week,ringworm,5
+round lesion chest raised border clearing center,ringworm,5
+face feel hot tingly visible small vein under skin,rosacea,6
+pimple like bump nose cheek no blackhead like real acne,rosacea,6
+blush very easily face stay red long after trigger gone,rosacea,6
+bumpy red irritated skin chin flaking tightness,rosacea,6
+cheek network tiny broken blood vessel visible under skin,rosacea,6
+red nose cheek stinging sensation whenever wind hit face,rosacea,6
+recurring facial flushing small raised bump never fully clear,rosacea,6
+eye water constantly feel gritty along red cheek,rosacea,6
+red swollen bump around nose look inflamed sore,rosacea,6
+forehead nose bridge always pink visible tiny capillary,rosacea,6
+facial skin sting turn red after applying kind cream,rosacea,6
+chronic redness chin jawline occasional pustule,rosacea,6
+notice face get bright red whenever enter heated room,rosacea,6
+small red papule cheek flare calm unpredictably,rosacea,6
+nose skin thickening becoming bumpy large pore,rosacea,6
+red flushed face warm burning feeling last hour,rosacea,6
+itching all over body start exactly get bed night,scabies,7
+tiny red spot between finger wrist relentless itch,scabies,7
+child daycare all intensely itchy rash,scabies,7
+visible zigzag line skin hand terrible nighttime itch,scabies,7
+red bumpy rash armpit fold itch badly get warm,scabies,7
+itchy blister sol foot between toe night,scabies,7
+constant urge scratch wrist hand especially after hot shower,scabies,7
+thin pencil mark like line inner wrist severe itching,scabies,7
+red raw skin scratching between finger all night long,scabies,7
+pimple like bump along waistband drive crazy itching night,scabies,7
+elderly parent thick crusted patch intense itch all over body,scabies,7
+raised red bump inner thigh groin itch unbearably after dark,scabies,7
+small bump blister heel palm itch worse under blanket,scabies,7
+itching week family member started itching,scabies,7
+visible burrow track side finger intense nighttime itch,scabies,7
+itchy flaky greasy patch scalp form thick white clump,seborrheic_dermatitis,8
+yellow greasy crust forming fold around nose every morning,seborrheic_dermatitis,8
+beard itch flaky red skin underneath get worse stress,seborrheic_dermatitis,8
+stubborn dandruff scalp large oily flake constant itch,seborrheic_dermatitis,8
+red greasy patch chest butterfly pattern yellow scale,seborrheic_dermatitis,8
+flaking skin bridge nose inner eyebrow corner,seborrheic_dermatitis,8
+scalp extremely itchy yellow waxy buildup along hairline,seborrheic_dermatitis,8
+red irritated skin greasy scale crease ear,seborrheic_dermatitis,8
+persistent flaking redness forehead nasolabial fold,seborrheic_dermatitis,8
+baby scalp thick yellowish crusty patch spreading,seborrheic_dermatitis,8
+greasy looking dandruff flake stuck hair hard remove,seborrheic_dermatitis,8
+red scaly patch behind both ear get oily flaky,seborrheic_dermatitis,8
+itchy redness flaking outer ear canal never fully clear,seborrheic_dermatitis,8
+eyebrow area get crusty yellowish greasy flake periodically,seborrheic_dermatitis,8
+heavy white dandruff falling shoulder no matter often wash,seborrheic_dermatitis,8
+white patch appearing forearm contrast tan,vitiligo,9
+noticed knuckle fingertip losing color turning white,vitiligo,9
+pale spot neck slowly getting larger over year,vitiligo,9
+white depigmented patch shin appeared after sunburn,vitiligo,9
+skin around both eye become noticeably lighter rest face,vitiligo,9
+round white spot upper arm not tan summer,vitiligo,9
+patchy loss skin color top foot spreading ankle,vitiligo,9
+large white patch thigh appeared six month ago,vitiligo,9
+depigmented streak hair along white patch scalp,vitiligo,9
+small milky white dot shoulder multiplying slowly,vitiligo,9
+lower lip white patch pigment completely disappeared,vitiligo,9
+symmetrical loss skin color both hand wrist over past year,vitiligo,9
+white patch under armpit gradually expanding outward,vitiligo,9
+noticed depigmented area around belly button keep growing,vitiligo,9
+irregular white patch back noticed someone pointed,vitiligo,9
