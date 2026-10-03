@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"itchy flaky scalp since march",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"dandruff that wont go away",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"greasy yellow flakes on eyebrows",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"flaky skin beside my nose",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"white flakes on shoulders of my black shirt",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"my baby has thick yellow crusts on her head",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"red scaly patch behind ears",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"scalp itches worse in winter",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"oily flaky skin around nostrils",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"red itchy patches",seborrheic_dermatitis,various,mild,synthetic_llm
+"rash on my face",seborrheic_dermatitis,face,mild,synthetic_llm
+"cradle cap not clearing after 2 months",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"greasy scales on center of chest",seborrheic_dermatitis,chest,moderate,synthetic_llm
+"flaking eyebrows and hairline",seborrheic_dermatitis,eyebrows and hairline,mild,synthetic_llm
+"peeling skin in ear canal and behind earlobe",seborrheic_dermatitis,ears,moderate,synthetic_llm
+"dandruff shampoo stopped working",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"scaly red skin between eyebrows",seborrheic_dermatitis,between eyebrows,mild,synthetic_llm
+"crusty scalp and itchy",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"flaky beard skin under the hair",seborrheic_dermatitis,beard area,mild,synthetic_llm
+"dark brown scaly patches along hairline",seborrheic_dermatitis,hairline,moderate,synthetic_llm
+"my scalp is so flaky and itchy that I scratch it in my sleep and wake up with flakes on the pillow.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Every time I get stressed at work, the skin next to my nose turns red and starts flaking.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"There are greasy yellowish scales behind both of my ears and the skin underneath looks pink.",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"My two month old has a crusty yellow patch on top of his head that looks greasy.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"The skin on my eyelids near the lashes is flaky and a little red, but it does not hurt.",seborrheic_dermatitis,eyelids,mild,synthetic_llm
+"Dandruff is now spreading from my scalp down to my forehead and eyebrows, and it keeps flaking off.",seborrheic_dermatitis,scalp and forehead,moderate,synthetic_llm
+"Not really painful, just itchy flaky skin on my chest that gets oily looking by afternoon.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"The patches by my nose get worse when it is cold and dry outside, red with fine white flakes.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"My dad is 78 and has red greasy flaking skin on his eyebrows and in the creases next to his nose.",seborrheic_dermatitis,eyebrows and nose folds,moderate,synthetic_llm
+"Scalp feels tight and itchy and when I scratch, big oily flakes come off onto my fingers.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Got these flaky salmon colored patches on both sides of my chin and nose, no pain at all.",seborrheic_dermatitis,chin and nose,mild,synthetic_llm
+"Why does my scalp flake so much only when I skip washing my hair for a couple days?",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"My skin behind my ears is red and cracking a bit with flaky bits that look like wax.",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"Light patches of flaky skin on my brown skin around the nose, they look grayish and a bit ashy.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"It looks like dandruff but there are also red scaly spots on my upper back and between my shoulder blades.",seborrheic_dermatitis,upper back,moderate,synthetic_llm
+"the hair part on my head is crusty and itchy and my hair feels greasy by the next day",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Waking up with flakes all over my pillow and a very itchy scalp lately, no hair pulling out though.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"My teenage son has flakes in his eyebrows and along his hairline that never seem to go away.",seborrheic_dermatitis,eyebrows and hairline,mild,synthetic_llm
+"Honestly the dandruff gets so bad in winter that I avoid wearing dark clothes.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Small greasy scaly patches on my sternum that itch slightly after I sweat at the gym.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"The sides of my nose are red and shiny with white flaking that makeup makes look worse.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"Weeks of red flaky skin around my mouth corners and nose, I think it started after a stressful month.",seborrheic_dermatitis,mouth and nose,mild,synthetic_llm
+"The back of my ears have yellow crust and the skin is raw when it falls off.",seborrheic_dermatitis,behind ears,severe,synthetic_llm
+"Large thick white flakes keep falling from my scalp even right after I wash my hair.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"My newborn has scaly patches on the scalp and some on the eyebrows, she seems perfectly comfortable.",seborrheic_dermatitis,scalp and eyebrows,mild,synthetic_llm
+"Inside my ears gets itchy and flaky in cold weather and I cannot stop poking it with my pinky.",seborrheic_dermatitis,ears,mild,synthetic_llm
+"The skin around my beard is red, itchy and flaking when I let it grow past two weeks.",seborrheic_dermatitis,beard area,moderate,synthetic_llm
+"Patches of pink greasy scale in the middle of my chest that come and go every few months.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"Itchy flaky bits right at the edge of my hair on the forehead, looks like dandruff got onto my face.",seborrheic_dermatitis,forehead hairline,mild,synthetic_llm
+"The folds beside my nose and between my brows are flaking and a little red, mostly in the mornings.",seborrheic_dermatitis,face,mild,synthetic_llm
+"Scalp is covered in yellowish greasy scales that stick to the hair and itch a lot at night.",seborrheic_dermatitis,scalp,severe,synthetic_llm
+"Just got a red rash on face that peels, not sure what it is.",seborrheic_dermatitis,face,mild,synthetic_llm
+"Flaky patches in my armpit and groin that look pink and a bit greasy, not painful.",seborrheic_dermatitis,armpits and groin,moderate,synthetic_llm
+"The eyebrow area looks like it has fine powder on it and the skin below is pink.",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"Light skin on my cheeks near the nose turns pink and scaly whenever the weather changes.",seborrheic_dermatitis,cheeks and nose,mild,synthetic_llm
+"My scalp has been burning slightly and flaking for about a month. I tried a tar shampoo twice a week and it helped a little but the flakes keep returning. It's embarrassing at my new job because everyone can see them on my shoulders.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"I'm pregnant, 6 months, and my scalp and eyebrows have started to flake and get oily and red. I used to just have mild dandruff. Not sure which shampoos are safe so I have only been using baby shampoo.",seborrheic_dermatitis,scalp and eyebrows,moderate,synthetic_llm
+"The skin along my nose has been scaly and red for almost a year, getting worse in winter and better in summer. I tried hydrocortisone from the pharmacy and it clears up for a bit then flares again. It does not itch much, it's more that it looks dirty and flaky.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"My 11 week old baby has a thick yellow crust on her scalp that I can't pick off. I rubbed coconut oil on it overnight and the flakes came loose, but they come back in a few days. She is not bothered by it, I'm just worried it looks bad.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"After I started a new night shift, my face got these red patches next to my nose and across my eyebrows with greasy flakes. I figured it was dry skin so I put on heavy moisturizer, which made it more shiny and flaky somehow. Please advise.",seborrheic_dermatitis,nose and eyebrows,moderate,synthetic_llm
+"I'm a college student and my dandruff has gotten really bad during exam season. Head and shoulders helped for a week but now my scalp is red at the edges and flaking in sheets. I also notice flaking behind my ears.",seborrheic_dermatitis,scalp and behind ears,moderate,synthetic_llm
+"My mother is 82 and lives in a care home. She has red greasy flaking skin on her eyebrows, nose creases and the center of her chest. The staff say it is dry skin, but lotion has not helped in weeks.",seborrheic_dermatitis,face and chest,moderate,synthetic_llm
+"My skin is dark brown and I noticed lighter, ashy looking scaly patches around my hairline and beside my nose. They are mildly itchy and the surrounding skin looks a bit darker than normal. I have tried shea butter but the greasy flakes just return.",seborrheic_dermatitis,hairline and nose,moderate,synthetic_llm
+"For about three years I've had dandruff that comes and goes, usually worse after I stop using medicated shampoo. Lately it has spread to the sides of my face and ears, which are now pink and flaky. I use ketoconazole shampoo sometimes and it calms down within a week.",seborrheic_dermatitis,scalp and face,moderate,synthetic_llm
+"My eyelid margins are crusty in the morning and the skin around my eyebrows is flaking. There's no pain and my vision is fine. I tried a warm washcloth which helps a bit, but the flakes in my brows keep coming back.",seborrheic_dermatitis,eyelids and eyebrows,mild,synthetic_llm
+"Started noticing red scaly patches on my chest and upper back that get greasy looking after I sweat. I thought it was a heat rash at first, but it has lasted over a month. A dandruff shampoo used as body wash made it somewhat better.",seborrheic_dermatitis,chest and upper back,moderate,synthetic_llm
+"My toddler has flaking on his scalp and behind the ears that has stuck around since he was a baby. We have been using an oil and soft brush before bath time. It is yellowish and greasy, but he is not scratching it.",seborrheic_dermatitis,scalp and behind ears,mild,synthetic_llm
+"I get a really bad flare each winter where my scalp is covered in thick greasy scale and it itches so much I scratch until it bleeds. Over the counter coal tar shampoo gives only partial relief. I'm 34 and feel self conscious going outside without a hat.",seborrheic_dermatitis,scalp,severe,synthetic_llm
+"Since I started wearing a mask all day, the skin around my nose and chin has gotten red and flaky. It does not hurt, just peels in little greasy flakes. I swapped masks and washed more often but it keeps happening.",seborrheic_dermatitis,nose and chin,mild,synthetic_llm
+"My husband has pinkish scaly skin in his eyebrows, beside his nose and behind both ears. He has had it on and off for years and it gets worse when he's under pressure. He uses hydrocortisone cream occasionally and it helps for a while.",seborrheic_dermatitis,face and ears,moderate,synthetic_llm
+"I'm a 16 year old with a very flaky scalp and my hairline is red and scaly. My friends noticed the flakes on my hoodie and it made me really self conscious. I tried apple cider vinegar rinse but it just stung.",seborrheic_dermatitis,scalp and hairline,moderate,synthetic_llm
+"I had a few weeks of stress after a move, and since then my scalp is itchy with big greasy flakes. I thought it might be lice but my doctor friend said no. Washing daily seems to calm it a bit.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"The creases next to my nose are red and flaky all year, plus eyebrows have fine dandruff like scale. I use a gentle cleanser and a plain moisturizer, which did nothing. It is dry looking but also somehow shiny and oily.",seborrheic_dermatitis,nose folds and eyebrows,mild,synthetic_llm
+"My dandruff doesn't itch at all but the flakes are large and oily and fall on my collar. Some days my scalp is slightly pink along the part line. Is that enough to be a concern or just normal dandruff?",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"I have had flaky itchy skin on my scalp for ages and now there are patches on my face too.",seborrheic_dermatitis,scalp and face,moderate,synthetic_llm
+"I have red flaky skin on both sides of my nose that has not cleared in weeks.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"I have greasy dandruff and my eyebrows are starting to flake too.",seborrheic_dermatitis,scalp and eyebrows,mild,synthetic_llm
+"I have oily scaly patches behind both ears that crack when I wipe them after a shower.",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"I have yellowish flakes stuck to my baby's head and she is only six weeks old.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"I have this rash on my chest, pinkish with greasy scale, no itch really.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"i think i have seborrheic dermatitis on my scalp, can i treat it with antifungal shampoo",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"seborrheic dermatitis flaring on my eyebrows again",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"my doctor said seborrheic dermatitis for my face flakes but nothing is helping",seborrheic_dermatitis,face,moderate,synthetic_llm
+"seb derm on nose and ears, tips?",seborrheic_dermatitis,nose and ears,mild,synthetic_llm
+"is this seborrheic dermatitis? flaky greasy patches on my chest and scalp",seborrheic_dermatitis,chest and scalp,moderate,synthetic_llm
+"pretty sure my baby has cradle cap, how long does it last",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"cradle cap on 3 month old, scales keep coming back",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"seborrheic dermatitis in men beard flakes",seborrheic_dermatitis,beard area,mild,synthetic_llm
+"seborrhoeic dermatitis on my scalp after lockdown stress",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"my scalp is itchy nd flakey i tried everything",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"dandruf is so bad cant even wear black",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"flakey red skin next to my nose its so annoying",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"my eyebrows r peeling like crazy and the skin is red",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"babys head has yellow scabs idk what to do",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"white flakes everywhere on my hair and ears itching",seborrheic_dermatitis,scalp and ears,mild,synthetic_llm
+"scalp so itchy flaking since last week plz help",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"skin on my nose and forehead is flaking and shiny at same time",seborrheic_dermatitis,nose and forehead,mild,synthetic_llm
+"red scaly spots on my chest nd back, oily and little itchy",seborrheic_dermatitis,chest and back,moderate,synthetic_llm
+"i got dry flaky patches on my face but only around nose and brows",seborrheic_dermatitis,nose and eyebrows,mild,synthetic_llm
+"me scalp is full of white flake and itch, tried lemon but still",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"my ears peel inside and behind them, been like this for months",seborrheic_dermatitis,ears,mild,synthetic_llm
+"flaky hair line and eyebrows, redness too, not painfull",seborrheic_dermatitis,hairline and eyebrows,mild,synthetic_llm
+"why does my scalp get so flaky and greasy at the same time?",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"is it normal for my baby's scalp to look like it has thick yellow scales?",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"why do I get red flaking skin beside my nose every winter?",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"could stress be the reason my eyebrows are flaking and my dandruff got worse?",seborrheic_dermatitis,eyebrows and scalp,mild,synthetic_llm
+"what are these greasy yellow scales behind my ears that come back after I scrape them?",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"why does my chest get flaky pink patches when I am sweating a lot?",seborrheic_dermatitis,chest,mild,synthetic_llm
+"is it dandruff or something else if my forehead edge is also red and flaking?",seborrheic_dermatitis,scalp and forehead,mild,synthetic_llm
+"why is the skin on my face peeling only in the center and not on cheeks?",seborrheic_dermatitis,central face,mild,synthetic_llm
+"Hairline itching and flaking, tried moisturizer",seborrheic_dermatitis,hairline,mild,synthetic_llm
+"oily scalp with yellow scale",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"flaky patches nose sides redness",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"dandruff plus rash on chest",seborrheic_dermatitis,scalp and chest,moderate,synthetic_llm
+"eyelid flakes with red scaly eyebrows",seborrheic_dermatitis,eyelids and eyebrows,mild,synthetic_llm
+"scalp scales stuck to hair, very thick",seborrheic_dermatitis,scalp,severe,synthetic_llm
+"scaly skin behind ears no itch",seborrheic_dermatitis,behind ears,mild,synthetic_llm
+"crusty baby scalp, oil helps a bit",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"dry skin on face that won't heal with lotion",seborrheic_dermatitis,face,mild,synthetic_llm
+"itchy bumps and flakes scalp edge",seborrheic_dermatitis,scalp edge,moderate,synthetic_llm
+"flaking in mustache area, red underneath",seborrheic_dermatitis,mustache area,mild,synthetic_llm
+"greasy peeling skin center of face",seborrheic_dermatitis,central face,mild,synthetic_llm
+"Persistent dandruff despite weekly shampoo",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"white scaly patches on scalp, dark skin",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"red flaky nasolabial folds, no itch",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"yellow crusts in baby's eyebrows",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"upper chest scaly pink rings, greasy",seborrheic_dermatitis,chest,mild,synthetic_llm
+"peeling between brows every morning",seborrheic_dermatitis,between eyebrows,mild,synthetic_llm
+"scalp itch plus burning after sweating",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"ear canal itchy and flaky, q tips make it worse",seborrheic_dermatitis,ears,mild,synthetic_llm
+"scalp patches with oily yellow scales, kids stare at me",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"red scaly skin on my mustache and chin",seborrheic_dermatitis,mustache and chin,mild,synthetic_llm
+"flaky scalp, tight feeling after washing",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"Every winter my scalp gets scaly and itchy, and by spring it fades without me doing much.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"My face has a butterfly shaped flaky red area across the nose and cheeks that does not sting.",seborrheic_dermatitis,nose and cheeks,mild,synthetic_llm
+"After a week of travel and bad sleep, the sides of my nose are flaking and look greasy and pink.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"The skin by my eyebrows is flaking so much that tiny bits drift down when I rub my forehead.",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"My scalp itches the most right after I take a hot shower, then tons of flakes come off when I dry my hair.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"Nothing hurts, but there are scaly reddish patches on my chest in a sort of petal shape.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"My six year old has dandruff plus scaly patches behind his ears, and the pediatrician said it can be kids' dandruff.",seborrheic_dermatitis,scalp and behind ears,mild,synthetic_llm
+"The scales along my hairline are thick and greasy and they leave pink skin when they fall off.",seborrheic_dermatitis,hairline,moderate,synthetic_llm
+"My skin tone is deep brown and the patches near my nose look dark and scaly instead of red.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"Strange that my dandruff gets better after sun exposure but returns whenever I stay indoors in winter.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"I keep getting yellowish flakes on my eyebrows after I wash my face, it looks like little oily bran.",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"Since starting a new antidepressant my face has gotten oily with red flaky patches near the nose and brows.",seborrheic_dermatitis,nose and eyebrows,moderate,synthetic_llm
+"Fine scaling on the sides of my nose that looks like dry skin, but moisturizer does not touch it.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"My scalp patches are well defined and covered in dry white scale, and my skin around my ears is also pink.",seborrheic_dermatitis,scalp and ears,moderate,synthetic_llm
+"Both my eyebrows have flaky white scale with a slight pink tint and I notice it more after I shave my face.",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"I'm 62 and the creases on my face are red and scaly, mainly around my nose and in my eyebrows, and it's been months.",seborrheic_dermatitis,face,moderate,synthetic_llm
+"Little greasy scales cover the skin between my breasts and under them, mild itch but gets irritated with sweat.",seborrheic_dermatitis,chest and under breasts,moderate,synthetic_llm
+"Everything about my scalp looks fine except the constant white flakes and some redness near the crown.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"Since last month I get scaly red patches by my nose when I use a hat or scarf, and the scalp is itchy too.",seborrheic_dermatitis,nose and scalp,mild,synthetic_llm
+"There is a sore, cracked, red spot behind my left ear covered in yellow flaky crust.",seborrheic_dermatitis,behind ear,moderate,synthetic_llm
+"My daughter's scalp has these oily brown yellow plaques that look worse after we applied olive oil.",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"The skin on my upper lip under the nose is scaly and chapped but lip balm did nothing, and it looks greasy.",seborrheic_dermatitis,upper lip,mild,synthetic_llm
+"My scalp is itchy and flaky for a few years now, and a hairstylist told me it might be a fungus thing, not just dandruff.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Some days my forehead and brows are perfectly fine and other days they look red and shed flakes like crazy.",seborrheic_dermatitis,forehead and eyebrows,mild,synthetic_llm
+"My hair looks oily the day after I wash it and the scalp has large yellow flakes that stick together.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"The area around my belly button is red, greasy and scaly and I do not think it is from a piercing.",seborrheic_dermatitis,navel,mild,synthetic_llm
+"There is a ring of scales around the edge of my scalp and behind both ears, and my scalp feels hot and itchy.",seborrheic_dermatitis,scalp and ears,moderate,synthetic_llm
+"It started as a bit of dandruff but now I have flaky red skin on my eyebrows, ears and the folds of my nose.",seborrheic_dermatitis,"scalp, ears and face",moderate,synthetic_llm
+"Our newborn has dry greasy scaling on her scalp and a few spots on her face and neck folds, but she feeds and sleeps fine.",seborrheic_dermatitis,scalp and neck folds,mild,synthetic_llm
+"Been dealing with scalp flaking for years, but this month it got a lot worse with red itchy patches that sting when I use shampoo. I'm on a stressful project and sleeping badly. I tried tea tree oil and it burned a bit.",seborrheic_dermatitis,scalp,severe,synthetic_llm
+"My husband noticed I scratch behind my ears a lot. When I looked in the mirror there was reddish flaky skin and a little crack on the fold. I have used a regular body lotion on it without much change.",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"Starting a few weeks ago the middle of my face got scaly and kind of oily. I'm 24 and have always had normal skin, so I'm confused. I changed to a fragrance free cleanser but it hasn't helped.",seborrheic_dermatitis,central face,mild,synthetic_llm
+"My dad, who has Parkinson's, has a really greasy flaky face with red patches on his eyebrows and nose. His caregiver says it gets better with a gentle wash. It keeps coming back and he is sometimes itchy.",seborrheic_dermatitis,eyebrows and nose,moderate,synthetic_llm
+"The scalp of my 4 month old is covered in thick brownish scales that are starting to spread to her forehead. We have been washing her head daily with baby shampoo and brushing gently. Is it okay to leave it?",seborrheic_dermatitis,scalp and forehead,mild,synthetic_llm
+"Winter has hit and my skin by my nose and brows is flaking again. Last year a pharmacist gave me an antifungal cream that cleared it in about two weeks, but I forgot the name. It was never very itchy, just ugly.",seborrheic_dermatitis,nose and eyebrows,mild,synthetic_llm
+"I get red patches and white scale on my scalp in the part line and above my ears. My hair feels greasy by lunchtime, and I'm itching all day at my desk. Selsun helps for a few days then I flare again.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"As a swimmer I have always had dry scalp, but now I have thick flakes and a red itchy band along my hairline. Chlorine seems to trigger it. I wash with a clarifying shampoo but the flakes come right back.",seborrheic_dermatitis,scalp and hairline,moderate,synthetic_llm
+"The skin under my glasses and on the side of my nose looks greasy and flaky with purplish redness since I have darker skin. I tried a drugstore acne wash and it only got drier and peeled more.",seborrheic_dermatitis,nose and cheeks,mild,synthetic_llm
+"For the last six months, my chest has had circular scaly patches that are a pale pinkish color and slightly oily. They don't hurt and barely itch. I've tried antifungal cream thinking it was ringworm but it had no effect.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"I'm in my 40s and my scalp has become flaky and itchy since my hormones went haywire. My eyebrows are also peeling now. I tried olive oil massage and baking soda, which just made my scalp feel irritated.",seborrheic_dermatitis,scalp and eyebrows,moderate,synthetic_llm
+"My teenage daughter has acne but also flaky red patches around the nostrils and the edges of her hairline. She keeps picking at them. The acne wash has dried everything out, and the flakes look greasy, not dry.",seborrheic_dermatitis,nose and hairline,moderate,synthetic_llm
+"My scalp flaking is quite mild but my beard has gotten bad, with itchy red skin and greasy scale underneath. Shaving it off makes it better in a few days. I've been told to try an anti dandruff shampoo on my face.",seborrheic_dermatitis,beard area,moderate,synthetic_llm
+"My one year old still has patches of thick scale on her scalp and some behind her ears. She was fine in summer but they came back when the heater went on. Pediatrician said no worry, but I want to know if there is anything to speed it up.",seborrheic_dermatitis,scalp and behind ears,mild,synthetic_llm
+"Is it possible to have scalp dandruff that spreads to your eyebrows and the sides of your nose? I'm itching all day and the skin looks reddish and flaky, but I do not have pain.",seborrheic_dermatitis,"scalp, eyebrows and nose",mild,synthetic_llm
+"What helps with flaky eyelids and brows? My skin is a medium brown and everything looks gray scaly with some darker patches. No pain, a little itch in the mornings.",seborrheic_dermatitis,eyelids and eyebrows,mild,synthetic_llm
+"scalp flakes bad. after shower is ok but by evening oily and itchy again",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"skin near nose is red and peeling i use cream but it comes back every week",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"my baby head is like yellow and crusty is it normal",seborrheic_dermatitis,scalp,mild,synthetic_llm
+"face rash red flakes at eyebrows and sides of nose pls what is it",seborrheic_dermatitis,eyebrows and nose,mild,synthetic_llm
+"very itchy scalp, white and yellow flake, hair also oily",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"i have flakes on my brows and it look like dandruff but on my face",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"behind ear skin cracked and flaky and smell little bit",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"dandruff plus red patches near hair line pls help me",seborrheic_dermatitis,scalp and hairline,moderate,synthetic_llm
+"dry flaky face only in t zone and nose, not on cheeks",seborrheic_dermatitis,t zone,mild,synthetic_llm
+"chest has some rash flaky pink spots, not itchy, since 2 months",seborrheic_dermatitis,chest,mild,synthetic_llm
+"scalp is peeling in big pieces like dry paint, itch is not that bad",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"red patches around nose that flake, makes my makeup look cakey",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"rash on scalp and ears that wont go",seborrheic_dermatitis,scalp and ears,moderate,synthetic_llm
+"flakes in my eyebrows every morning wtf",seborrheic_dermatitis,eyebrows,mild,synthetic_llm
+"Weird scaly spot in my armpit that is greasy and a little red, I do not shave there anymore.",seborrheic_dermatitis,armpit,mild,synthetic_llm
+"Greasy scaly patch on the sternum, very mild itch, been there on and off for years.",seborrheic_dermatitis,chest,mild,synthetic_llm
+"The patches near my nose are so red and scaly that coworkers keep asking if I am sunburned.",seborrheic_dermatitis,nose folds,mild,synthetic_llm
+"My scalp is so itchy at night, with greasy yellow scale that comes off in clumps when I scratch.",seborrheic_dermatitis,scalp,severe,synthetic_llm
+"Not painful at all, but I have an oily rash with fine white scale along my brows and forehead.",seborrheic_dermatitis,eyebrows and forehead,mild,synthetic_llm
+"The flakes on my scalp pile up quickly after I stop using the medicated shampoo for even a week.",seborrheic_dermatitis,scalp,moderate,synthetic_llm
+"Using a cotton swab I can scrape off oily yellowish flakes from behind my ears, and the skin underneath is pink.",seborrheic_dermatitis,behind ears,moderate,synthetic_llm
+"The crease between my nose and cheek is red with a scaly edge, and it gets better after I use my steroid cream sparingly.",seborrheic_dermatitis,nose folds,mild,synthetic_llm

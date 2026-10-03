@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"thick silvery scales on my elbows",psoriasis,elbows,moderate,synthetic_llm
+"My scalp keeps shedding white flakes onto my shoulders and it gets really itchy when I'm stressed.",psoriasis,scalp,moderate,synthetic_llm
+"red itchy patches",psoriasis,various,mild,synthetic_llm
+"started noticing a rough red patch on my knee a few weeks ago after a bad cold. now there's a second one on my other knee. it has this white scaly layer that flakes off if i scratch it. tried hydrocortisone cream from the pharmacy but it barely made a dent",psoriasis,knees,moderate,synthetic_llm
+"why does my scalp have thick crusty plaques that bleed a little when I pick the scales?",psoriasis,scalp,moderate,synthetic_llm
+"dry scaly patches lower back worse in winter",psoriasis,lower back,mild,synthetic_llm
+"Little drop-shaped red spots showed up all over my chest and back about two weeks after I had strep throat.",psoriasis,chest and back,moderate,synthetic_llm
+"my nails have tiny pits like someone poked them with a pin and one is lifting off the bed",psoriasis,fingernails,mild,synthetic_llm
+"Smooth shiny red patch under my breast and in my groin crease, no scaling but it won't go away with antifungal cream.",psoriasis,skin folds,moderate,synthetic_llm
+"flaky ears and behind ears",psoriasis,ears,mild,synthetic_llm
+"I'm 17 and I have these dandruff-looking crusts along my hairline that spread onto my forehead. Shampoo for dandruff did nothing. People at school keep staring and I wear a hat all the time now.",psoriasis,scalp and forehead,moderate,synthetic_llm
+"well defined red plaques with white scale on both elbows, not really itchy",psoriasis,elbows,moderate,synthetic_llm
+"is it normal for skin patches to get worse every time I'm stressed at work?",psoriasis,various,moderate,synthetic_llm
+"purplish gray patches with thick scale on my shins, I have dark skin and they are tight and sore",psoriasis,shins,moderate,synthetic_llm
+"rash on my elbows that wont go away",psoriasis,elbows,mild,synthetic_llm
+"Cracked, painful skin on my palms with small pustules that come and go, and it's not infected according to the nurse.",psoriasis,palms,severe,synthetic_llm
+"itchy scalp with silvery build up near the crown",psoriasis,scalp,mild,synthetic_llm
+"hey so i got this scaly patch on my belly button that looks like a thick red coin, no idea what it is",psoriasis,belly button,mild,synthetic_llm
+"My dad is 68 and has thick red scaly patches on his knees and lower legs that crack. He has had them on and off for decades and the creams from the drugstore stopped helping. His fingers have also been stiff in the morning lately.",psoriasis,knees and legs,severe,synthetic_llm
+"Raised patches that look salmon pink with silvery flakes on my forearms.",psoriasis,forearms,moderate,synthetic_llm
+"scales everywhere help",psoriasis,various,severe,synthetic_llm
+"why is my skin getting scaly red plaques every winter and clearing up a bit in summer sun",psoriasis,various,moderate,synthetic_llm
+"I noticed new spots appearing right along the scratch marks from my cat, red and scaly",psoriasis,arms,mild,synthetic_llm
+"dry red patch on my scalp, flakes fall off like snow",psoriasis,scalp,mild,synthetic_llm
+"There is a thick scaly red patch on my tailbone and between my buttocks that burns when I sweat.",psoriasis,buttock crease,moderate,synthetic_llm
+"white flaky stuff on my eyebrows and red patches near my hairline, not oily",psoriasis,eyebrows and hairline,mild,synthetic_llm
+"been dealing with this for 6 months, plaques on elbows and knees, thick and dry, and moisturizer only helps for an hour. I'm pregnant now so I'm scared to try anything strong. it flares when I don't sleep",psoriasis,elbows and knees,moderate,synthetic_llm
+"psoriasis flare on my scalp again",psoriasis,scalp,moderate,synthetic_llm
+"my toenail is thick yellowish crumbly and has little dents, and nail fungus treatment did nothing",psoriasis,toenails,mild,synthetic_llm
+"Large dark brown scaly patches on my back, I have brown skin and they look almost ashy on top.",psoriasis,back,moderate,synthetic_llm
+"red scaly spots on my torso after i started a new antidepressant",psoriasis,torso,moderate,synthetic_llm
+"skin patches that bleed tiny dots when scales get scraped off",psoriasis,various,moderate,synthetic_llm
+"My 9 year old has small round red scaly spots on his tummy and legs that appeared after a sore throat.",psoriasis,tummy and legs,mild,synthetic_llm
+"scalp is a mess, thick layers of scale that stick to the hair and pull when I try to comb them",psoriasis,scalp,severe,synthetic_llm
+"Almost my whole body is covered in red patches with scale, it has spread fast since last month and I feel feverish and chilly.",psoriasis,widespread,severe,synthetic_llm
+"scaly patch on my knee",psoriasis,knee,mild,synthetic_llm
+"im 24 and my elbows look like they have thick dry armor, silver and rough, no pain at all just ugly",psoriasis,elbows,mild,synthetic_llm
+"Is it possible to have a really itchy red plaque on the back of my head that gets scaly and then thick?",psoriasis,back of head,moderate,synthetic_llm
+"patchy redness with flaking at the corners of my ears and inside the ear canal opening",psoriasis,ears,mild,synthetic_llm
+"I started a new job last month with a lot of pressure and now these round red scaly plaques are popping up on my arms and legs. Never had them before. Calamine lotion did nothing and I'm embarrassed to wear short sleeves.",psoriasis,arms and legs,moderate,synthetic_llm
+"red patches in my armpits that are smooth and shiny, not scaly, and don't respond to deodorant changes",psoriasis,armpits,mild,synthetic_llm
+"help my skin is peeling in sheets of silvery flakes",psoriasis,various,severe,synthetic_llm
+"flaky red patches on my lower legs",psoriasis,lower legs,mild,synthetic_llm
+"My knuckles have thick scaly red bumps and the skin cracks when I make a fist. My joints also ache a bit.",psoriasis,knuckles,moderate,synthetic_llm
+"nothing itchy but my elbows look rough and crusty with white scale that returns within days of scrubbing it off",psoriasis,elbows,mild,synthetic_llm
+"rash on my scalp and forehead that looks like a red border with scale",psoriasis,scalp and forehead,mild,synthetic_llm
+"do you think these scaly patches on my shins could be from stress? they showed up during exams",psoriasis,shins,mild,synthetic_llm
+"Sore cracked heels with thick red scaling and tiny yellow pustules on the soles, only on both feet and always symmetrical.",psoriasis,soles of feet,severe,synthetic_llm
+"my elbows my knees and my scalp all have the same dry white scaly crusty patches",psoriasis,elbows knees and scalp,moderate,synthetic_llm
+"red patches with scale on my lower back since the weather got cold",psoriasis,lower back,mild,synthetic_llm
+"Light skinned patch that is bright red with a clear edge and silver flakes on top, about the size of my palm, on my thigh.",psoriasis,thigh,moderate,synthetic_llm
+"skin on my scalp itching burning and flaking, I tried tea tree oil and anti dandruff shampoo for months",psoriasis,scalp,moderate,synthetic_llm
+"thick patches",psoriasis,various,moderate,synthetic_llm
+"My 4 month old has red scaly diaper area that has a sharp border and doesn't improve with diaper cream, and the redness extends into the folds.",psoriasis,diaper area,moderate,synthetic_llm
+"can psoriasis cause bleeding when i scratch the scales off my back",psoriasis,back,moderate,synthetic_llm
+"why do I get scaly red spots only where I got cut or scraped?",psoriasis,various,mild,synthetic_llm
+"scaly plaques on my scalp and a few on my elbows, they started after my divorce and haven't stopped",psoriasis,scalp and elbows,moderate,synthetic_llm
+"white scaly bumps on my belly and chest, no itch, just dry",psoriasis,belly and chest,mild,synthetic_llm
+"It looks like I'm covered in coin shaped patches, deep violet on my dark skin with gray flaky tops, mostly on my thighs and back.",psoriasis,thighs and back,moderate,synthetic_llm
+"cracks in my fingertips that bleed and a dry scaly patch on my palm that never fully heals",psoriasis,fingers and palms,moderate,synthetic_llm
+"spots on butt crease. red. smooth. cant treat it w anything.",psoriasis,buttock crease,mild,synthetic_llm
+"Never had skin problems until I turned 55, and now there are thick, red, flaking patches on both elbows and my scalp is shedding. My doctor said to stop picking at it but the itch comes in waves, especially at night.",psoriasis,elbows and scalp,moderate,synthetic_llm
+"scalp flakes bigger than normal dandruff",psoriasis,scalp,mild,synthetic_llm
+"red itchy skin on my legs, with some flaking, been about a month",psoriasis,legs,mild,synthetic_llm
+"my skin has these raised red plaques with that shiny silver scale and they are spreading to my stomach",psoriasis,stomach,moderate,synthetic_llm
+"There's a stubborn patch behind my ear that is red and crusty with cracks, the doctor said it wasn't fungal.",psoriasis,behind ear,mild,synthetic_llm
+"tiny pitted nails and a rash on my elbow, are they related?",psoriasis,nails and elbow,mild,synthetic_llm
+"red scaly bumps all across my chest that are not really itchy",psoriasis,chest,mild,synthetic_llm
+"patch on my knee that peels in thick flakes then comes back thicker, tried coconut oil and aloe",psoriasis,knee,mild,synthetic_llm
+"my groin has a bright red clear edged patch that isnt scaly, doesnt itch much, antifungal powder didnt work",psoriasis,groin,moderate,synthetic_llm
+"Honestly I just want to know why the skin on my scalp and elbows turns thick and silvery whenever I'm sick or anxious.",psoriasis,scalp and elbows,moderate,synthetic_llm
+"scaling dark patches on my elbows and knees, they look grayish on top and brown underneath",psoriasis,elbows and knees,moderate,synthetic_llm
+"all over rash scaly red its really bad since two weeks and i cant sleep",psoriasis,widespread,severe,synthetic_llm
+"My teenage son's hairline is lined with flaky crusty red skin and some of it spills over his forehead and neck. He says it's a bit itchy but mostly just looks bad.",psoriasis,hairline and neck,mild,synthetic_llm
+"my skin is red and very scaly and sore all at once",psoriasis,various,severe,synthetic_llm
+"white scales on red plaque in the middle of my back that has been there for years but now it's growing",psoriasis,middle back,moderate,synthetic_llm
+"itchy red patch scalp",psoriasis,scalp,mild,synthetic_llm
+"just got diagnosed with psoriasis last week and want to know how to calm the itching at night",psoriasis,various,moderate,synthetic_llm
+"The skin on both my elbows is thick, red, and covered in dry white scales. It started small like a pimple but spread. Lotion doesn't help, I've been using urea cream for a month and it only smooths the surface.",psoriasis,elbows,moderate,synthetic_llm
+"red scaly patches on my ankles and shins that look worse in winter, I'm 31 and have a family history of this",psoriasis,ankles and shins,mild,synthetic_llm
+"flaky scalp and also my eyebrows, no oiliness, just dry silvery",psoriasis,scalp and eyebrows,mild,synthetic_llm
+"Is scalp scale that extends past my hairline onto my forehead something I should worry about?",psoriasis,scalp and forehead,mild,synthetic_llm
+"skin is so thick on my knees, can barely bend without it splitting open and stinging",psoriasis,knees,severe,synthetic_llm
+"pink patches with silvery coating on my arms, started when I quit smoking and my stress went up",psoriasis,arms,mild,synthetic_llm
+"rash around my belly button and lower back that has fine white flakes",psoriasis,belly button and lower back,mild,synthetic_llm
+"The patches on my legs look dark purple on my skin tone and have a dry gray-white layer, and they sometimes sting but don't really itch.",psoriasis,legs,moderate,synthetic_llm
+"my hands are cracked and flaky but its only on the palms, symmetrical, not blistery just dry and thick",psoriasis,palms,moderate,synthetic_llm
+"weird red plaques on my gums area of the lips? also corners scaly",psoriasis,lips and mouth,mild,synthetic_llm
+"my head feels like it has a crust, I can lift whole scabs of white and it leaves red raw skin with tiny bleeding points",psoriasis,scalp,severe,synthetic_llm
+"Pregnant and noticing new red scaly patches on my elbows. Never had them before, but my mother has them.",psoriasis,elbows,mild,synthetic_llm
+"red scaly spot on genitals, smooth not itchy",psoriasis,genitals,moderate,synthetic_llm
+"Three weeks ago I had a sore throat, and now my back and arms are dotted with small salmon colored scaly dots. They're a little itchy.",psoriasis,back and arms,moderate,synthetic_llm
+"bumpy scales on my shin that get worse after i shave",psoriasis,shin,mild,synthetic_llm
+"does stress really make flaky red patches on your knees worse?",psoriasis,knees,mild,synthetic_llm
+"skin patches crack and ooze at the knee crease, thick red base with whitish scale",psoriasis,back of knees,severe,synthetic_llm
+"scale all over my scalp thick like cement, hair loss in the patches but it grows back when it clears",psoriasis,scalp,severe,synthetic_llm
+"My grandmother is 82 and gets red scaly patches under her breasts and on her elbows. They look shiny in the folds and flaky on the elbows.",psoriasis,breasts and elbows,moderate,synthetic_llm
+"red scaly bits on my face near my nose and eyebrows, not greasy, I have darker skin so they look brownish",psoriasis,face,mild,synthetic_llm
+"rash that comes and goes on my elbows",psoriasis,elbows,mild,synthetic_llm
+"hip and lower back have sharply bordered red plaques with fine flaky scale, nothing like eczema because they aren't weepy",psoriasis,hip and lower back,moderate,synthetic_llm
+"swollen finger like a sausage plus red scaly skin on my elbows",psoriasis,finger and elbows,moderate,synthetic_llm
+"scalp problem with dry scale that leaves little bleeding dots, no oily feeling",psoriasis,scalp,moderate,synthetic_llm
+"After I got a tattoo, the skin around it grew red scaly patches that spread outward from the line.",psoriasis,arm,mild,synthetic_llm
+"red patches covering my back, burn and itch, desperate to sleep through the night",psoriasis,back,severe,synthetic_llm
+"I'm a nurse and wash my hands constantly, and the backs of my hands now have well-edged red scaly plaques that don't look like normal dryness. Moisturizer and gloves haven't done much. It's affecting how I grip things.",psoriasis,hands,moderate,synthetic_llm
+"scaly spots on lower legs only",psoriasis,lower legs,mild,synthetic_llm
+"face rash around hairline that is scaly, flaky and has a clean edge",psoriasis,hairline,mild,synthetic_llm
+"is a rash that doesnt itch and has silver scales on my knees something serious",psoriasis,knees,mild,synthetic_llm
+"My scalp has been red and thick-scaled since college, I'm 40 now. When I stop my medicated shampoo it all roars back.",psoriasis,scalp,moderate,synthetic_llm
+"pitting and ridges in my fingernails, white spots under them, no skin symptoms yet",psoriasis,fingernails,mild,synthetic_llm
+"been scratching the same raised red spot on my elbow for weeks and it just keeps getting bigger and whiter on top",psoriasis,elbow,mild,synthetic_llm
+"dont know whats wrong. red patches. flaky. sometimes sore. showed up after covid",psoriasis,various,moderate,synthetic_llm
+"back of my elbows looks like the skin of a lizard, thick and silvery",psoriasis,elbows,moderate,synthetic_llm
+"They told me it's dandruff but it's thick, stuck to my scalp, and extends down my neck as red plaques.",psoriasis,scalp and neck,moderate,synthetic_llm
+"red plaques on my torso that I have had since I was a teenager, they get better in summer and awful in January",psoriasis,torso,moderate,synthetic_llm
+"my feet have red scaly patches on the soles and the skin is thick, no itching but it hurts to walk",psoriasis,soles of feet,moderate,synthetic_llm
+"My skin is very sensitive to cold weather. In winter I get dry itchy flaky plaques on my elbows, knees and lower back. I'm 28 and using only regular body lotion. Wondering if I should see a dermatologist.",psoriasis,elbows knees and lower back,mild,synthetic_llm
+"flaking itching burning scalp since last year",psoriasis,scalp,moderate,synthetic_llm
+"red scaly rash on my buttock cleft, not diaper rash, sharp edges",psoriasis,buttock crease,moderate,synthetic_llm
+"plaque on my shin dark brown with scale, wont fade, I'm black and my mom says it looks like her skin thing",psoriasis,shin,moderate,synthetic_llm
+"Why do I get patches of thick silvery skin that crack and hurt around my joints?",psoriasis,joints,moderate,synthetic_llm
+"scaly rash on my forehead, face, only the hairline",psoriasis,hairline,mild,synthetic_llm
+"The right elbow patch is as big as my hand and the scale builds up in layers. My left side has smaller patches. They don't itch except when I get hot in the shower.",psoriasis,elbows,moderate,synthetic_llm
+"bright red inflamed skin with fine scale head to toe, hot and peeling",psoriasis,widespread,severe,synthetic_llm
+"scaly stuff in my belly button and ears",psoriasis,belly button and ears,mild,synthetic_llm
+"my toes and feet are red and cracking, I see tiny pus bumps under the skin that dry into brown spots, not contagious according to the doc",psoriasis,feet,severe,synthetic_llm
+"scalp itch with silvery stuck on scales and bleeding if I scratch, I've lost clumps of hair too",psoriasis,scalp,severe,synthetic_llm
+"spots that look like red drops sprinkled over my thighs, I'm 14 and had tonsillitis last month",psoriasis,thighs,mild,synthetic_llm
+"skin keeps cracking at my knuckles, dry flaky and red with defined edges, only in winter",psoriasis,knuckles,mild,synthetic_llm
+"Strange red patch that looks smooth and polished, in the skin fold under my belly, no scale and no smell, not itchy.",psoriasis,under belly fold,mild,synthetic_llm
+"just a thick rough red plaque on my right knee, not itchy, not painful",psoriasis,right knee,mild,synthetic_llm
+"my hair is thin where scale has built up on my scalp, and my husband says it smells nothing but looks gross",psoriasis,scalp,moderate,synthetic_llm
+"unexplained scaly patches that keep coming back on my elbows, been to two doctors and the cream helps then it returns in about 3 weeks",psoriasis,elbows,moderate,synthetic_llm
+"help is this normal my scalp feels hard and bumpy under hair",psoriasis,scalp,mild,synthetic_llm
+"Dry silver scales on the outer part of my arms, the edges of the patches are very clear against my normal skin.",psoriasis,outer arms,mild,synthetic_llm
+"swelling of my fingers and toes, painful joints in the morning and red scaly patches on my knees",psoriasis,fingers and knees,severe,synthetic_llm
+"rash on my chest that is pink with silver flakes, started after sunburn",psoriasis,chest,mild,synthetic_llm
+"red patches on my scalp and ears, flaky, but not greasy at all, and the dandruff shampoo burned",psoriasis,scalp and ears,moderate,synthetic_llm
+"These thick plaques on my back look black and purple, not red, because of my skin color, with a scaly gray surface, and they are on my elbows too.",psoriasis,back and elbows,moderate,synthetic_llm
+"what is this scaly patch on my lower leg that keeps getting thicker",psoriasis,lower leg,mild,synthetic_llm
+"my nails look yellow brown under the tip, they lift away from the bed and crumble, and my scalp also flakes",psoriasis,nails and scalp,moderate,synthetic_llm
+"itchy skin rash that looks like rough red coins and wont stop spreading",psoriasis,various,moderate,synthetic_llm
+"My skin has been breaking out in these red scaly spots whenever I drink heavily or get sick. I'm 33 and it's mostly on my torso. I don't want to go on strong meds, and over-the-counter cortisone only works for a few days.",psoriasis,torso,moderate,synthetic_llm
+"tiny red dots scaly on my trunk after flu",psoriasis,trunk,mild,synthetic_llm
+"around my eyes the skin is scaly and red but not swollen, with thicker plaques on my elbows too",psoriasis,eyelids and elbows,mild,synthetic_llm
+"elbow skin cracks bleeds and itches then peels in flakes",psoriasis,elbows,moderate,synthetic_llm
+"Strong itching and stinging red plaques that spread across my lower back and under my buttocks, and clothes rubbing makes it worse.",psoriasis,lower back and buttocks,moderate,synthetic_llm
+"scales stuck in my hair like glue, shed everywhere, no oil",psoriasis,scalp,moderate,synthetic_llm
+"strange skin thing: red raised well-defined and covered with flaky white, on my right forearm",psoriasis,forearm,mild,synthetic_llm
+"red irritated skin with scale around my navel and between my toes, antifungals did nothing",psoriasis,navel and toes,mild,synthetic_llm
+"idk why but only my elbows and knees get this crusty white thing",psoriasis,elbows and knees,mild,synthetic_llm
+"Could stress at college be giving me thick flaky scalp patches? I'm 20, no one in my family had this and it's my first flare.",psoriasis,scalp,mild,synthetic_llm
+"I have a red scaly patch on my shin that is shaped like a perfect oval and looks like it has a silver sheen.",psoriasis,shin,mild,synthetic_llm
+"nail pits and flaking skin on knuckles",psoriasis,nails and knuckles,mild,synthetic_llm
+"flare up after taking ibuprofen and drinking, thick red patches, my back is covered",psoriasis,back,moderate,synthetic_llm
+"red scale rash since my baby was born, all over my elbows and some on my scalp, I'm so tired and itchy",psoriasis,elbows and scalp,moderate,synthetic_llm
+"red rash",psoriasis,various,mild,synthetic_llm
+"my belly and thighs have patches with raised edges and papery silver scale that peels off in a sheet and leaves pink skin behind",psoriasis,belly and thighs,moderate,synthetic_llm
+"gets worse when it's cold and dry out, thick red plaques, better after a beach week",psoriasis,various,moderate,synthetic_llm
+"is it common to get sore scaly plaques in the folds of your hips and groin that look raw and shiny?",psoriasis,groin and hips,moderate,synthetic_llm
+"red patches on my knees that sting when I put on lotion and the surface looks like frosted glass",psoriasis,knees,mild,synthetic_llm
+"ever since I got laid off I have these chunky red scaly spots on my legs, and I scratch until they bleed",psoriasis,legs,moderate,synthetic_llm
+"The doctor told me my rash looks like psoriasis but I want to know if it can show up on the face, because I have patches near my nose that are red and flake.",psoriasis,face,mild,synthetic_llm
+"palms look thick and red with white peeling edges",psoriasis,palms,mild,synthetic_llm
+"My 12 year old daughter has a scaly red patch on her scalp that spreads down behind her ears and her elbows are rough and silvery too. We tried a kids' dandruff shampoo with no improvement, and she is getting teased at school.",psoriasis,scalp and elbows,moderate,synthetic_llm
+"white scaly plaques on dark skin legs",psoriasis,legs,moderate,synthetic_llm
+"every time i scratch my scalp white flakes come off like a snow globe",psoriasis,scalp,mild,synthetic_llm
+"inside my belly button there is dry rough red skin with flakes, and also a few patches on my back",psoriasis,belly button and back,mild,synthetic_llm
+"Dry, thick and flaky red patches appeared on my hands after months of dishwashing at the restaurant, and they continue even on days off.",psoriasis,hands,moderate,synthetic_llm
+"scalp rash",psoriasis,scalp,mild,synthetic_llm
+"There are red coin-sized plaques all over my calves with pearly flakes, and the itch is mild but the look is really bothering me.",psoriasis,calves,mild,synthetic_llm
+"weird patch of skin on my elbow that is thick and rough, has been there 4 years and hasnt hurt",psoriasis,elbow,mild,synthetic_llm
+"my whole scalp is red with a thick hard crust and it itches like crazy, I get this 2 times a year",psoriasis,scalp,severe,synthetic_llm
+"i think my patches are getting worse i cant even bend my fingers because skin is split",psoriasis,fingers,severe,synthetic_llm
+"Dull red scaly plaques on my arms and chest, and when I scrape the top scale off a shiny red layer shows underneath.",psoriasis,arms and chest,moderate,synthetic_llm
+"red scaly patches under my arms and in the crease of my neck",psoriasis,armpits and neck,mild,synthetic_llm
+"sudden rash of tiny red scaly bumps on my torso, I'm 19 and just recovered from strep",psoriasis,torso,mild,synthetic_llm
+"why do I get silvery patches on my scalp, my elbows and my knees but nowhere else?",psoriasis,scalp elbows and knees,mild,synthetic_llm
+"deep red skin with scale in the groove between my buttocks that burns",psoriasis,buttock crease,moderate,synthetic_llm
+"been using steroid cream for years on my elbow plaques. when I stopped for a week the patches returned bigger and now they are spreading to my forearm and back. Skin is dry, thick, silvery",psoriasis,elbows forearm and back,moderate,synthetic_llm
+"scale on scalp, no hair loss, a little itch",psoriasis,scalp,mild,synthetic_llm
+"my ear canal opening is full of flaky silver dry skin and I get white flakes on my pillow",psoriasis,ears,mild,synthetic_llm
+"My legs are covered in thick red patches that look purplish brown on my skin and feel tight, and they get inflamed when I'm anxious.",psoriasis,legs,moderate,synthetic_llm
+"nobody told me skin could get this scaly, my knees look like dried paint",psoriasis,knees,moderate,synthetic_llm
+"it looks like diaper rash but my toddler has patches on her elbows and scalp too, and the diaper cream makes no difference",psoriasis,diaper area and elbows,mild,synthetic_llm
+"patches on the back of my hands that are dry and rough with a reddish tone, they've been there for a decade",psoriasis,back of hands,mild,synthetic_llm
+"scaly patches in my hair that people mistake for dandruff but they are rough and raised",psoriasis,scalp,mild,synthetic_llm
+"Plaques on the lower back that have a pink edge and a silvery interior, and they are sort of itchy at night.",psoriasis,lower back,mild,synthetic_llm
+"skin flaking off in big white pieces from my elbows",psoriasis,elbows,mild,synthetic_llm
+"One thick red scaly circle on my left knee that is sharply outlined and about 4 cm wide, no other symptoms.",psoriasis,left knee,mild,synthetic_llm
+"hairline scale, thick, yellow brown crust tinged with red and kind of itchy, shampoos not working",psoriasis,hairline,mild,synthetic_llm
+"is it from stress that my elbows have thick red scales and my nails are pitted",psoriasis,elbows and nails,mild,synthetic_llm
+"rough scaly red patches that are painful when they crack, mostly on my legs and lower back, quite a lot of them now",psoriasis,legs and lower back,severe,synthetic_llm
+"I get scaly red patches whenever the weather turns cold. My elbows are the worst, but now there's one near my ear. I'm 47 and my brother has the same thing, so I assume it's genetic. Nothing I buy works long.",psoriasis,elbows and ear,moderate,synthetic_llm
+"white flakes and red skin underneath all along my part line",psoriasis,scalp,mild,synthetic_llm
+"red skin patches that arent wet or oozing, just dry and scaly with sharp borders",psoriasis,various,moderate,synthetic_llm
+"dry red scaly patches on my wrists and the back of my neck that flare when I'm run down",psoriasis,wrists and neck,mild,synthetic_llm
+"my husband says the plaques on my back look like silver scales, they don't hurt but the clothes catch on them",psoriasis,back,moderate,synthetic_llm
+"skin on my shins is red thick and peeling in layers, it started small last spring and now covers both legs",psoriasis,shins,moderate,synthetic_llm
+"patchy flaking at my temples and hairline, I'm 35 and nothing for dandruff has worked",psoriasis,temples and hairline,mild,synthetic_llm
