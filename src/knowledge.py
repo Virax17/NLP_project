@@ -252,7 +252,8 @@ SKIN_TERMS = (
     r"sunburn|dandruff|scalp|nail|pigment|dark|discolor|bite|sweat|pore|blotch|breakout|bald|"
     r"white|pale|lighter|vein|vessel|flush|lump|cyst|dermat|eczema|psoria|ringworm|vitiligo|rosacea|"
     r"scabies|urticaria|allerg|mole|tinea|fungal|fungus|infection|texture|bumpy|itchi|"
-    r"comedo|papul|nodul|pustul|flare|fingernail|toenail|pitted|crumbl|thicken|dent|rubb|chafe|chafing"
+    r"comedo|papul|nodul|pustul|flare|fingernail|toenail|pitted|crumbl|thicken|dent|rubb|chafe|chafing|"
+    r"blush|depigment|lost (my )?colou?r|colou?r (loss|change)|circle|breaks? out|breaking out|broke out"
 )
 
 # Lay wording mapped onto words the model saw in training.

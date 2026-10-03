@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"cheeks always red and flushed",rosacea,cheeks,mild,synthetic_llm
+"red face after coffee every morning",rosacea,face,mild,synthetic_llm
+"burning cheeks and nose",rosacea,cheeks and nose,moderate,synthetic_llm
+"tiny red veins on my nose",rosacea,nose,mild,synthetic_llm
+"face turns bright red when i drink wine",rosacea,face,mild,synthetic_llm
+"pimple like bumps on cheeks no blackheads",rosacea,cheeks,moderate,synthetic_llm
+"stinging face when i use moisturizer",rosacea,face,mild,synthetic_llm
+"red patches on cheeks and nose that dont fade",rosacea,cheeks and nose,moderate,synthetic_llm
+"flushing face spicy food",rosacea,face,mild,synthetic_llm
+"bumpy red nose getting bigger",rosacea,nose,severe,synthetic_llm
+"gritty red eyes and red cheeks",rosacea,eyes and cheeks,moderate,synthetic_llm
+"face hot and red in sun",rosacea,face,mild,synthetic_llm
+"persistent redness center of face",rosacea,central face,moderate,synthetic_llm
+"spider veins on cheeks since 40s",rosacea,cheeks,mild,synthetic_llm
+"rash on my face",rosacea,face,mild,synthetic_llm
+"red itchy patches",rosacea,various,mild,synthetic_llm
+"red cheeks wont go away",rosacea,cheeks,moderate,synthetic_llm
+"redness and pimples across nose and both cheeks",rosacea,cheeks and nose,moderate,synthetic_llm
+"my nose looks swollen and red",rosacea,nose,moderate,synthetic_llm
+"face flares up with stress",rosacea,face,mild,synthetic_llm
+"bumps on cheeks and chin red skin",rosacea,cheeks and chin,moderate,synthetic_llm
+"sunscreen makes my face burn",rosacea,face,mild,synthetic_llm
+"dark purple tint on cheeks with flushing",rosacea,cheeks,moderate,synthetic_llm
+"redness on forehead and cheeks warm to touch",rosacea,forehead and cheeks,moderate,synthetic_llm
+"red face after workout lasts hours",rosacea,face,mild,synthetic_llm
+"pustules on red cheeks",rosacea,cheeks,moderate,synthetic_llm
+"face redness worse in winter wind",rosacea,face,mild,synthetic_llm
+"skin on cheeks looks sunburnt all the time",rosacea,cheeks,moderate,synthetic_llm
+"sensitive red face everything stings",rosacea,face,moderate,synthetic_llm
+"pink cheeks and bumps over 30",rosacea,cheeks,mild,synthetic_llm
+"red blotchy face",rosacea,face,mild,synthetic_llm
+"face feels hot and tight and red",rosacea,face,moderate,synthetic_llm
+"broken capillaries nose and cheeks",rosacea,cheeks and nose,mild,synthetic_llm
+"dry irritated eyes with red face",rosacea,eyes and face,moderate,synthetic_llm
+"red bumps around nose and cheeks",rosacea,cheeks and nose,moderate,synthetic_llm
+"flushing after hot shower",rosacea,face,mild,synthetic_llm
+"redness chin and cheeks, no blackheads",rosacea,cheeks and chin,moderate,synthetic_llm
+"rosacea flare up after sun again",rosacea,face,moderate,synthetic_llm
+"acne-like bumps at 50 years old on cheeks",rosacea,cheeks,moderate,synthetic_llm
+"warm red cheeks after one glass of wine",rosacea,cheeks,mild,synthetic_llm
+"red spots face",rosacea,face,mild,synthetic_llm
+"ruddy face stinging",rosacea,face,mild,synthetic_llm
+"red nose bumpy skin thick",rosacea,nose,severe,synthetic_llm
+"rash on cheeks burns not itches",rosacea,cheeks,moderate,synthetic_llm
+"flushed face menopause hot flashes red bumps",rosacea,face,moderate,synthetic_llm
+"face red after eating hot tomato soup",rosacea,face,mild,synthetic_llm
+"brown red patches on cheeks darker skin burning",rosacea,cheeks,moderate,synthetic_llm
+"cheeks red since pregnancy still there",rosacea,cheeks,mild,synthetic_llm
+"eyelids red crusty and cheeks flushing",rosacea,eyes and cheeks,moderate,synthetic_llm
+"face red hot and swollen after sauna",rosacea,face,moderate,synthetic_llm
+"My cheeks go bright red every time I walk into a warm room from the cold.",rosacea,cheeks,mild,synthetic_llm
+"Lately my nose and cheeks stay pink all day and little red bumps keep popping up there.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Every time I have a beer my whole face lights up and feels like it is burning.",rosacea,face,moderate,synthetic_llm
+"Got these red pimples on my cheeks but there are no blackheads or whiteheads at all.",rosacea,cheeks,moderate,synthetic_llm
+"The tiny veins on my cheeks are getting worse and they look like thin red threads.",rosacea,cheeks,mild,synthetic_llm
+"Face stings whenever I put on any lotion, even the baby kind, and my cheeks stay red.",rosacea,face,moderate,synthetic_llm
+"The redness in the middle of my face has been there for about a year and never really fades.",rosacea,central face,moderate,synthetic_llm
+"Whenever I get stressed at work my face flushes red and feels hot for an hour.",rosacea,face,mild,synthetic_llm
+"My mom has rosacea and now I am starting to get the same redness on my cheeks.",rosacea,cheeks,mild,synthetic_llm
+"Skin on my cheeks looks permanently sunburned even though I stay out of the sun.",rosacea,cheeks,moderate,synthetic_llm
+"Spicy ramen sends my face into a deep red flush that takes forever to calm down.",rosacea,face,mild,synthetic_llm
+"There are pus bumps scattered over my red cheeks but the skin does not itch at all.",rosacea,cheeks,moderate,synthetic_llm
+"My face flushes a lot and my eyes feel dry and sandy at the same time.",rosacea,face and eyes,moderate,synthetic_llm
+"Redness around my nose and chin that gets worse when I am out in the wind.",rosacea,nose and chin,mild,synthetic_llm
+"On my brown skin the cheeks look darker and almost purplish, and they feel warm and prickly.",rosacea,cheeks,moderate,synthetic_llm
+"After turning 45 my face started getting red bumps that look like acne but nothing clears them.",rosacea,face,moderate,synthetic_llm
+"My cheeks burn when I step out into the sun for even ten minutes.",rosacea,cheeks,moderate,synthetic_llm
+"Face gets blotchy and red after exercise and takes like two hours to go back to normal.",rosacea,face,mild,synthetic_llm
+"There is a patch of redness across my nose and both cheeks that gets worse with hot drinks.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Noticed my nose getting a bit bulbous and red lately, and the skin there looks thicker.",rosacea,nose,severe,synthetic_llm
+"Red flushing on my face and neck every time I drink red wine, and bumps a day later.",rosacea,face and neck,moderate,synthetic_llm
+"My forehead and cheeks turn red whenever I am embarrassed, and now they stay pink even when I am calm.",rosacea,forehead and cheeks,mild,synthetic_llm
+"Facial redness that comes and goes in flare ups lasting a few weeks at a time.",rosacea,face,moderate,synthetic_llm
+"Tried salicylic acid for these bumps on my cheeks and it only made the redness and burning worse.",rosacea,cheeks,moderate,synthetic_llm
+"The skin on my cheeks feels hot to touch and looks flushed, though nothing is itchy.",rosacea,cheeks,mild,synthetic_llm
+"My husband says my face looks like I am always blushing and it has been like this since last spring.",rosacea,face,mild,synthetic_llm
+"Little red veins have appeared across my nose and they are not going away.",rosacea,nose,mild,synthetic_llm
+"Eyes feel gritty and my eyelids are red, plus my cheeks are flushed most days.",rosacea,eyes and cheeks,moderate,synthetic_llm
+"Cheeks and chin covered in small red bumps and some tiny pustules, no whiteheads though.",rosacea,cheeks and chin,moderate,synthetic_llm
+"Nothing helps the red flushing on my face, even green tinted concealer barely covers it.",rosacea,face,moderate,synthetic_llm
+"My face reddens within minutes of eating anything hot, whether temperature or spicy.",rosacea,face,mild,synthetic_llm
+"Redness spreading from my nose across both cheeks like a mask, kind of burning.",rosacea,cheeks and nose,moderate,synthetic_llm
+"In cold weather my cheeks turn deep red and sting like crazy when I come inside.",rosacea,cheeks,mild,synthetic_llm
+"Face looks swollen and red around the nose and cheeks after drinking alcohol.",rosacea,cheeks and nose,moderate,synthetic_llm
+"It is not itchy but my cheeks are always red and kind of rough with bumps.",rosacea,cheeks,moderate,synthetic_llm
+"My skin gets red and tender around the cheeks whenever I use a scrub or exfoliator.",rosacea,cheeks,mild,synthetic_llm
+"My GP mentioned rosacea but I am not sure because the bumps look just like pimples.",rosacea,cheeks,moderate,synthetic_llm
+"Redness in the center of my face is making me self conscious at work meetings.",rosacea,central face,moderate,synthetic_llm
+"Visible red lines on my cheeks and a persistent pink glow that makeup cannot hide.",rosacea,cheeks,mild,synthetic_llm
+"My face has red bumps and flushes with heat, and hydrocortisone helped then made it worse.",rosacea,face,moderate,synthetic_llm
+"Redness on both cheeks and nose with a few pimples, started around my 38th birthday.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Skin on my nose is red, bumpy and shiny, and the pores look huge.",rosacea,nose,moderate,synthetic_llm
+"Cheeks stay flushed in the evenings and feel warm like I have a fever but I do not.",rosacea,cheeks,mild,synthetic_llm
+"Ever since I started my new job under bright office heating, my face stays red.",rosacea,face,mild,synthetic_llm
+"Persistent redness on my chin and cheeks plus small red dots that sometimes have pus.",rosacea,cheeks and chin,moderate,synthetic_llm
+"My dad's nose has gotten bigger and red over the years, and my cheeks are now showing early redness.",rosacea,cheeks and nose,mild,synthetic_llm
+"Facial skin feels tight and stingy after washing, with ongoing redness over the cheekbones.",rosacea,cheeks,mild,synthetic_llm
+"Hot yoga leaves my face lobster red and the redness lingers into the next day.",rosacea,face,mild,synthetic_llm
+"Dark skinned here and my cheeks have this ashy purple warm patch that burns when I flush.",rosacea,cheeks,moderate,synthetic_llm
+"Red bumps across my nose and cheeks that do not look like regular zits.",rosacea,cheeks and nose,moderate,synthetic_llm
+"My eyelids feel scratchy and my face goes red every time I am nervous.",rosacea,eyes and face,mild,synthetic_llm
+"There is a red rash on my face that is not itchy, just warm and a bit sore.",rosacea,face,moderate,synthetic_llm
+"Flushing episodes come on suddenly with warmth in my cheeks and last maybe fifteen minutes.",rosacea,cheeks,mild,synthetic_llm
+"Cheek redness gets so bad in the summer that I avoid beach trips altogether.",rosacea,cheeks,moderate,synthetic_llm
+"My skin burns and turns red when I put on retinol, and the redness never fully leaves.",rosacea,face,moderate,synthetic_llm
+"Persistent blushing on my nose and the apples of my cheeks, plus tiny bumps like a rash.",rosacea,cheeks and nose,mild,synthetic_llm
+"Red cheeks and nose that sting a bit, mostly after hot showers or saunas.",rosacea,cheeks and nose,mild,synthetic_llm
+"Bumps on my cheeks started in my forties and they look like acne without the blackheads.",rosacea,cheeks,moderate,synthetic_llm
+"My cheeks get flushed fast and the flush hangs around much longer than for other people.",rosacea,cheeks,mild,synthetic_llm
+"The center of my face is red and bumpy but I never had acne as a teenager.",rosacea,central face,moderate,synthetic_llm
+"Daily facial redness and a burning feeling that spikes after coffee or chocolate.",rosacea,face,moderate,synthetic_llm
+"Noticing blotchy pink skin over both cheeks and the bridge of my nose that looks irritated.",rosacea,cheeks and nose,mild,synthetic_llm
+"My face looks like it has a permanent flush plus a handful of inflamed little bumps.",rosacea,face,moderate,synthetic_llm
+"The tip of my nose and my cheeks go red in cold air and stay red indoors.",rosacea,cheeks and nose,mild,synthetic_llm
+"Rough red patches on my cheeks with tiny pimples, it feels hot more than itchy.",rosacea,cheeks,moderate,synthetic_llm
+"Wind makes my cheeks flare up red and bumpy for days afterward.",rosacea,cheeks,mild,synthetic_llm
+"Skin by my nose and cheeks is red and burning whenever I cook near the stove.",rosacea,cheeks and nose,mild,synthetic_llm
+"Redness appears every afternoon on my cheeks, and by evening they feel hot and sore.",rosacea,cheeks,moderate,synthetic_llm
+"Both cheeks have a fine network of red lines and the skin looks permanently pink.",rosacea,cheeks,mild,synthetic_llm
+"Pink to red flush across my cheeks and forehead which my sister also gets.",rosacea,forehead and cheeks,mild,synthetic_llm
+"My face has been red across the cheeks and nose for about eight months. Cheap drugstore acne washes just make it burn, and red wine is a guaranteed flare. I am 42 and honestly feel embarrassed in photos.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Started noticing little pimples and flushing in my late thirties, which seemed odd since I never had acne. They come in waves, mostly after stress or spicy takeout. Tried tea tree oil from a friend and it stung badly.",rosacea,face,moderate,synthetic_llm
+"I'm a 55 year old woman and this started around when menopause hit. Hot flushes plus a red face with bumps on the cheeks that look like pus filled pimples. Over the counter benzoyl peroxide dried me out and made it worse.",rosacea,cheeks,moderate,synthetic_llm
+"My elderly father's nose has become red, bumpy and swollen over many years. He says it does not hurt or itch, but people stare at him. He also complains of dry red eyes.",rosacea,nose and eyes,severe,synthetic_llm
+"Been dealing with red cheeks for two years now. Sun makes it worse so I wear SPF 50 daily, but sometimes even the sunscreen stings. It eased a little with a gentle cleanser but flares come back every month.",rosacea,cheeks,moderate,synthetic_llm
+"My skin is dark brown and I never noticed redness, but my cheeks feel hot and look darker and purplish. There are small bumps too. Doctors keep saying it is acne but it burns instead of being oily.",rosacea,cheeks,moderate,synthetic_llm
+"New job, long hours under bright lights in a hot office. Within weeks my cheeks and nose stayed red all day with small bumps. Coffee seems to make it worse.",rosacea,cheeks and nose,mild,synthetic_llm
+"I'm 29 and pregnant and my face went red and flushed during the second trimester. There are a few bumps on my cheeks and everything stings. I am scared to use anything strong.",rosacea,cheeks,mild,synthetic_llm
+"Face has been burning and red for a month after trying a new vitamin C serum and a peel. Before that I only had mild flushing now and then. Now bumps showed up across my cheeks and I am worried it is permanent.",rosacea,cheeks,severe,synthetic_llm
+"For years I thought I just blushed easily. Now there are visible little veins on both cheeks, and the pink never fully fades. Hydrocortisone cream calmed it for a bit but it came back worse.",rosacea,cheeks,moderate,synthetic_llm
+"My eyes have been red and gritty for months and I thought it was allergies. Then I noticed my cheeks flush a lot and I get small bumps on my nose. Eye drops help only slightly.",rosacea,eyes and cheeks,moderate,synthetic_llm
+"I teach middle school and my face goes beet red every time I get stressed in class. Over summer it is constant redness across the nose and cheeks. It is hurting my confidence a lot.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Wife says my nose has been getting redder and puffier for about three years. No itching, no pain, just thicker looking skin and some visible veins. I am 58 and drink a few beers on weekends.",rosacea,nose,severe,synthetic_llm
+"Pale Irish skin, 34 years old. Cheeks flush crazy easy and now there are small red dots that sometimes fill with pus. Washing with hot water seems to trigger it.",rosacea,cheeks,moderate,synthetic_llm
+"Winter is the worst for my face. It is red, stings, and little bumps appear across my cheeks after being outside in the cold. I tried aloe and coconut oil but neither helped.",rosacea,cheeks,moderate,synthetic_llm
+"I moved somewhere hotter last year and my face has been flushed ever since. There is a rough red patch on both cheeks with a few bumps. Nothing itchy, mostly a warm tingly feeling.",rosacea,cheeks,mild,synthetic_llm
+"My 60 year old mom has had persistent facial redness for ages and tiny broken veins. Recently she started getting acne looking bumps on her chin and cheeks, maybe rosacea. She has tried a few creams without luck.",rosacea,cheeks and chin,moderate,synthetic_llm
+"Gym addict here, and after every workout my face goes deep red and stays that way for a long time. Lately the redness is there even on rest days, with a few small bumps too.",rosacea,face,mild,synthetic_llm
+"Student, 21, stressed during exams, and my cheeks have been flaring up red with some pimples that are not normal acne. No blackheads at all. Tried apple cider vinegar and it was terrible.",rosacea,cheeks,moderate,synthetic_llm
+"Used a steroid cream on my face for a couple of weeks on a friend's advice. The redness got better but now it flared worse with bumps all over my cheeks and nose. Not sure what is going on with my skin.",rosacea,cheeks and nose,severe,synthetic_llm
+"I am 47 and my cheeks are always warm and pink, with a few bumps near the nose. Spicy food and wine bring on intense flushing within minutes. Cold compresses help a little.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Black woman here, 40, and my face feels hot and burning, with darker reddish brown patches over the cheeks and bumps that look like pimples. No itch. Shea butter just makes it sting.",rosacea,cheeks,moderate,synthetic_llm
+"My baby is fine but my skin is not. Since the birth my face has gotten red, flushed, and bumpy over the nose and cheeks, and sleeping badly seems to trigger it.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Months of redness on my cheeks and chin that gets worse with heat. I only use a basic fragrance free moisturizer now, but the flushing and bumps continue.",rosacea,cheeks and chin,moderate,synthetic_llm
+"It started as occasional blushing and a few tiny veins. Now the central part of my face is red every day and there are occasional pustules. I am 52 and nothing from the pharmacy has worked.",rosacea,central face,moderate,synthetic_llm
+"My face stings and turns red every time I walk past the oven or drink something hot. A few red bumps near my nose too. This has been going on since I was about thirty.",rosacea,face,moderate,synthetic_llm
+"Went on a cruise and the sun left my cheeks fiery red and bumpy for weeks. Even now, months later, they flush up easily. I wear a hat everywhere.",rosacea,cheeks,moderate,synthetic_llm
+"Both cheeks have been red and warm with small bumps for six weeks. I tried zinc oxide cream and antihistamines but nothing happened. It does not itch, it just burns when I am hot.",rosacea,cheeks,moderate,synthetic_llm
+"My nose is red, shiny and slightly lumpy at the tip. I am 61 and it has been slowly changing for years. Some tiny red veins crawl across it.",rosacea,nose,severe,synthetic_llm
+"I treated this as acne for a year with strong washes and it only got redder. The bumps are on my cheeks and nose only, and my skin burns after washing.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Cheeks flush easily and my skin feels hypersensitive, like even water stings sometimes. Visible red lines near my nostrils. I am only 33 and my skin was never this fragile before.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Dark purple redness on the cheeks, I am Indian and in my thirties. Gets worse in the summer heat or after spicy curry. Some small bumps but no itching.",rosacea,cheeks,moderate,synthetic_llm
+"Eyes red, eyelid edges swollen, and cheeks flushed. The eye doctor said the eyelid problem could be linked to my skin. I am 44 and this keeps recurring.",rosacea,eyes and cheeks,moderate,synthetic_llm
+"After my divorce stress my face started flaring up, redness over the cheeks with small bumps every few weeks. Meditation helped a little. I am 39 and tired of covering it with foundation.",rosacea,cheeks,moderate,synthetic_llm
+"Lately my forehead, nose and cheeks look reddish all the time and feel warm. It started after I turned 50, and I think alcohol and hot coffee trigger it.",rosacea,central face,moderate,synthetic_llm
+"I have had redness on my cheeks since my twenties, but now at 46 there are bumps too and visible veins. Sun and stress are big triggers. Currently using sensitive skin cleanser only.",rosacea,cheeks,moderate,synthetic_llm
+"My husband and I noticed the redness covers the middle of my face but not near my hairline. It burns when I am in the heat. I tried a honey mask and that just made me flush more.",rosacea,central face,moderate,synthetic_llm
+"My skin gets red patches on the cheeks plus some bumps, and a feeling like sunburn. It has been a few weeks. No new products so I am stumped.",rosacea,cheeks,mild,synthetic_llm
+"Seventy year old grandmother, red nose and cheeks, tiny veins and a little puffiness. She says it does not itch but burns in the sun. She has tried a few lotions.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Gets worse when I drink alcohol or eat hot soup. Redness on both cheeks and nose, small pus bumps appear a day later. Been going on for about a year.",rosacea,cheeks and nose,moderate,synthetic_llm
+"Redness has spread from my cheeks to my chin and forehead in the last few months. It is hot, a bit bumpy, and feels dry. Scrubs make it way worse.",rosacea,face,moderate,synthetic_llm
+"I'm a nurse working long shifts in a hot hospital ward, and my face constantly flushes red. Lately there are bumps on my cheeks and a stinging feeling when I wash my face.",rosacea,cheeks,moderate,synthetic_llm
+"For about six months my cheeks have had pink to red coloring with small red bumps. It is not itchy. Anything with fragrance triggers a flush.",rosacea,cheeks,mild,synthetic_llm
+"The flare ups come every few weeks and last days. Cheeks red, bumpy, hot. Fewer hot drinks and a mineral sunscreen help a bit, but it is still frustrating.",rosacea,cheeks,moderate,synthetic_llm
+"Light skin, freckled, 36. My face and upper chest flush when I am anxious, and the cheeks now have permanent faint redness with a few spider veins. Makeup does not cover well.",rosacea,cheeks and chest,mild,synthetic_llm
+"Last Sunday I spent a day on the lake and since then my face has been a mess: red, burning, small bumps on the cheeks. It tends to flare after sun every time.",rosacea,cheeks,moderate,synthetic_llm
+"Mid forties and always blamed hormonal acne, but the bumps are only on my cheeks and nose with a red background. Nothing has helped including birth control and spot treatments. A friend said it might be rosacea.",rosacea,cheeks and nose,moderate,synthetic_llm
+"My cheeks stay flushed and tingly after a hot shower or when I am in a heated room. Lately red threads appear near my nose. I am 31 and fair skinned.",rosacea,cheeks and nose,mild,synthetic_llm
+"For the past year my cheeks have been rosy red even at rest, and I get hot flushing episodes in the evening. Cold weather and wind sting. I am 56.",rosacea,cheeks,moderate,synthetic_llm
+"Pimples that are not acne, I think, on cheeks and nose, with lots of redness and no blackheads. They sting more than itch. Been there since last winter and my confidence is tanking.",rosacea,cheeks and nose,moderate,synthetic_llm
+"my face is always red and burns idk why",rosacea,face,moderate,synthetic_llm
+"cheeks r red nd bumpy since few weeks",rosacea,cheeks,mild,synthetic_llm
+"face gets super red when i eat spicy food or drink anythng hot",rosacea,face,mild,synthetic_llm
+"red face pimples but no blackheads wat is this",rosacea,face,moderate,synthetic_llm
+"my nose is red and big veins very ugly pls help",rosacea,nose,moderate,synthetic_llm
+"skin on my face burnning and red all the time",rosacea,face,moderate,synthetic_llm
+"doc said maybe rosacea not acne but my cheeks red with bumps what to do",rosacea,cheeks,moderate,synthetic_llm
+"red cheeks since pregnancy wont go away lol",rosacea,cheeks,mild,synthetic_llm
+"face flushing again after wine ugh",rosacea,face,mild,synthetic_llm
+"my face red like tomato after hot bath everytime",rosacea,face,mild,synthetic_llm
+"bumps on nose and cheeks red skin its paining not itching",rosacea,cheeks and nose,moderate,synthetic_llm
+"cheeks very hot and red evry evening",rosacea,cheeks,mild,synthetic_llm
+"face look sunburn but i stay inside",rosacea,face,mild,synthetic_llm
+"got small red veins on my face and its spreading",rosacea,face,mild,synthetic_llm
+"my face turn red when i am nervous and now it stay red",rosacea,face,mild,synthetic_llm
+"red rash on my cheeks no itch just burn",rosacea,cheeks,moderate,synthetic_llm
+"pimple on red face everytime i go in sun",rosacea,face,moderate,synthetic_llm
+"face is red and sensitive to everything even water",rosacea,face,moderate,synthetic_llm
+"why my cheeks always have red and bumps i m 40 yrs",rosacea,cheeks,moderate,synthetic_llm
+"nose is red and swell, getting worse every year",rosacea,nose,severe,synthetic_llm
+"Why does my face turn so red after just one drink?",rosacea,face,mild,synthetic_llm
+"Is it normal for cheeks to burn and stay red for months with no itching?",rosacea,cheeks,moderate,synthetic_llm
+"Why do I keep getting pimples on my cheeks that never have blackheads?",rosacea,cheeks,moderate,synthetic_llm
+"Could these tiny red veins on my nose be rosacea or just age?",rosacea,nose,mild,synthetic_llm
+"Why does my face sting every time I walk into a warm room?",rosacea,face,mild,synthetic_llm
+"Is there a reason my cheeks flush bright red whenever I eat spicy food?",rosacea,cheeks,mild,synthetic_llm
+"What causes a red bumpy nose and cheeks in a 50 year old with no history of acne?",rosacea,cheeks and nose,moderate,synthetic_llm
+"Why will the redness on my cheeks and nose not go away even with moisturizer?",rosacea,cheeks and nose,moderate,synthetic_llm
+"Is facial flushing together with gritty eyes related to the same skin problem?",rosacea,face and eyes,moderate,synthetic_llm
+"Why is my skin red and bumpy only in the middle of my face?",rosacea,central face,moderate,synthetic_llm

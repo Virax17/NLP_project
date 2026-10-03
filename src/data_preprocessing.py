@@ -166,7 +166,7 @@ def tokenize_and_lemmatize(text: str, stop_words: set, lemmatizer) -> str:
 
 # ── 8. Remove short / invalid entries ────────────────────────────────
 
-def remove_short_texts(df: pd.DataFrame, min_words: int = 3) -> pd.DataFrame:
+def remove_short_texts(df: pd.DataFrame, min_words: int = 2) -> pd.DataFrame:
     before = len(df)
     df["_word_count"] = df["cleaned_text"].apply(lambda x: len(x.split()))
     df = df[df["_word_count"] >= min_words]
@@ -203,7 +203,7 @@ def split_data(df: pd.DataFrame, test_size: float = 0.2, random_state: int = 42)
 # ── Main pipeline ───────────────────────────────────────────────────
 
 def main():
-    RAW_PATH = "data/raw/skin_disease_symptoms.csv"
+    RAW_PATH = "data/raw/skin_disease_dataset.csv"
     PROCESSED_DIR = "data/processed"
 
     # Load
@@ -224,7 +224,7 @@ def main():
         lambda t: tokenize_and_lemmatize(t, stop_words, lemmatizer)
     )
 
-    df = remove_short_texts(df, min_words=3)
+    df = remove_short_texts(df, min_words=2)
 
     # Show raw vs processed examples
     print("\n-- Raw vs Processed Examples --")
@@ -238,7 +238,7 @@ def main():
     df, label_encoder = encode_labels(df)
 
     # Save full processed dataset
-    output_cols = ["processed_text", "disease", "label"]
+    output_cols = ["processed_text", "disease", "label", "source"]
     df[output_cols].to_csv(f"{PROCESSED_DIR}/dataset_processed.csv", index=False)
 
     # Also save a simple two-column version for quick use

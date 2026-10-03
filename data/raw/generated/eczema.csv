@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"itchy dry patches inside elbows",eczema,"inner elbows",moderate,synthetic_llm
+"my baby has rough red cheeks that she keeps rubbing on the sheets",eczema,"cheeks",moderate,synthetic_llm
+"skin behind knees cracked and itchy again",eczema,"behind knees",moderate,synthetic_llm
+"why does my skin get so itchy and scaly every winter?",eczema,"various",mild,synthetic_llm
+"red itchy patches",eczema,"various",moderate,synthetic_llm
+"My hands crack and bleed whenever I wash dishes a lot, and the skin between my fingers has tiny blisters that itch like crazy. Hand cream helps for an hour at most. Started after I changed jobs to work in a restaurant kitchen.",eczema,"hands and fingers",severe,synthetic_llm
+"dry flaky eyelids that itch",eczema,"eyelids",mild,synthetic_llm
+"been scratching the back of my knees until they ooze, can't sleep",eczema,"behind knees",severe,synthetic_llm
+"rash on my face",eczema,"face",mild,synthetic_llm
+"itchy rash that flares when im stressed about exams",eczema,"arms",moderate,synthetic_llm
+"my son is 3 and gets dry rough patches on his wrists and ankles that he scratches raw",eczema,"wrists and ankles",moderate,synthetic_llm
+"skin so dry it feels tight and itchy after showers",eczema,"legs and arms",mild,synthetic_llm
+"thick dark leathery patch on my neck from scratching for years",eczema,"neck",moderate,synthetic_llm
+"Ever since I was a kid I get itchy rashes in the creases of my arms. Lately it has spread to my neck and it's red and weepy at night. Hydrocortisone cream calms it down for a few days and then it comes back.",eczema,"arm creases and neck",moderate,synthetic_llm
+"dry patch on ear that cracks and weeps clear fluid",eczema,"ears",moderate,synthetic_llm
+"cant stop itching my arms at night",eczema,"arms",moderate,synthetic_llm
+"Is it normal for my newborn's face to be this red and rough at 2 months?",eczema,"face",mild,synthetic_llm
+"itchy bumps on hands after cold weather",eczema,"hands",mild,synthetic_llm
+"on darker skin the patches look ashy grey brown and super itchy, mostly on my shins",eczema,"shins",moderate,synthetic_llm
+"small itchy blisters on sides of my fingers that dry out and peel",eczema,"fingers",moderate,synthetic_llm
+"My skin has been dry and itchy for months and nothing from the pharmacy works. I tried lotion, oatmeal baths and even coconut oil. It's mostly on the inside of my elbows and it gets worse when I sweat.",eczema,"inner elbows",moderate,synthetic_llm
+"eczema flare on my hands again",eczema,"hands",moderate,synthetic_llm
+"dry scaly rash around my mouth and chin that itches",eczema,"mouth and chin",mild,synthetic_llm
+"Not sure what this is, my toddler has a red scratchy rash on her torso that comes and goes with every cold",eczema,"torso",moderate,synthetic_llm
+"itchy patch behind my ear crusting over",eczema,"behind ear",mild,synthetic_llm
+"redness and itch on both ankles, skin looks dark and thickened",eczema,"ankles",moderate,synthetic_llm
+"my skin feels like sandpaper and the itch is driving me nuts",eczema,"arms and legs",moderate,synthetic_llm
+"scratchy skin that burns when I put moisturizer on it",eczema,"various",moderate,synthetic_llm
+"i get really itchy skin in the folds of my elbows and knees everytime pollen season starts, my doctor said asthma and this go together",eczema,"elbow and knee folds",moderate,synthetic_llm
+"dry cracked skin on both palms",eczema,"palms",moderate,synthetic_llm
+"no rash really, just skin that is constantly itchy and dry",eczema,"various",mild,synthetic_llm
+"itchy red skin on my eyelids and around eyes, worse after crying",eczema,"eyelids and around eyes",moderate,synthetic_llm
+"Is this normal, my 70 year old mother has dry itchy scaly shins that get red and crusty when she scratches",eczema,"shins",moderate,synthetic_llm
+"help my skin is cracked and oozing all over my arms",eczema,"arms",severe,synthetic_llm
+"pls help rash wont go away its itchy and dry",eczema,"various",moderate,synthetic_llm
+"itchy patches on neck and chest after wearing wool sweater",eczema,"neck and chest",mild,synthetic_llm
+"Pregnant and now I have itchy dry red patches on my stomach and arms that I never had before. Moisturizer barely helps and the itch is worse in the evening.",eczema,"abdomen and arms",moderate,synthetic_llm
+"my scalp and neck are dry and itchy with weepy spots",eczema,"scalp and neck",moderate,synthetic_llm
+"flaky patches on elbows",eczema,"elbows",mild,synthetic_llm
+"The skin on the back of my hands got red, rough and itchy since I started wearing gloves for my nursing job. It is not painful, just constantly itchy and a bit scaly.",eczema,"back of hands",mild,synthetic_llm
+"red scaly rash that itches worse at night",eczema,"various",moderate,synthetic_llm
+"why is my skin so itchy after hot showers?",eczema,"body",mild,synthetic_llm
+"dark brown itchy patches on my inner elbows, no bumps, just rough",eczema,"inner elbows",moderate,synthetic_llm
+"my eczema is out of control this week, whole back is itchy",eczema,"back",severe,synthetic_llm
+"tiny dry bumps on arms that itch",eczema,"arms",mild,synthetic_llm
+"weepy yellowish crusts on my baby's cheek after scratching",eczema,"cheek",severe,synthetic_llm
+"My hands have been peeling and itching for weeks, and the cracks on my knuckles split open when I bend my fingers. I tried petroleum jelly and a steroid cream from my aunt but it only helps a little. It is hard to type or hold things.",eczema,"hands and knuckles",severe,synthetic_llm
+"itching all over, skin dry",eczema,"various",mild,synthetic_llm
+"does stress make an itchy rash worse? mine flares up before work deadlines",eczema,"arms and neck",moderate,synthetic_llm
+"red irritated skin on the nape of my neck",eczema,"neck",mild,synthetic_llm
+"raw red patches in the bend of my elbows, they sting when I scratch",eczema,"elbow bend",moderate,synthetic_llm
+"hands itchy blisters feet too",eczema,"hands and feet",moderate,synthetic_llm
+"Dry rough rash on my 8 month old's legs and tummy, no fever, he scratches in his sleep",eczema,"legs and tummy",moderate,synthetic_llm
+"itchy rash on the inside of my wrists",eczema,"wrists",mild,synthetic_llm
+"ive had this coin shaped itchy patch on my shin for weeks, its crusty and oozes a bit",eczema,"shin",moderate,synthetic_llm
+"skin around my nipples is dry itchy and cracked",eczema,"chest",mild,synthetic_llm
+"sudden dry itchy rash on both legs",eczema,"legs",moderate,synthetic_llm
+"my teenage daughter has had dry red itchy skin in her elbows since she was little, now it's showing on her neck too and she's embarrassed to wear her hair up",eczema,"elbows and neck",moderate,synthetic_llm
+"help, skin on my feet is itchy and peeling between toes but no smell",eczema,"feet",mild,synthetic_llm
+"The itching is the worst part. It starts around 2am and I scratch until I bleed, mostly the inside of my knees and my ankles. Moisturizing twice a day helps a bit but the patches are still dark and rough.",eczema,"knees and ankles",severe,synthetic_llm
+"skin looks purple grey and thick on my forearms, itchy",eczema,"forearms",moderate,synthetic_llm
+"dry itchy hands since the baby came, washing all the time",eczema,"hands",moderate,synthetic_llm
+"red patches on cheeks of my toddler that get worse with drool",eczema,"cheeks",mild,synthetic_llm
+"itchy skin that gets worse with dry air and heating",eczema,"various",mild,synthetic_llm
+"Dr said I might have eczema, what cream is best for the itch",eczema,"arms",moderate,synthetic_llm
+"my arms itch like crazy but there is hardly anything to see just dryness",eczema,"arms",mild,synthetic_llm
+"cracking skin under my earlobes from earrings i think? its dry itchy",eczema,"earlobes",mild,synthetic_llm
+"patch on my inner thigh thats been itchy and thick for months, got worse when i scratch",eczema,"inner thigh",moderate,synthetic_llm
+"Whenever I eat certain foods or get anxious, the skin on my wrists and hands gets inflamed and itchy. I use fragrance free lotion but it still flares around once a month. It is annoying more than anything.",eczema,"wrists and hands",mild,synthetic_llm
+"skin dry itchy bumpy since moving to new city",eczema,"various",mild,synthetic_llm
+"my eyelids keep getting puffy and scaly, itchy but not painful",eczema,"eyelids",mild,synthetic_llm
+"dishwashing gloves made my fingers worse, red and flaky",eczema,"fingers",moderate,synthetic_llm
+"flaky red skin on my baby's scalp and forehead that he scratches",eczema,"scalp and forehead",mild,synthetic_llm
+"What are these itchy scaly spots on my legs? They keep coming back",eczema,"legs",moderate,synthetic_llm
+"itching so bad skin broke open and is stinging",eczema,"various",severe,synthetic_llm
+"rough patches on my hands that sting when I use sanitizer",eczema,"hands",moderate,synthetic_llm
+"no pain just really itchy dry skin in my elbow creases",eczema,"elbow creases",mild,synthetic_llm
+"red rash behind knees",eczema,"behind knees",moderate,synthetic_llm
+"In my culture people say its heat rash but it has been 6 months. The skin on my arms is dry, dark and itchy. I tried neem oil and coconut oil and it did not go away.",eczema,"arms",moderate,synthetic_llm
+"my face feels tight and flaky, itchy around nose and eyebrows area",eczema,"face",mild,synthetic_llm
+"oozing rash on the legs of my elderly dad, itchy and crusty",eczema,"legs",severe,synthetic_llm
+"skin itches the second i take my clothes off at night",eczema,"body",moderate,synthetic_llm
+"i keep scratching my wrist skin its so dry and itchy and red now",eczema,"wrists",moderate,synthetic_llm
+"Little kids at my daycare have been getting dry itchy patches, and now my 2 year old has them on his thighs and the creases of his arms. His pediatrician said keep him moisturized but I want to know why it flares so much.",eczema,"thighs and arm creases",moderate,synthetic_llm
+"red itchy rash on neck",eczema,"neck",mild,synthetic_llm
+"palms itchy tiny bumps that look like sago grains",eczema,"palms",moderate,synthetic_llm
+"scaly itchy skin that looks lighter after healing, on dark skin",eczema,"arms",mild,synthetic_llm
+"the skin on my ankles is thick and I just cant stop scratching it",eczema,"ankles",moderate,synthetic_llm
+"bad dry rash on hands from cleaning products",eczema,"hands",moderate,synthetic_llm
+"ugh my skin is flaring again, itchy red patches on my chest and the back of my neck",eczema,"chest and neck",moderate,synthetic_llm
+"my newborn has tiny dry itchy looking bumps on her cheeks and chin, is that normal",eczema,"cheeks and chin",mild,synthetic_llm
+"super dry skin, cracked heels, itchy legs",eczema,"legs and heels",mild,synthetic_llm
+"Started college a few months ago and my skin has gotten itchy, red and dry on my hands and in my elbow creases. I think it's stress plus the dorm soap. Lotion works for a day then it's back.",eczema,"hands and elbow creases",moderate,synthetic_llm
+"intense itch, red patches, scratching until skin weeps, both arms",eczema,"arms",severe,synthetic_llm
+"dry rough patch on cheek wont heal",eczema,"cheek",mild,synthetic_llm
+"red scaly patches on my lower legs that are itchy, i am 68",eczema,"lower legs",moderate,synthetic_llm
+"my skin gets rashy and itchy in the same spots over and over, mostly arms and neck",eczema,"arms and neck",moderate,synthetic_llm
+"inflamed itchy skin on my fingertips, cracks and peeling, hurts to grip",eczema,"fingertips",severe,synthetic_llm
+"red bumpy skin on my back thats itchy",eczema,"back",moderate,synthetic_llm
+"it burns and itches around my eyes and I have had hay fever my whole life",eczema,"around eyes",moderate,synthetic_llm
+"dont know what this is, dry itchy circle on my arm not raised",eczema,"arm",mild,synthetic_llm
+"My skin has been extremely dry for 2 weeks and patches on my forearms started to weep and crust. I haven't changed anything except a new laundry detergent. I stopped it but the rash is still going.",eczema,"forearms",severe,synthetic_llm
+"scratchy rash on my legs wont stop itching",eczema,"legs",moderate,synthetic_llm
+"babys skin is dry and scaly on the tummy",eczema,"tummy",mild,synthetic_llm
+"red patches in elbow and knee folds, usually flare in cold weather",eczema,"elbow and knee folds",moderate,synthetic_llm
+"my scalp and hairline have dry red itchy skin and it also shows on my elbows",eczema,"scalp and elbows",moderate,synthetic_llm
+"tbh its just itchy skin everywhere that gets worse at night",eczema,"various",mild,synthetic_llm
+"My hands got so dry and cracked this winter that they bleed when I open my fingers. I use a thick cream but still wake up scratching. Do you think it's from washing so much?",eczema,"hands",severe,synthetic_llm
+"skin crawling itchy after swim class, red and dry",eczema,"arms and legs",mild,synthetic_llm
+"Is it eczema if its itchy but there is no rash for days?",eczema,"various",mild,synthetic_llm
+"light brown rough itchy marks on my cheeks as a kid, still get dry spots",eczema,"cheeks",mild,synthetic_llm
+"raised dry itchy plaque on my inner ankle",eczema,"inner ankle",moderate,synthetic_llm
+"red weepy skin on arms",eczema,"arms",severe,synthetic_llm
+"My 5 year old keeps waking up scratching his knees and elbows. His skin is dry and a little red but no blisters. We've been using baby lotion and it's not enough.",eczema,"knees and elbows",moderate,synthetic_llm
+"rash on hands and arms itchy dry flaky",eczema,"hands and arms",moderate,synthetic_llm
+"cracked dry skin on my lips corners and chin, red and itchy around it",eczema,"lips and chin",mild,synthetic_llm
+"itchy skin only in winter, summer its fine",eczema,"various",mild,synthetic_llm
+"hello i have rough itchy marks on my hands and my skin looks red brown on my skin tone",eczema,"hands",moderate,synthetic_llm
+"so many scratch marks on my legs from itching in my sleep",eczema,"legs",moderate,synthetic_llm
+"My skin breaks out in a patchy dry itchy rash on my neck and chest whenever I get a cold or have a bad week at work. It fades after a few days of moisturizing but I worry it is going to keep coming back.",eczema,"neck and chest",mild,synthetic_llm
+"swollen itchy hands after wearing nitrile gloves all day",eczema,"hands",moderate,synthetic_llm
+"red irritated patches on my toddlers face and she keeps scratching",eczema,"face",moderate,synthetic_llm
+"dry flaky skin that bleeds when scratched",eczema,"various",moderate,synthetic_llm
+"tight itchy skin after soap, looks pink",eczema,"various",mild,synthetic_llm
+"patchy itchy rash on my belly, not painful, comes and goes",eczema,"abdomen",mild,synthetic_llm
+"itchy red rash around my elbow that i keep scratching at night, it's dry and thick now",eczema,"elbow",moderate,synthetic_llm
+"Does anyone else's kid get these rough scaly patches in the elbow bend? My daughter is 4 and the pediatrician mentioned it runs in families with allergies.",eczema,"elbow bend",mild,synthetic_llm
+"bumpy dry itchy skin on upper arms",eczema,"upper arms",mild,synthetic_llm
+"my skin is so itchy i cant concentrate at work",eczema,"arms",moderate,synthetic_llm
+"cracked red skin under my wedding ring, itchy",eczema,"ring finger",mild,synthetic_llm
+"all over rash, red and itchy, dry, i think my whole body is flaring",eczema,"whole body",severe,synthetic_llm
+"scratching the insides of my elbows has turned the skin dark and bumpy",eczema,"inner elbows",moderate,synthetic_llm
+"itchy red skin on hands after using hand sanitizer a lot",eczema,"hands",mild,synthetic_llm
+"my skin has red scaly spots on wrists, nothing helps for the itch",eczema,"wrists",moderate,synthetic_llm
+"It began as a small dry patch on my forearm about a month ago and now it's bigger, red and really itchy. I have asthma and my brother had skin problems as a kid. Is that connected?",eczema,"forearm",moderate,synthetic_llm
+"face rash itchy flaky red cheeks",eczema,"cheeks",mild,synthetic_llm
+"babys elbows rough and red",eczema,"elbows",mild,synthetic_llm
+"super itchy skin, white flakes, redness, creases of arms",eczema,"arm creases",moderate,synthetic_llm
+"cannot sleep due to itchy rash on legs, scratched till bleeding",eczema,"legs",severe,synthetic_llm
+"I think my dry itchy hand rash got infected, it's oozing and has yellow crust now",eczema,"hands",severe,synthetic_llm
+"inner thigh and groin skin dry and itchy but no ring shape",eczema,"inner thigh",mild,synthetic_llm
+"my back and shoulders get itchy dry patches every autumn",eczema,"back and shoulders",mild,synthetic_llm
+"What helps a dry scaly itchy rash on a 1 year old who has a wheeze too?",eczema,"various",moderate,synthetic_llm
+"rough patch of skin on knee that itches only at night",eczema,"knee",mild,synthetic_llm
+"red and itchy skin around my nose with flaking, worse in cold",eczema,"around nose",mild,synthetic_llm
+"just moved to a dry climate and my skin has gone crazy, itchy and cracked all over",eczema,"various",moderate,synthetic_llm
+"cracks on my fingertips that sting and itch, I work in a salon with shampoo all day. They look red and shiny. I tried a barrier cream but it keeps coming back.",eczema,"fingertips",moderate,synthetic_llm
+"dark itchy patches on my legs i have been scratching since high school",eczema,"legs",moderate,synthetic_llm
+"my scalp is dry and itchy but the rash goes down behind my ears and onto my neck",eczema,"scalp and neck",mild,synthetic_llm
+"dry itch",eczema,"various",mild,synthetic_llm
+"my husband has red thick itchy skin on his hands and wrists, he scratches in his sleep",eczema,"hands and wrists",moderate,synthetic_llm
+"skin feels hot, itchy and raw in the folds of my arms",eczema,"arm folds",severe,synthetic_llm
+"tiny fluid filled bumps on my hands that burst when scratched",eczema,"hands",moderate,synthetic_llm
+"redness on lower legs itchy after long days standing, skin is dry and a little scaly, my ankles swell too",eczema,"lower legs and ankles",moderate,synthetic_llm
+"I'm a 30 year old guy and just got this dry itchy red patch on both sides of my neck, tried antifungal cream and nothing happened",eczema,"neck",moderate,synthetic_llm
+"my little girl wakes up with blood on her pillow from scratching her face",eczema,"face",severe,synthetic_llm
+"scaly skin on the wrists, no itch at the moment but it flares",eczema,"wrists",mild,synthetic_llm
+"patches on my hands that look dry but turn red when I go outside in the cold",eczema,"hands",mild,synthetic_llm
+"red dry itchy skin on my upper eyelids, I have had it on and off since I was a teenager. Wearing makeup makes it worse and it feels tight.",eczema,"upper eyelids",mild,synthetic_llm
+"ankles itchy and rashy",eczema,"ankles",moderate,synthetic_llm
+"why do my elbows get red and itchy but only on the inside?",eczema,"inner elbows",mild,synthetic_llm
+"skin cracks and weeps when its dry, been like this since I was little",eczema,"various",moderate,synthetic_llm
+"my 6 month old has a red rough rash on his cheeks and now there are patches on his legs, we started solids last week",eczema,"cheeks and legs",moderate,synthetic_llm
+"itchy rash legs arms",eczema,"arms and legs",moderate,synthetic_llm
+"itchy red rash on my neck and chest that gets better on vacation",eczema,"neck and chest",mild,synthetic_llm
+"dry patches on my knuckles that keep getting worse",eczema,"knuckles",mild,synthetic_llm
+"My foot skin is peeling and itchy on the sides with small blisters. It is not athletes foot as I tried the cream and nothing changed. Both feet are the same.",eczema,"feet",moderate,synthetic_llm
+"cant stop scratching hands, burning after",eczema,"hands",moderate,synthetic_llm
+"scaly red patches on my arms and I also get asthma, wondering if related",eczema,"arms",moderate,synthetic_llm
+"my skin feels dry and itchy all the time and i dont even have any visible rash",eczema,"various",mild,synthetic_llm
+"red rough patches on baby's ankles",eczema,"ankles",mild,synthetic_llm
+"pretty sure its my skin condition again, back of knees is red and itchy",eczema,"behind knees",moderate,synthetic_llm
+"thickened itchy skin on the back of my neck, gets worse when I'm anxious",eczema,"back of neck",moderate,synthetic_llm
+"When winter comes the skin on my forearms and the backs of my hands turn so dry that it looks like cracked dry mud. It itches and I use lotion constantly. This winter it started in October.",eczema,"forearms and hands",moderate,synthetic_llm
+"rash in the bends of both elbows, looks red on light skin and almost grey on mine",eczema,"elbow bends",moderate,synthetic_llm
+"itchy red blisters on palms after summer",eczema,"palms",moderate,synthetic_llm
+"my lips and the skin around them are cracked and itchy",eczema,"lips",mild,synthetic_llm
+"help with itchy skin plz, doctor appt is far away",eczema,"various",moderate,synthetic_llm
+"My toddler's whole torso has a dry scaly rash and he scratches it raw. We tried changing detergent and bathing less. He is otherwise healthy and happy.",eczema,"torso",moderate,synthetic_llm
+"the skin on my hands is dry and itchy but I can tell it isn't from washing, because it happens even on days off",eczema,"hands",mild,synthetic_llm
+"red itchy bumps spreading on my arms when its cold",eczema,"arms",mild,synthetic_llm
+"skin patches keep coming back and its so itchy",eczema,"various",moderate,synthetic_llm
+"cracked itchy skin on both legs worse after shaving",eczema,"legs",mild,synthetic_llm
+"I get a weepy itchy rash in the same elbow spots whenever I eat eggs, even though my allergy test was normal",eczema,"elbows",moderate,synthetic_llm
+"dry cracked patch on my breast that itches, im breastfeeding",eczema,"breast",mild,synthetic_llm
+"weird dry itchy spots all over my body",eczema,"various",mild,synthetic_llm
+"old dry rough marks on my forearms look darker than the rest of my skin, itching on and off",eczema,"forearms",mild,synthetic_llm
+"my kid has an itchy scaly rash on her scalp, face and hands",eczema,"scalp, face and hands",moderate,synthetic_llm
+"flare up! red raw itchy skin on my hands and neck again",eczema,"hands and neck",severe,synthetic_llm
+"inside of my knees has been red and rough since last week",eczema,"inside knees",mild,synthetic_llm
+"I'm so tired of this itch. Moisturizer, cold compress, antihistamines for sleep and I still scratch the red patches on my arms in my sleep every night.",eczema,"arms",severe,synthetic_llm
+"dry itchy skin on my shoulders and upper back after the gym",eczema,"shoulders and upper back",mild,synthetic_llm
+"my grandmother's shins are scaly, red and itchy and she's 82",eczema,"shins",moderate,synthetic_llm
+"itchy rash inside my elbows since last night, never had it before",eczema,"inner elbows",mild,synthetic_llm
+"cracked weepy skin on my ear canal and outer ear, itchy",eczema,"ear",moderate,synthetic_llm
+"rash wont heal, red dry and itchy on stomach",eczema,"abdomen",moderate,synthetic_llm
+"dry sore patches on my hands, I'm a new mom and wash bottles all day. My knuckles crack and the skin around my thumbs is red and itchy.",eczema,"hands and thumbs",moderate,synthetic_llm
+"red bumps and dry skin on baby's thighs",eczema,"thighs",mild,synthetic_llm
+"skin on my feet dry, itchy and cracked on the soles, kids shoes maybe",eczema,"soles of feet",mild,synthetic_llm
+"inflamed patches on my cheeks and forehead that I scratch till they crust, 12 years old",eczema,"cheeks and forehead",moderate,synthetic_llm

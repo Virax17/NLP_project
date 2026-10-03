@@ -34,6 +34,8 @@ DISCLAIMER = "This is for information only. Please see a dermatologist for a pro
 ASK_BELOW = 0.70
 MIN_MARGIN = 0.30
 START_BUDGET = 4
+SPECIFIC_PURITY = 0.6
+SPECIFIC_MIN_DOCS = 6
 YES_BOOST = 2.5
 NO_PENALTY = 0.35
 
@@ -109,6 +111,10 @@ class Engine:
         vocab = list(self.tfidf.vocabulary_)
         self.unigrams = sorted(w for w in vocab if " " not in w)
         self.unigram_set = set(self.unigrams)
+        # A word is "specific" when most training messages containing it share one disease.
+        with open(os.path.join(model_dir, "word_purity.pkl"), "rb") as f:
+            purity = pickle.load(f)
+        self.specific = {w for w, (p, n) in purity.items() if p >= SPECIFIC_PURITY and n >= SPECIFIC_MIN_DOCS}
         self.stop = set(stopwords.words("english")) - KEEP_WORDS
         self.lem = WordNetLemmatizer()
         self.alias_patterns = []
@@ -234,20 +240,19 @@ class Engine:
         if len(found) >= 2 and re.search(r"\b(differ|difference|vs|versus|compare|or|between)\b", low):
             return self.out(replies + self.compare(found[0], found[1], ctx), self.after_answer_quick(), ctx)
 
-        if (found or (aspects and ctx["last"] and not has_skin_symptom_phrase(low))) and (aspects or len(words) <= 5):
+        residual = self.strip_names(low)
+        describes = bool(SKIN_RE.search(residual)) or bool(SKIN_RE.search(self.prep(residual)))
+        if (found or (aspects and ctx["last"] and not describes)) and (aspects or not describes):
             key = found[0] if found else ctx["last"]
             if key:
                 return self.out(replies + self.disease_info(key, aspects, ctx), self.followup_quick(key, aspects), ctx)
 
-        if (set(aspects) - {"what_is"}) and not found and not ctx["last"] and not has_skin_symptom_phrase(low):
+        if (set(aspects) - {"what_is"}) and not found and not ctx["last"] and not describes:
             return self.out(replies + [self.text(
                 "Happy to explain. Which condition do you mean, or can you describe your symptoms first?")],
                 ["Eczema", "Psoriasis", "Acne", "Describe my symptoms"], ctx)
 
         if has_skin or found:
-            if found and not has_skin_symptom_phrase(low) and not aspects:
-                return self.out(replies + self.disease_info(found[0], ["what_is"], ctx),
-                                self.followup_quick(found[0], ["what_is"]), ctx)
             r, q = self.add_symptoms(msg, ctx)
             return self.out(replies + r, q, ctx)
 
@@ -305,6 +310,11 @@ class Engine:
             if pat.search(low) and key not in found:
                 found.append(key)
         return found
+
+    def strip_names(self, low):
+        for _, pat in self.alias_patterns:
+            low = pat.sub(" ", low)
+        return low
 
     @staticmethod
     def find_aspects(low):
@@ -369,12 +379,17 @@ class Engine:
         toks = self.prep(" ".join(ctx["symptoms"])).split()
         return len({t for t in toks if t in self.unigram_set})
 
+    def specific_count(self, ctx):
+        toks = self.prep(" ".join(ctx["symptoms"])).split()
+        return len({t for t in toks if t in self.specific})
+
     def next_step(self, ctx, first=False):
         p = self.probabilities(ctx)
         order = np.argsort(p)[::-1]
         top, second = p[order[0]], p[order[1]]
         can_ask = len(ctx["asked"]) < ctx["budget"]
-        thin = self.evidence(ctx) < 3 and not ctx["boosts"]
+        generic = self.specific_count(ctx) == 0 and not ctx["boosts"]
+        thin = (self.evidence(ctx) < 3 and not ctx["boosts"]) or generic
         if can_ask and (thin or top < ASK_BELOW or (top - second) < MIN_MARGIN):
             qid = self.pick_question(ctx, p)
             if qid:
@@ -458,8 +473,11 @@ class Engine:
         order = np.argsort(p)[::-1]
         key = self.classes[order[0]]
         top = float(p[order[0]])
-        if self.evidence(ctx) < 3 and not ctx["boosts"]:
-            top = min(top, 0.35)
+        if not ctx["boosts"]:
+            if self.evidence(ctx) < 3 or self.specific_count(ctx) == 0:
+                top = min(top, 0.35)
+            elif self.specific_count(ctx) < 2:
+                top = min(top, 0.6)
         d = K.DISEASES[key]
         ctx["last"] = key
         ctx["pending"] = None
@@ -494,10 +512,3 @@ class Engine:
         if CHILD_RE.search(" ".join(ctx["symptoms"]).lower()):
             follow = "Since this involves a child, a pediatrician or dermatologist is the best next step. " + follow
         return ([self.text(intro), result, self.text(follow)], self.after_answer_quick())
-
-
-def has_skin_symptom_phrase(low):
-    """True when the message describes how skin looks or feels, not just names a condition."""
-    return bool(re.search(
-        r"\b(i have|i got|i am|i'm|my|there (is|are)|it is|it's|itchy|red|bumps?|patch(es)?|rash|spots?|painful|dry|swollen|peeling)\b",
-        low)) and bool(SKIN_RE.search(re.sub(r"\b(eczema|psoriasis|acne|ringworm|vitiligo|rosacea|scabies|hives|dermatitis|tinea|urticaria)\b", "", low)))

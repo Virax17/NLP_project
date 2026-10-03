@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"rash where my watch sits",contact_dermatitis,wrist,mild,synthetic_llm
+"The skin under my wedding ring has gotten red and scaly and it itches like crazy.",contact_dermatitis,ring finger,moderate,synthetic_llm
+"itchy red streaks on arms after hiking",contact_dermatitis,arms,moderate,synthetic_llm
+"Started three days after I dyed my hair at home. My scalp, ears and the back of my neck are red, itchy and oozing a bit. I tried hydrocortisone cream from the pharmacy and it only helps a little.",contact_dermatitis,"scalp, ears and neck",severe,synthetic_llm
+"blisters on hands after cleaning",contact_dermatitis,hands,moderate,synthetic_llm
+"why does my neck get a red itchy rash every time i wear this one necklace?",contact_dermatitis,neck,mild,synthetic_llm
+"Ever since I switched laundry soap my arms and torso get itchy red bumps by evening.",contact_dermatitis,"arms and torso",moderate,synthetic_llm
+"red itchy patches",contact_dermatitis,various,mild,synthetic_llm
+"rash under earrings",contact_dermatitis,earlobes,mild,synthetic_llm
+"my hands got super red and cracked after cleaning w bleach all weekend, they sting when i wash them",contact_dermatitis,hands,moderate,synthetic_llm
+"My eyelids puffed up and turned red the day after I tried a new eyeshadow palette.",contact_dermatitis,eyelids,moderate,synthetic_llm
+"I started a new job as a dental assistant and wear latex gloves all day. By the afternoon my hands are red, itchy and the skin between my fingers is cracking. Washing makes it burn.",contact_dermatitis,hands,moderate,synthetic_llm
+"belly button rash from jeans button",contact_dermatitis,abdomen,mild,synthetic_llm
+"There's a perfectly straight line of tiny blisters on my shin and it itches terribly.",contact_dermatitis,shin,moderate,synthetic_llm
+"rash on my face",contact_dermatitis,face,mild,synthetic_llm
+"is it normal for my skin to get dark and itchy right where my bracelet touches it",contact_dermatitis,wrist,mild,synthetic_llm
+"scalp burning after hair dye",contact_dermatitis,scalp,severe,synthetic_llm
+"My 8 month old got a red rash on her bottom and thighs after we switched wipes. No fever and she seems fine otherwise, but it clears up when I only use water. Not sure if I should worry.",contact_dermatitis,"diaper area",moderate,synthetic_llm
+"The back of my neck broke out in a rash right after the salon colored my hair.",contact_dermatitis,neck,moderate,synthetic_llm
+"swollen itchy eyelids after new mascara",contact_dermatitis,eyelids,moderate,synthetic_llm
+"cracked dry hands from dish soap",contact_dermatitis,hands,moderate,synthetic_llm
+"Two days ago I went hiking and now my forearms and ankles have blistered streaks that ooze. It itches so badly I can't sleep. Calamine lotion helps for maybe an hour.",contact_dermatitis,"forearms and ankles",severe,synthetic_llm
+"My earlobes are red and weepy every time I wear the cheap hoop earrings.",contact_dermatitis,earlobes,moderate,synthetic_llm
+"rash on hands",contact_dermatitis,hands,mild,synthetic_llm
+"my skin around the belt buckle is red and itchy no idea why its only there",contact_dermatitis,waist,mild,synthetic_llm
+"Got a rash on my forearm in the exact shape of the bandage I wore yesterday.",contact_dermatitis,forearm,mild,synthetic_llm
+"itchy neck from new necklace",contact_dermatitis,neck,mild,synthetic_llm
+"My wrists are itchy and red where my new smartwatch sits. I switched to a different band and it is slowly getting better. It never spreads past the band area.",contact_dermatitis,wrist,mild,synthetic_llm
+"Lately my fingertips are dry, red and peeling since I started working at the hair salon.",contact_dermatitis,fingertips,moderate,synthetic_llm
+"red patch on cheek after new moisturizer",contact_dermatitis,cheek,mild,synthetic_llm
+"After the camping trip I woke up with swollen red arms covered in little blisters.",contact_dermatitis,arms,severe,synthetic_llm
+"rash after using a new face wash",contact_dermatitis,face,mild,synthetic_llm
+"hand sanitizer made my hands raw",contact_dermatitis,hands,moderate,synthetic_llm
+"I'm 34 weeks pregnant and tried a new body lotion last week. Now my belly and arms have an itchy red rash with tiny bumps. I stopped the lotion yesterday and it is already less angry.",contact_dermatitis,"belly and arms",moderate,synthetic_llm
+"On my brown skin the area where the watch sits became dark, thick and itchy.",contact_dermatitis,wrist,mild,synthetic_llm
+"glove rash on my hands, latex i think",contact_dermatitis,hands,moderate,synthetic_llm
+"no pain, just an itchy red patch on my neck right where the clasp of my necklace was",contact_dermatitis,neck,mild,synthetic_llm
+"itchy ankles after new socks",contact_dermatitis,ankles,mild,synthetic_llm
+"My hands get red and itchy only on days I wear the rubber gloves at work.",contact_dermatitis,hands,moderate,synthetic_llm
+"Red scaly rash around my eyes since I started using a new night cream. It stings a bit when I put makeup on. I stopped the cream four days ago and it has barely improved so far.",contact_dermatitis,"around eyes",moderate,synthetic_llm
+"rash on neck after perfume",contact_dermatitis,neck,mild,synthetic_llm
+"Not really painful, but the skin on my wrist is red and itchy exactly where the fitness tracker band sits.",contact_dermatitis,wrist,mild,synthetic_llm
+"red bumps where bra clasp touches",contact_dermatitis,back,mild,synthetic_llm
+"My inner thighs got a sharp-edged red rash after I wore the new leggings once.",contact_dermatitis,"inner thighs",moderate,synthetic_llm
+"why do my hands crack and itch every winter when i wash dishes without gloves?",contact_dermatitis,hands,moderate,synthetic_llm
+"My teenager came home with a blistery rash on his legs after a school trip to the woods. He says it started itching about a day later. We put an anti itch cream on it but it keeps spreading a little.",contact_dermatitis,legs,severe,synthetic_llm
+"itchy rash after sunscreen new brand",contact_dermatitis,face,moderate,synthetic_llm
+"The tops of my feet are red, itchy and swollen after wearing the new sandals all day.",contact_dermatitis,"tops of feet",moderate,synthetic_llm
+"red rash on thighs after new laundry detergent",contact_dermatitis,thighs,moderate,synthetic_llm
+"theres this weird red mark on my arm with really sharp edges and it itches",contact_dermatitis,arm,mild,synthetic_llm
+"Just noticed my chest has a red itchy patch shaped exactly like my pendant.",contact_dermatitis,chest,mild,synthetic_llm
+"rash only where the strap rubs",contact_dermatitis,shoulder,mild,synthetic_llm
+"My lips are chapped, swollen and burning since I tried a cinnamon flavored lip gloss.",contact_dermatitis,lips,moderate,synthetic_llm
+"My elderly mother has red, weepy skin on her lower legs under the compression stockings. She started using a new skin cream a week ago too. It itches and she keeps scratching at night.",contact_dermatitis,"lower legs",moderate,synthetic_llm
+"itchy hands after gardening",contact_dermatitis,hands,mild,synthetic_llm
+"Skin around my ears peeled and itches since I got my glasses with the new frames.",contact_dermatitis,"behind ears",mild,synthetic_llm
+"help my hands are all red and sore after oven cleaner got on them idk what to do",contact_dermatitis,hands,severe,synthetic_llm
+"My underarms are red and sore ever since I switched to a scented antiperspirant.",contact_dermatitis,underarms,moderate,synthetic_llm
+"burning lips after lip balm",contact_dermatitis,lips,mild,synthetic_llm
+"A few hours after weeding the garden I got streaky itchy bumps all over my legs.",contact_dermatitis,legs,moderate,synthetic_llm
+"swollen red ears after hair dye",contact_dermatitis,ears,moderate,synthetic_llm
+"My hands have been rough and red for weeks and the moisturizer barely helps.",contact_dermatitis,hands,mild,synthetic_llm
+"Honestly it looks like a red scaly patch on my wrist the size of a coin. I just got a new bracelet last week and thought it was nothing. It itches mostly at night and a cheap steroid cream from the drugstore calmed it down some.",contact_dermatitis,wrist,mild,synthetic_llm
+"rash on forearm in a line",contact_dermatitis,forearm,mild,synthetic_llm
+"There is a rash on the back of my knees, itchy and red, that showed up after the new gym shorts.",contact_dermatitis,"back of knees",mild,synthetic_llm
+"My neck has a red itchy band where my work lanyard rests.",contact_dermatitis,neck,mild,synthetic_llm
+"is this contact dermatitis? red itchy rash on my wrist under the watch",contact_dermatitis,wrist,mild,synthetic_llm
+"itchy rash on finger under ring",contact_dermatitis,finger,mild,synthetic_llm
+"The fingers of my right hand are blistered and weepy after handling cleaning chemicals at my job all week.",contact_dermatitis,fingers,severe,synthetic_llm
+"Moved into a new apartment and started cleaning with strong disinfectant wipes without gloves. Within a week my knuckles split and my palms are red, scaly and tender. I am 27 and use my hands for typing all day so it really bothers me.",contact_dermatitis,hands,moderate,synthetic_llm
+"The rash on my face is itchy and red but mostly around my eyes and mouth.",contact_dermatitis,"eyes and mouth",mild,synthetic_llm
+"rash around mouth new toothpaste",contact_dermatitis,"around mouth",mild,synthetic_llm
+"my feet are itchy red and swollen after wearing my new boots, only where the leather touches",contact_dermatitis,feet,moderate,synthetic_llm
+"The skin on my hands is raw between the fingers since the baby came and I'm washing and sanitizing constantly.",contact_dermatitis,hands,moderate,synthetic_llm
+"red patch on thumb and index finger that itches after peeling oranges",contact_dermatitis,fingers,mild,synthetic_llm
+"itchy rash on eyelids no other symptoms",contact_dermatitis,eyelids,mild,synthetic_llm
+"Face got puffy and flaky around the cheeks after I used a different sunscreen at the beach. I assumed it was sunburn but sunburn would not have waited two days. Aloe didn't help, hydrocortisone did a little.",contact_dermatitis,cheeks,moderate,synthetic_llm
+"Itchy red rash on my hips where the waistband elastic sits.",contact_dermatitis,hips,mild,synthetic_llm
+"skin peeling on my hands after bleach",contact_dermatitis,hands,moderate,synthetic_llm
+"My foot has a rash on the top only, right where the shoe laces press.",contact_dermatitis,"top of foot",mild,synthetic_llm
+"Red patches on my arms that look more purplish brown on my skin, and they itch whenever I wear that one wool sweater.",contact_dermatitis,arms,mild,synthetic_llm
+"red spots where my phone rests on my cheek",contact_dermatitis,cheek,mild,synthetic_llm
+"I get a red bumpy rash on my wrist anytime I wear costume jewelry.",contact_dermatitis,wrist,mild,synthetic_llm
+"Rash popped up on my hands and forearms the day after sanding and painting the fence. It is red, blotchy and burns more than it itches. I washed with soap a lot but maybe I made it worse.",contact_dermatitis,"hands and forearms",moderate,synthetic_llm
+"rash on scalp line and forehead after shampoo",contact_dermatitis,forehead,mild,synthetic_llm
+"The patch of skin under my bra band is red, dry and itchy.",contact_dermatitis,"under bra band",mild,synthetic_llm
+"rash on thigh where keys sit in my pocket",contact_dermatitis,thigh,mild,synthetic_llm
+"My eyelids have been scaly and red for days and nothing seems new, though I did switch my contact lens solution.",contact_dermatitis,eyelids,moderate,synthetic_llm
+"tiny blisters on the sides of my fingers after washing dishes",contact_dermatitis,fingers,moderate,synthetic_llm
+"Skin on both palms is dark and cracked, itching but not painful.",contact_dermatitis,palms,mild,synthetic_llm
+"Okay so the rash is on my inner elbow and wrist, red and a little itchy, started the day after I tried a new body wash. I stopped using it and used plain petroleum jelly. Two days later it is much better.",contact_dermatitis,"elbow and wrist",mild,synthetic_llm
+"My ears got red and crusty after trying hair dye at home.",contact_dermatitis,ears,moderate,synthetic_llm
+"rash after poison ivy",contact_dermatitis,legs,severe,synthetic_llm
+"Blistered red skin on my fingers after I handled mango peel.",contact_dermatitis,fingers,moderate,synthetic_llm
+"round red rash on my chest from the heart monitor stickers",contact_dermatitis,chest,mild,synthetic_llm
+"itchy bumps on knees after kneeling on new yoga mat",contact_dermatitis,knees,mild,synthetic_llm
+"This itchy rash keeps coming back on my cheeks whenever I wear that foundation.",contact_dermatitis,cheeks,mild,synthetic_llm
+"I work in a kitchen and my hands are constantly wet. They are red, rough and fissured now and the cracks bleed when I flex my fingers. I tried petroleum jelly at night and it helps a bit but it never fully heals.",contact_dermatitis,hands,severe,synthetic_llm
+"The skin on my hand got red and puffy where the hand sanitizer splashed.",contact_dermatitis,hand,mild,synthetic_llm
+"rash on cheeks from surgical mask elastic",contact_dermatitis,cheeks,mild,synthetic_llm
+"Itchy red spots on the back of my thighs after a long day on the new vinyl car seat.",contact_dermatitis,"back of thighs",mild,synthetic_llm
+"left earlobe red itchy and right one is fine, i only wore the new earring on that side",contact_dermatitis,earlobe,mild,synthetic_llm
+"My hands are itchy and flaking since I started wearing nitrile gloves for dishwashing. I figured gloves would protect them. Taking them off, the skin looks red and shiny.",contact_dermatitis,hands,moderate,synthetic_llm
+"red blistering rash on fingers after sumac",contact_dermatitis,fingers,severe,synthetic_llm
+"Painful stinging rash on both hands since I used the oven cleaner without gloves.",contact_dermatitis,hands,severe,synthetic_llm
+"red patch on belly from adhesive patch",contact_dermatitis,abdomen,moderate,synthetic_llm
+"The skin on my forearms has red patches that look like streaks from the plants at my grandmother's farm.",contact_dermatitis,forearms,moderate,synthetic_llm
+"cheeks are red and itchy after the facial the spa did yesterday",contact_dermatitis,cheeks,moderate,synthetic_llm
+"Dry cracked patches on my knuckles that sting when I wash them.",contact_dermatitis,knuckles,mild,synthetic_llm
+"My 11 year old has a red itchy patch on her wrist and neck. She got a slime kit and some new play jewelry for her birthday last week. It looks worse each time she wears them but it fades when she skips a day.",contact_dermatitis,"wrist and neck",mild,synthetic_llm
+"A red itchy rash around the edges of my eyes since using lash glue at a salon.",contact_dermatitis,"around eyes",moderate,synthetic_llm
+"rash on my waist like a stripe following my pant line",contact_dermatitis,waist,mild,synthetic_llm
+"Bumpy red rash across my jawline and neck where my scarf touches.",contact_dermatitis,"jaw and neck",mild,synthetic_llm
+"my palms hurt and are red after cleaning the garage with solvent all sunday",contact_dermatitis,palms,moderate,synthetic_llm
+"I get this scaly red rash on my eyelids and upper cheeks every time I use perfumed products.",contact_dermatitis,"eyelids and cheeks",moderate,synthetic_llm
+"The skin on my lower back is red and itchy where the heating pad sat.",contact_dermatitis,"lower back",mild,synthetic_llm
+"red itchy skin around my watch strap, nothing else",contact_dermatitis,wrist,mild,synthetic_llm
+"My neck is itchy and darker than usual after wearing a nickel necklace for a week.",contact_dermatitis,neck,mild,synthetic_llm
+"couldnt stop scratching my hands after new dish gloves they are red and bumpy",contact_dermatitis,hands,moderate,synthetic_llm
+"My legs are covered in itchy red marks after walking through tall grass at the park. Some of them have turned into small blisters. It was only on skin that was not covered by my pants so that is probably the clue.",contact_dermatitis,legs,moderate,synthetic_llm
+"The inside of my wrist got a red blistered area right after trying a perfume sample.",contact_dermatitis,wrist,moderate,synthetic_llm
+"Nose and cheeks are sore and red after I changed my face wipes.",contact_dermatitis,"nose and cheeks",mild,synthetic_llm
+"red itchy rash on armpits after new deodorant",contact_dermatitis,underarms,moderate,synthetic_llm
+"My husband is a mechanic and his hands are cracked, red and peeling from the degreaser. No rash anywhere else on his body and it improves a bit on vacation. He says it burns more than it itches.",contact_dermatitis,hands,moderate,synthetic_llm
+"bumps and redness on my scalp after i used a new hair dye, burning not itching",contact_dermatitis,scalp,severe,synthetic_llm
+"My cheek has a red patch the shape of my mask edge.",contact_dermatitis,cheek,mild,synthetic_llm
+"why is my skin red and itchy only where the plaster was?",contact_dermatitis,arm,mild,synthetic_llm
+"rash on legs",contact_dermatitis,legs,mild,synthetic_llm
+"Weepy crusted patch behind my ear where the hearing aid rests, and my father says it gets worse after he uses the new cleaning spray on it.",contact_dermatitis,"behind ear",moderate,synthetic_llm
+"red itchy rash around the stoma site from the adhesive bag",contact_dermatitis,abdomen,moderate,synthetic_llm
+"Fingers swollen, red and itchy after handling raw chili peppers.",contact_dermatitis,fingers,mild,synthetic_llm
+"rash on my stomach in a square shape where i taped the glucose sensor",contact_dermatitis,abdomen,mild,synthetic_llm
+"face feels tight and burning after trying my friends serum, red blotchy and no bumps",contact_dermatitis,face,moderate,synthetic_llm
+"The skin of my hands has turned thick, dark brown and itchy from constantly wearing rubber gloves at work. It never fully clears even when I am off. It is not painful, just uncomfortable and ugly.",contact_dermatitis,hands,mild,synthetic_llm
+"Spots on my back and chest that itch after wearing the new polyester shirt.",contact_dermatitis,"back and chest",mild,synthetic_llm
+"itchy red bumps under my chin and neck, a new beard oil is the only thing I changed",contact_dermatitis,"chin and neck",mild,synthetic_llm
+"My daughter's cheeks are red and chapped around the mouth every time she uses the strawberry flavored kids toothpaste.",contact_dermatitis,"cheeks and mouth",mild,synthetic_llm
+"rash from cheap hoops, ears are crusty",contact_dermatitis,ears,moderate,synthetic_llm
+"rash on hands and wrists, red and cracked",contact_dermatitis,"hands and wrists",moderate,synthetic_llm
+"sore itchy rash hands washing all day nurse",contact_dermatitis,hands,moderate,synthetic_llm
+"Itchy rash across my eyelids and under my eyes after I got tinted brow dye done.",contact_dermatitis,"eyelids and under eyes",moderate,synthetic_llm
+"swollen face and eyelids after hair dye allergy",contact_dermatitis,"face and eyelids",severe,synthetic_llm
+"Red, dry, itchy skin on my fingers every winter since I started wearing the hand cream from my aunt.",contact_dermatitis,fingers,mild,synthetic_llm
+"I noticed a few weeks ago that the skin on my hands looked kind of red and rough, and now it is spreading up my wrists. I am a hairdresser and I often forget gloves. It stings in the shower.",contact_dermatitis,"hands and wrists",moderate,synthetic_llm
+"Rash on my chest and neck, red with a bit of oozing, started the morning after I tried a new essential oil blend on my skin.",contact_dermatitis,"chest and neck",moderate,synthetic_llm
+"my armpits are on fire and red after switching deodorant brands not really itchy",contact_dermatitis,underarms,moderate,synthetic_llm
+"red rash tops of my hands and wrists after using strong cleaner",contact_dermatitis,"hands and wrists",moderate,synthetic_llm
+"Weird rash around my belly button and on my earlobes, both places I wear metal, and it clears when I stay off jewelry.",contact_dermatitis,"belly button and earlobes",mild,synthetic_llm
+"Is this normal? Both my cheeks went red and itchy after using my cousin's makeup brushes.",contact_dermatitis,cheeks,mild,synthetic_llm
+"a rash showed up on my neck, just red and itchy",contact_dermatitis,neck,mild,synthetic_llm
+"My scalp is itchy and stingy since using a new shampoo, and the skin along my hairline and ears is red.",contact_dermatitis,"scalp and hairline",moderate,synthetic_llm
+"streaky red lines on my arm with little blisters",contact_dermatitis,arm,moderate,synthetic_llm
+"Red patches on my face and neck that sting more than they itch, started after a new serum. On my deep brown skin it looks darker and a bit ashy around the edges. I stopped the serum and have been using only plain moisturizer.",contact_dermatitis,"face and neck",moderate,synthetic_llm
+"How long does an allergic skin rash from a new bracelet usually last?",contact_dermatitis,wrist,mild,synthetic_llm
+"pls help red rash on hands after wearing gloves for painting its so itchy",contact_dermatitis,hands,moderate,synthetic_llm
+"The rash on my chest is red and sharply outlined, only where the sticky ECG pad was, and it itches a lot.",contact_dermatitis,chest,moderate,synthetic_llm
+"Bright red cracked patches on my hands from sanitizer, doctor said stop using it so much.",contact_dermatitis,hands,moderate,synthetic_llm
+"Itching and tiny blisters on the palms and fingers since I switched jobs to the car wash.",contact_dermatitis,"palms and fingers",moderate,synthetic_llm
+"swollen red lips and chin after eating mango, itchy but no trouble breathing",contact_dermatitis,"lips and chin",mild,synthetic_llm
+"my eyes look puffy and the skin is flaky and red on the lids, idk if its the eyedrops",contact_dermatitis,eyelids,moderate,synthetic_llm
+"scratchy patch on my inner thigh from new swim trunks",contact_dermatitis,"inner thigh",mild,synthetic_llm
+"We just painted the nursery and I touched the wood stain with bare hands. By evening my hands were red and the skin on my palms is now peeling. I am pregnant so I am trying not to use strong creams.",contact_dermatitis,hands,moderate,synthetic_llm
+"Is there a way to tell if a rash is from a nickel allergy? Mine is on my belly where my jeans button sits.",contact_dermatitis,abdomen,mild,synthetic_llm
+"itchy red rash patchy on my hands and arms after the weekend yard work",contact_dermatitis,"hands and arms",moderate,synthetic_llm
+"rash on my skin from stickers",contact_dermatitis,various,mild,synthetic_llm
+"My neck skin is red, scaly and thickened and has been that way for months, I realize it is where my collar and scented fabric softener hit.",contact_dermatitis,neck,mild,synthetic_llm
+"Peeling red skin on the sole and top of my foot after the new rubber flip flops.",contact_dermatitis,feet,moderate,synthetic_llm
+"Burning, red, swollen skin on my forearm right after the herbal compress my neighbour recommended.",contact_dermatitis,forearm,severe,synthetic_llm
+"cant sleep from itching, my legs have streaks of tiny blisters since i helped clear brush yesterday",contact_dermatitis,legs,severe,synthetic_llm
+"Raw looking rash all over the area where I used the new waxing strips.",contact_dermatitis,legs,moderate,synthetic_llm
+"Fingers are red and itchy but only the ones that touch the new phone case.",contact_dermatitis,fingers,mild,synthetic_llm
+"red patch with clear edges on my back where i wore a lidocaine patch",contact_dermatitis,back,moderate,synthetic_llm
+"What is this red scaly patch on my cheek that came the day after I tried a new foundation?",contact_dermatitis,cheek,mild,synthetic_llm
+"Splotchy purple brown itchy marks on my shins after walking through some weeds.",contact_dermatitis,shins,moderate,synthetic_llm
+"Itchy rash anywhere my skin touches my work uniform, mostly the collar and cuffs.",contact_dermatitis,"neck and wrists",mild,synthetic_llm
+"red bumpy rash on my forehead where my new hat sweatband sits",contact_dermatitis,forehead,mild,synthetic_llm
+"My grandfather has red scaly skin on his hands that cracks and bleeds, he has farmed and used fertilizer his whole life. Moisturizer helps only briefly.",contact_dermatitis,hands,severe,synthetic_llm
+"itchy blistery rash on my face after touching my face with plant sap on my hands",contact_dermatitis,face,severe,synthetic_llm
+"spots of redness, not itchy at all, just kind of sore skin where my cast edge rubs",contact_dermatitis,arm,mild,synthetic_llm
+"rash on my chest that looks like the shape of my sports bra band",contact_dermatitis,chest,mild,synthetic_llm
+"Everything I put on my hands makes them burn. They are dry, red and cracked after months of wet work.",contact_dermatitis,hands,moderate,synthetic_llm
+"my face has a red irritated area around the nose, I used a new nose strip last night",contact_dermatitis,nose,mild,synthetic_llm
+"Is it contact dermatitis if the rash only appears on my hands after I wash them with this one brand of soap?",contact_dermatitis,hands,mild,synthetic_llm
+"Allergic contact dermatitis from hair dye again, scalp is red, swollen and oozing, third time this year.",contact_dermatitis,scalp,severe,synthetic_llm
+"Doctor mentioned contact dermatitis for the rash on my wrist but I'm not sure what triggered it.",contact_dermatitis,wrist,mild,synthetic_llm
+"just got diagnosed with contact dermatitis on my hands from latex, how do i get it to heal faster",contact_dermatitis,hands,moderate,synthetic_llm
+"Contact dermatitis around my belly button from my belt, itches nonstop.",contact_dermatitis,abdomen,moderate,synthetic_llm
+"contact dermatitis from poison oak, blisters everywhere on my arms",contact_dermatitis,arms,severe,synthetic_llm
+"Red, scaly, itchy patch exactly where my earbuds sit, looks like contact dermatitis to me.",contact_dermatitis,ears,mild,synthetic_llm
+"irritant contact dermatitis hands from all the handwashing at work",contact_dermatitis,hands,moderate,synthetic_llm
+"I think I have allergic contact dermatitis because it only shows up where the metal snap on my jacket touches my neck.",contact_dermatitis,neck,mild,synthetic_llm
+"face rash after beauty salon, red itchy and puffy around the eyes and chin",contact_dermatitis,"face",moderate,synthetic_llm
+"Red patches on my abdomen and thighs, started the same day we switched detergent. They itch most after a shower.",contact_dermatitis,"abdomen and thighs",moderate,synthetic_llm
+"Burning rash on my hands and the front of my legs after cleaning up a chemical spill at the lab. I rinsed with water for a bit. It looks red and shiny and hurts more than it itches.",contact_dermatitis,"hands and legs",severe,synthetic_llm
+"itchy patch on my arm that burns when I touch anything, since I used the new bug spray",contact_dermatitis,arm,moderate,synthetic_llm
+"just a red irritated rash on my chin and upper lip after shaving with a new cream",contact_dermatitis,"chin and upper lip",mild,synthetic_llm
+"red itchy bumps on my wrist from the new leather watch band, gone when I leave it off for a day",contact_dermatitis,wrist,mild,synthetic_llm
+"Weird rash on my neck and ears since I tried a different shampoo. It is red and flaky and I tried an antihistamine but it did not do much.",contact_dermatitis,"neck and ears",moderate,synthetic_llm
+"itchy red patch fingers after cleaning fish tank",contact_dermatitis,fingers,mild,synthetic_llm
+"Red irritated skin on my hands, sore and tight, after weeks of working in the lab with disinfectant.",contact_dermatitis,hands,moderate,synthetic_llm

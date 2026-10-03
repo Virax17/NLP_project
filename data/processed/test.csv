@@ -1,102 +1,499 @@
-processed_text,disease,label
-red expanding circle arm dry flaky skin center,ringworm,5
-eye feel dry irritated along facial redness,rosacea,6
-acne scarring new breakout appearing time cheek,acne,0
-thickened skin back hand chronic scratching,eczema,2
-red bumpy rash armpit fold itch badly get warm,scabies,7
-weeping blister finger crust over itch terribly,eczema,2
-greasy yellowish crust buildup scalp near ear,seborrheic_dermatitis,8
-large flat raised welt stomach blanch white center,hives,3
-red irritated rash fold baby neck arm,eczema,2
-child red itchy patch face scalp since infancy,eczema,2
-red greasy patch chest butterfly pattern yellow scale,seborrheic_dermatitis,8
-face broke rash after trying new facial cream,contact_dermatitis,1
-skin thick silvery scale scalp flake lot,psoriasis,4
-hive appear foot ankle after standing long period,hives,3
-child break hive after eating strawberry,hives,3
-visible zigzag line skin hand terrible nighttime itch,scabies,7
-beard area patch hair grows white skin pale,vitiligo,9
-grainy bumpy texture cheek underlying redness stinging,rosacea,6
-dry flaky patch eyelid red irritated,eczema,2
-itchy red rash foot flare wear certain shoe,eczema,2
-nail become pitted separating nail bed,psoriasis,4
-unbearable itch hand foot night visible tiny burrow,scabies,7
-developed hive face throat after taking ibuprofen,hives,3
-red swollen eyelid after using new eye makeup,contact_dermatitis,1
-itchy red ring upper arm started small keep growing,ringworm,5
-dry flaky patch fingertip handling paper all day work,contact_dermatitis,1
-facial skin sting turn red after applying kind cream,rosacea,6
-silvery white plaque upper arm raised rough,psoriasis,4
-lip swell along welt face eat certain fruit,hives,3
-child got circular red patch cheek after hugging friend,ringworm,5
-itchy red patch elbow knee keep coming back,psoriasis,4
-round itchy patch between toe peeling skin,ringworm,5
-scalp extremely itchy yellow waxy buildup along hairline,seborrheic_dermatitis,8
-hand get raw red washing harsh industrial soap work,contact_dermatitis,1
-itchy round patch raised edge clear center thigh,ringworm,5
-ring shaped rash chest spreading two week,ringworm,5
-widespread itchy rash after swimming chlorinated pool,contact_dermatitis,1
-milky white patch behind ear expanding,vitiligo,9
-itchy ring shaped rash near groin get worse hot weather,ringworm,5
-visible network small blood vessel across entire nose,rosacea,6
-red irritated skin elbow fold constant scratching urge,scabies,7
-face turn beet red warm environment stressed,rosacea,6
-yellowish oily flake fold nose itchy,seborrheic_dermatitis,8
-red scaly ring face near beard area,ringworm,5
-get painful cystic bump chin every month,acne,0
-white patch appearing forearm contrast tan,vitiligo,9
-itching week family member started itching,scabies,7
-red irritated patch neck fold get worse sweat,eczema,2
-nose skin thickening becoming bumpy large pore,rosacea,6
-neck painful red bump sometimes leave dark scar,acne,0
-get inverse psoriasis groin fold smooth red patch,psoriasis,4
-baby tiny red bump palm sol make very fussy,scabies,7
-raised red patch irregular border chest back,hives,3
-greasy looking scale forehead above eyebrow,seborrheic_dermatitis,8
-flaky white patch chin underlying redness,psoriasis,4
-itchy red patch appeared arm after using new body wash,contact_dermatitis,1
-forehead hairline flaky greasy scale keep returning,seborrheic_dermatitis,8
-developed rash new watch band touch wrist,contact_dermatitis,1
-trunk get covered red itchy bump every time take aspirin,hives,3
-raised itchy patch first appear chest spread arm,hives,3
-red itchy bump hand after using new dish soap,contact_dermatitis,1
-chronic redness chin jawline occasional pustule,rosacea,6
-upper arm tiny rough bump look like goosebump,acne,0
-noticed red patch forming along hairline silvery flake,psoriasis,4
-red itchy patch necklace sits neck,contact_dermatitis,1
-red burning skin chest new body lotion tried yesterday,contact_dermatitis,1
-got rash arm after touching poison ivy garden,contact_dermatitis,1
-noticed track mark between toe along severe itching night,scabies,7
-constant breakout chest area whitehead red bump,acne,0
-burning itchy patch back neck thick scale,psoriasis,4
-fingernail tiny dent turning yellowish,psoriasis,4
-small burrow line visible wrist extreme itchiness,scabies,7
-eczema flare whenever use scented soap lotion,eczema,2
-comedo papule across zone area,acne,0
-persistent flaking redness forehead nasolabial fold,seborrheic_dermatitis,8
-red itchy patch chest shape yellowish scale,seborrheic_dermatitis,8
-circular red ring shaped rash arm,ringworm,5
-white milky patch elbow wrist,vitiligo,9
-red irritated skin patch around navel silvery scaling,psoriasis,4
-persistent dandruff like flaking eyebrow return within day treatment,seborrheic_dermatitis,8
-thin wavy line web space finger itch unbearably,scabies,7
-white spot wrist merged larger patch over time,vitiligo,9
-noticed knuckle fingertip losing color turning white,vitiligo,9
-mustache area red flaky patch greasy looking scale,seborrheic_dermatitis,8
-bumpy red irritated skin chin flaking tightness,rosacea,6
-red angry looking pimple back hurt lean chair,acne,0
-symmetrical white patch both knee,vitiligo,9
-large itchy wheal arm appeared after wasp sting nearby,hives,3
-itchy wheal torso keep appearing different spot,hives,3
-eyelid swollen dry flaky redness come go,eczema,2
-cluster whitehead red bump near sideburn area,acne,0
-acne flare ups around period deep bump chin jaw,acne,0
-got ring shaped itchy spot after playing stray cat,ringworm,5
-skin feel tight burn apply moisturizer affected area,eczema,2
-large area white skin abdomen without pigment,vitiligo,9
-irregular shaped white patch upper back spreading slowly,vitiligo,9
-eye water constantly feel gritty along red cheek,rosacea,6
-thin pencil mark like line inner wrist severe itching,scabies,7
-irregular white patch back noticed someone pointed,vitiligo,9
-open closed comedo scattered all over chin nose,acne,0
-rough bumpy texture nose enlarged pore permanent redness,rosacea,6
+processed_text,disease,label,source
+lot tiny bump nose visible pore,acne,0,synthetic_seed
+week red flaky skin around mouth corner nose think started after stressful month,seborrheic_dermatitis,8,synthetic_llm
+itchy rash come go week,hives,3,synthetic_llm
+nose become bulbous red thickened bumpy skin,rosacea,6,synthetic_seed
+deep painful nodule under skin jawline,acne,0,synthetic_seed
+red ring scaly itchy spreading,ringworm,5,synthetic_llm
+face pimple year lately red purplish mark lingering brown skin bump small closed feel go without concealer,acne,0,synthetic_llm
+son get dry rough patch wrist ankle scratch raw,eczema,2,synthetic_llm
+itchy skin hand wrist getting worse,scabies,7,synthetic_llm
+pink patch silvery coating arm started quit smoking stress went,psoriasis,4,synthetic_llm
+got rash stomach look like several raised pink island itch terribly,hives,3,synthetic_llm
+rash started small spot became big circle over month,ringworm,5,synthetic_llm
+body itch big bump all over allergy,hives,3,synthetic_llm
+rash circle arm leg scaly rim im wrestler,ringworm,5,synthetic_llm
+moved college dorm last month since get itchy rash around waist between finger ankle roommate scratching both kind freaked,scabies,7,synthetic_llm
+hi got alot pimple face back since month,acne,0,synthetic_llm
+new dorm shared shower skin between toe itchy white peeling tried tea tree oil nothing changed after week starting crack sting,ringworm,5,synthetic_llm
+itchy nipple little bump around,scabies,7,synthetic_llm
+nose cheek sore red after changed face wipe,contact_dermatitis,1,synthetic_llm
+peeling red skin sole top foot after new rubber flip flop,contact_dermatitis,1,synthetic_llm
+rash going outward circle nothing help,ringworm,5,synthetic_llm
+raised patch appear sleeve rub skin even bit pressure,hives,3,synthetic_llm
+not painful all oily rash fine white scale along brow forehead,seborrheic_dermatitis,8,synthetic_llm
+stress really make flaky red patch knee worse,psoriasis,4,synthetic_llm
+grainy bumpy texture cheek underlying redness stinging,rosacea,6,synthetic_seed
+skin get red tender around cheek whenever use scrub exfoliator,rosacea,6,synthetic_llm
+itchy red streak arm after hiking,contact_dermatitis,1,synthetic_llm
+dark skin going blotchy completely white area hand foot look like color erased doesnt itch,vitiligo,9,synthetic_llm
+foot rash top right shoe lace press,contact_dermatitis,1,synthetic_llm
+ear canal itchy flaky tip make worse,seborrheic_dermatitis,8,synthetic_llm
+red irritated skin greasy scale crease ear,seborrheic_dermatitis,8,synthetic_seed
+bartender share crowded apartment four people two u itchy rash hand wrist small bump showing around belt itching brutal night slept more three hour,scabies,7,synthetic_llm
+since started wearing mask all day skin around nose chin gotten red flaky not hurt peel little greasy flake swapped mask washed more often keep happening,seborrheic_dermatitis,8,synthetic_llm
+skin dry itchy bumpy since moving new city,eczema,2,synthetic_llm
+ever since divorce stress hand getting white patch no itch,vitiligo,9,synthetic_llm
+depigmented patch knuckle finger joint both hand,vitiligo,9,synthetic_seed
+red stuff groin crease burning pee shower not genitals,ringworm,5,synthetic_llm
+new pimple every week cant stop,acne,0,synthetic_llm
+greasy looking dandruff flake stuck hair hard remove,seborrheic_dermatitis,8,synthetic_seed
+skin ring not itchy all,ringworm,5,synthetic_llm
+dark brown scaly patch along hairline,seborrheic_dermatitis,8,synthetic_llm
+face sting every time walk warm room,rosacea,6,synthetic_llm
+face broke rash after trying new facial cream,contact_dermatitis,1,synthetic_seed
+itchy rash between finger wrist,scabies,7,synthetic_llm
+itching get worse after hot shower mostly wrist,scabies,7,synthetic_llm
+dandruff plus rash chest,seborrheic_dermatitis,8,synthetic_llm
+red skin patch arent wet oozing dry scaly sharp border,psoriasis,4,synthetic_llm
+pimple chest back embarrasing,acne,0,synthetic_llm
+husband say face look like always blushing like since last spring,rosacea,6,synthetic_llm
+thick rough red plaque right knee not itchy not painful,psoriasis,4,synthetic_llm
+small red papule cheek flare calm unpredictably,rosacea,6,synthetic_seed
+anything stop spread get new white patch shin whenever bump scratch,vitiligo,9,synthetic_llm
+depigmented area around eye look lighter rest face,vitiligo,9,synthetic_seed
+every time sweat during gym session get itchy little raised dot across chest,hives,3,synthetic_llm
+ear canal opening full flaky silver dry skin get white flake pillow,psoriasis,4,synthetic_llm
+rash thigh key sit pocket,contact_dermatitis,1,synthetic_llm
+round patch raised scaly border appeared wrist,ringworm,5,synthetic_seed
+ear peel inside behind like month,seborrheic_dermatitis,8,synthetic_llm
+think picked gym borrowed blanket arm belly itch all night,scabies,7,synthetic_llm
+scaly bald spot hair short stub,ringworm,5,synthetic_llm
+white patch belly,vitiligo,9,synthetic_llm
+spent afternoon hot tub raised red bump all over thigh waist itch badly no blister pu girlfriend think bug bite,hives,3,synthetic_llm
+hot shower make break bump,hives,3,synthetic_llm
+face get very oily midday develop new pimple,acne,0,synthetic_seed
+husband white patch hand face keep slowly growing 42 work outdoors sun make burn easily,vitiligo,9,synthetic_llm
+use thick sunscreen daily dark skin tone forehead cheek covered small flesh coloured bump wonder product clogging skin,acne,0,synthetic_llm
+white spot forehead,vitiligo,9,synthetic_llm
+write skin stay raised,hives,3,synthetic_llm
+red scabby patch elbow scratching intense itch all night,scabies,7,synthetic_seed
+itching all night wrist waist,scabies,7,synthetic_llm
+white flaky patch eyebrow look like dandruff thicker,psoriasis,4,synthetic_seed
+skin get clogged bumpy cheek cant seem stop new one forming,acne,0,synthetic_llm
+trunk get covered red itchy bump every time take aspirin,hives,3,synthetic_seed
+chest rash flaky pink spot not itchy since month,seborrheic_dermatitis,8,synthetic_llm
+rash hand look like small red dot scratch skin seems get thicker crusty,scabies,7,synthetic_llm
+itchy rash eyelid no symptom,contact_dermatitis,1,synthetic_llm
+patch ring appearance arm teenager brown skin little darker normal scaly,ringworm,5,synthetic_llm
+persistent redness across nose cheek never go away,rosacea,6,synthetic_seed
+itchy patch behind ear crusting over,eczema,2,synthetic_llm
+face look sunburn stay inside,rosacea,6,synthetic_llm
+white spot wrist merged larger patch over time,vitiligo,9,synthetic_seed
+anyone else kid get rough scaly patch elbow bend daughter pediatrician mentioned run family allergy,eczema,2,synthetic_llm
+flaking mustache area red underneath,seborrheic_dermatitis,8,synthetic_llm
+patch hand look dry turn red go outside cold,eczema,2,synthetic_llm
+started noticing red scaly patch chest upper back get greasy looking after sweat thought heat rash first lasted over month dandruff shampoo used body wash made somewhat better,seborrheic_dermatitis,8,synthetic_llm
+17 year old nephew lot pus-filled spot along forehead cheek scarring squeeze constantly embarrassed go school,acne,0,synthetic_llm
+mi skin red circle itch leg week,ringworm,5,synthetic_llm
+spot look like red drop sprinkled over thigh 14 tonsillitis last month,psoriasis,4,synthetic_llm
+beard area patch hair grows white skin pale,vitiligo,9,synthetic_seed
+scaly rash sharp border,ringworm,5,synthetic_llm
+itchy red spot leg thick scaly buildup,psoriasis,4,synthetic_seed
+keep getting pimple chin,acne,0,synthetic_llm
+itchy rash get better center like donut,ringworm,5,synthetic_llm
+several whitehead forehead couple tender one near mouth,acne,0,synthetic_llm
+12 year old daughter blackhead small bump nose forehead starting puberty anything wait,acne,0,synthetic_llm
+light patch flaky skin brown skin around nose look grayish bit ashy,seborrheic_dermatitis,8,synthetic_llm
+upper arm tiny rough bump look like goosebump,acne,0,synthetic_seed
+tiny blister side finger itch mostly night,scabies,7,synthetic_seed
+get weepy itchy rash elbow spot whenever eat egg even though allergy test normal,eczema,2,synthetic_llm
+skin itchy lately random raised bump try ignore last hour two student budget using ice pack hoping stop,hives,3,synthetic_llm
+baby month old red bump palm sol scream rub hand night tried diaper cream baby lotion pediatrician appointment not till thursday all edge,scabies,7,synthetic_llm
+thick white scale flake constantly scalp,psoriasis,4,synthetic_seed
+small itchy nodule groin area appeared after itching started,scabies,7,synthetic_seed
+skin flaking big white piece elbow,psoriasis,4,synthetic_llm
+treated acne year strong wash got redder bump cheek nose skin burn after washing,rosacea,6,synthetic_llm
+skin tone deep brown patch near nose look dark scaly instead red,seborrheic_dermatitis,8,synthetic_llm
+little red vein appeared across nose not going away,rosacea,6,synthetic_llm
+itchy red skin hand after using hand sanitizer lot,eczema,2,synthetic_llm
+itchy since lunch welt neck under chin,hives,3,synthetic_llm
+honestly started one pale spot knee last spring three matching one each leg no itch anything no color,vitiligo,9,synthetic_llm
+bump like mosquito bite everywhere,hives,3,synthetic_llm
+cradle cap infant scalp thick yellow crusty patch,seborrheic_dermatitis,8,synthetic_seed
+between finger palm get itchy puffy swelling after washing dish cold water,hives,3,synthetic_llm
+skin white area super sensitive sun,vitiligo,9,synthetic_llm
+itchy rash keep coming back cheek whenever wear foundation,contact_dermatitis,1,synthetic_llm
+round rash wont heal steroid cream actually got bigger,ringworm,5,synthetic_llm
+flaking itching burning scalp since last year,psoriasis,4,synthetic_llm
+small pimple face oily skin,acne,0,synthetic_seed
+itching lower belly inner thigh driving nut get red dot look like bite,scabies,7,synthetic_llm
+nail look yellow brown under tip lift away bed crumble scalp also flake,psoriasis,4,synthetic_llm
+blackhead whitehead t-zone,acne,0,synthetic_llm
+nail tiny pit like someone poked pin one lifting bed,psoriasis,4,synthetic_llm
+severe itching night rash spreading new body part each week,scabies,7,synthetic_seed
+milky white spot around mouth,vitiligo,9,synthetic_llm
+mother law 70 big white area hand neck slowly merged over few year say nothing hurt,vitiligo,9,synthetic_llm
+scaly red patch arm also get asthma wondering related,eczema,2,synthetic_llm
+got flaky salmon colored patch both side chin nose no pain all,seborrheic_dermatitis,8,synthetic_llm
+scalp patch thick yellow scale hard remove,seborrheic_dermatitis,8,synthetic_seed
+flaking skin bridge nose inner eyebrow corner,seborrheic_dermatitis,8,synthetic_seed
+cystic bump jaw hurt touch,acne,0,synthetic_llm
+face turn red nervous stay red,rosacea,6,synthetic_llm
+white patch everywhere help,vitiligo,9,synthetic_llm
+help flaky eyelid brow skin medium brown everything look gray scaly darker patch no pain little itch morning,seborrheic_dermatitis,8,synthetic_llm
+fine scaling side nose look like dry skin moisturizer not touch,seborrheic_dermatitis,8,synthetic_llm
+bumpy red rash foot shaped exactly like shoe strap,contact_dermatitis,1,synthetic_seed
+child wake scratching every night eczema arm,eczema,2,synthetic_seed
+itchy rash both thigh after new painkiller big red lump,hives,3,synthetic_llm
+get inverse psoriasis groin fold smooth red patch,psoriasis,4,synthetic_seed
+skin forearm red patch look like streak plant grandmother farm,contact_dermatitis,1,synthetic_llm
+started bit dandruff flaky red skin eyebrow ear fold nose,seborrheic_dermatitis,8,synthetic_llm
+patch near nose red scaly coworkers keep asking sunburned,seborrheic_dermatitis,8,synthetic_llm
+itchy rash earlobe wearing cheap earring,contact_dermatitis,1,synthetic_seed
+section eyebrow hair turned white along skin under,vitiligo,9,synthetic_llm
+thin wavy line web space finger itch unbearably,scabies,7,synthetic_seed
+psoriasis cause bleeding scratch scale back,psoriasis,4,synthetic_llm
+itchy flaking skin side nose look oily,seborrheic_dermatitis,8,synthetic_seed
+dry thick flaky red patch appeared hand after month dishwashing restaurant continue even day,psoriasis,4,synthetic_llm
+oily flaky skin around nostril,seborrheic_dermatitis,8,synthetic_llm
+doctor told might allergy antihistamine nothing night itching hand waist,scabies,7,synthetic_llm
+scalp itchy flaking since last week plz help,seborrheic_dermatitis,8,synthetic_llm
+no rash really skin constantly itchy dry,eczema,2,synthetic_llm
+itchy bump all over body since morning pls help,hives,3,synthetic_llm
+face patch scaly ring beside nose,ringworm,5,synthetic_llm
+itchy lump groin area,scabies,7,synthetic_llm
+welt follow wherever scratch arm look like pink track drawn,hives,3,synthetic_llm
+cheek red since pregnancy still,rosacea,6,synthetic_llm
+dandruff something else forehead edge also red flaking,seborrheic_dermatitis,8,synthetic_llm
+hormonal pimple chin neck,acne,0,synthetic_llm
+red patch cheek after new moisturizer,contact_dermatitis,1,synthetic_llm
+neck red itchy band work lanyard rest,contact_dermatitis,1,synthetic_llm
+sore itchy toe white soggy skin,ringworm,5,synthetic_llm
+ring shaped red rash shin slightly raised,ringworm,5,synthetic_llm
+dealing red cheek two year sun make worse wear spf 50 daily sometimes even sunscreen sting eased little gentle cleanser flare come back every month,rosacea,6,synthetic_llm
+face feel hot tingly visible small vein under skin,rosacea,6,synthetic_seed
+scaly stuff belly button ear,psoriasis,4,synthetic_llm
+patchy white skin finger,vitiligo,9,synthetic_llm
+long ring rash last never treat,ringworm,5,synthetic_llm
+red irritated skin elbow fold constant scratching urge,scabies,7,synthetic_seed
+white scaly patch sol both foot itching between toe got worse after hostel shower sandal broke,ringworm,5,synthetic_llm
+ever since turned 40 get pimple chin lower cheek not like teenage one more deep tender wondering hormone not tried anything yet,acne,0,synthetic_llm
+pale spot chest neck,vitiligo,9,synthetic_llm
+rash showed neck red itchy,contact_dermatitis,1,synthetic_llm
+face turn very red flushed especially center face,rosacea,6,synthetic_seed
+stubborn chin pimple,acne,0,synthetic_llm
+face white patch covering cheek getting worse would phototherapy help,vitiligo,9,synthetic_llm
+itchy rash after sleeping friend place,scabies,7,synthetic_llm
+cheek forehead flat-topped red welt worried before work meeting,hives,3,synthetic_llm
+skin light brown circular rash look dark brown scaly rim,ringworm,5,synthetic_llm
+red itchy skin groin look worse one side,ringworm,5,synthetic_llm
+no pain itchy red patch neck right clasp necklace,contact_dermatitis,1,synthetic_llm
+bright red inflamed skin fine scale head toe hot peeling,psoriasis,4,synthetic_llm
+dandruff get much worse during winter month thick flake,seborrheic_dermatitis,8,synthetic_seed
+itchy red rash around elbow keep scratching night dry thick,eczema,2,synthetic_llm
+after staying shared dorm room got very itchy rash between finger wrist,scabies,7,synthetic_llm
+skin behind knee cracked itchy,eczema,2,synthetic_llm
+look like map red raised patch side sting bit scratch,hives,3,synthetic_llm
+skin fingertip lost all color turned completely white,vitiligo,9,synthetic_seed
+pimple not acne think cheek nose lot redness no blackhead sting more itch since last winter confidence tanking,rosacea,6,synthetic_llm
+breakout under mask cheek,acne,0,synthetic_llm
+normal rash itch more after hot shower mostly bed,scabies,7,synthetic_llm
+face sting turn red every time walk past oven drink something hot few red bump near nose going since thirty,rosacea,6,synthetic_llm
+scaly red patch appeared chest after stressful period,psoriasis,4,synthetic_seed
+rash spreading outward circle stomach month middle seems healing,ringworm,5,synthetic_llm
+teenage niece lot red bump whitehead around chin cheek,acne,0,synthetic_llm
+gray patch hair stump scalp,ringworm,5,synthetic_llm
+leg covered itchy red mark after walking tall grass park turned small blister skin not covered pant probably clue,contact_dermatitis,1,synthetic_llm
+thick red patch covered silvery white scale lower back,psoriasis,4,synthetic_seed
+nurse few patient ward crusty rash hand itchy rash wrist waist worst night exhausted work,scabies,7,synthetic_llm
+get scaly red patch whenever weather turn cold elbow worst one near ear 47 brother thing assume genetic nothing buy work long,psoriasis,4,synthetic_llm
+widespread red scaly plaque trunk limb,psoriasis,4,synthetic_seed
+itchy bump around belly button,scabies,7,synthetic_llm
+tired itch moisturizer cold compress antihistamine sleep still scratch red patch arm sleep every night,eczema,2,synthetic_llm
+strange pale blotch over body,vitiligo,9,synthetic_llm
+normal mole white ring around,vitiligo,9,synthetic_llm
+small red dot scratch mark all over arm belly constant itching,scabies,7,synthetic_seed
+white milky patch elbow wrist,vitiligo,9,synthetic_seed
+skin wrist lost color two symmetrical patch started after got bad scrape few month ago,vitiligo,9,synthetic_llm
+lip skin around lost color bit embarrassed noticeable dark skin,vitiligo,9,synthetic_llm
+hello got rash round red edge back itching much use cream shop not working,ringworm,5,synthetic_llm
+itchy burrow-like track hand,scabies,7,synthetic_llm
+itchy red rash hand get worse wash dish,eczema,2,synthetic_seed
+year old got red bumpy blotch all over body after birthday cake pink pale center kept scratching bedtime most gone eyelid still puffy,hives,3,synthetic_llm
+hair look oily day after wash scalp large yellow flake stick together,seborrheic_dermatitis,8,synthetic_llm
+three u shared flat scratching all time began itchy finger all small red bump arm stomach took allergy tablet nothing changed night worst,scabies,7,synthetic_llm
+little girl scaly bald patch head pet rabbit crusty fur could related,ringworm,5,synthetic_llm
+little drop-shaped red spot showed all over chest back two week after strep throat,psoriasis,4,synthetic_llm
+hello rough itchy mark hand skin look red brown skin tone,eczema,2,synthetic_llm
+got big welt after drinking cold beer lol itchy,hives,3,synthetic_llm
+after pregnancy see pale patch hand tummy maybe hormone no itch all,vitiligo,9,synthetic_llm
+itchy rash finger under ring,contact_dermatitis,1,synthetic_llm
+white patch near ear sunburn fast,vitiligo,9,synthetic_llm
+scalp feel tight itchy scratch big oily flake come onto finger,seborrheic_dermatitis,8,synthetic_llm
+red patch abdomen thigh started day switched detergent itch most after shower,contact_dermatitis,1,synthetic_llm
+gym addict after every workout face go deep red stay way long time lately redness even rest day few small bump,rosacea,6,synthetic_llm
+round red rash chest heart monitor sticker,contact_dermatitis,1,synthetic_llm
+skin get itchy scaly every winter,eczema,2,synthetic_llm
+huge ring cm across upper back mildly itchy edge scaly,ringworm,5,synthetic_llm
+purplish raised itchy patch dark skin,hives,3,synthetic_llm
+after camping trip woke swollen red arm covered little blister,contact_dermatitis,1,synthetic_llm
+get painful cystic bump chin every month,acne,0,synthetic_seed
+grandfather red scaly skin hand crack bleeds farmed used fertilizer whole life moisturizer help briefly,contact_dermatitis,1,synthetic_llm
+red itchy skin side groin heals center,ringworm,5,synthetic_llm
+irregular shaped white patch upper back spreading slowly,vitiligo,9,synthetic_seed
+persistent flaking redness forehead nasolabial fold,seborrheic_dermatitis,8,synthetic_seed
+cradle cap not clearing after month,seborrheic_dermatitis,8,synthetic_llm
+think allergic contact dermatitis show metal snap jacket touch neck,contact_dermatitis,1,synthetic_llm
+thick reddish patch shoulder itch after showering,psoriasis,4,synthetic_seed
+cheek very hot red evry evening,rosacea,6,synthetic_llm
+light brown skin patch look almost cream colored mostly hand around mouth,vitiligo,9,synthetic_llm
+get silvery patch scalp elbow knee nowhere else,psoriasis,4,synthetic_llm
+suddenly covered huge itchy welt feel throat getting bit scratchy,hives,3,synthetic_llm
+nose big visible pore blackhead trapped inside,acne,0,synthetic_seed
+groin itch one side edge sharp,ringworm,5,synthetic_llm
+rash wrist waist lowkey itch bad after midnight,scabies,7,synthetic_llm
+65 year old dad white patch around eye hand not painful say color gone asked whether treatment still work age,vitiligo,9,synthetic_llm
+contact dermatitis poison oak blister everywhere arm,contact_dermatitis,1,synthetic_llm
+two day ago went hiking forearm ankle blistered streak ooze itch badly sleep calamine lotion help maybe hour,contact_dermatitis,1,synthetic_llm
+red raised bump come go,hives,3,synthetic_llm
+month after stopping pill chin jaw exploded cyst sore not sleep side doctor appointment not next month,acne,0,synthetic_llm
+scaly round patch thigh get bigger every few day,ringworm,5,synthetic_seed
+skin itch second take clothes night,eczema,2,synthetic_llm
+palm look thick red white peeling edge,psoriasis,4,synthetic_llm
+cheek red patch shape mask edge,contact_dermatitis,1,synthetic_llm
+terrible itching hand foot night pustule between toe seems contagious,scabies,7,synthetic_llm
+skin burn turn red put retinol redness never fully leaf,rosacea,6,synthetic_llm
+scalp flake much skip washing hair couple day,seborrheic_dermatitis,8,synthetic_llm
+flushing after hot shower,rosacea,6,synthetic_llm
+skin patch crack ooze knee crease thick red base whitish scale,psoriasis,4,synthetic_llm
+itchy bump wrist boyfriend thing,scabies,7,synthetic_llm
+cluster whitehead red bump near sideburn area,acne,0,synthetic_seed
+itching bad skin broke open stinging,eczema,2,synthetic_llm
+skin keep cracking knuckle dry flaky red defined edge winter,psoriasis,4,synthetic_llm
+everything below collarbone covered raised itchy blotch morning,hives,3,synthetic_llm
+red bump across nose cheek not look like regular zit,rosacea,6,synthetic_llm
+hand crack bleed whenever wash dish lot skin between finger tiny blister itch like crazy hand cream help hour most started after changed job work restaurant kitchen,eczema,2,synthetic_llm
+get worse cold dry thick red plaque better after beach week,psoriasis,4,synthetic_llm
+red rash thigh after new laundry detergent,contact_dermatitis,1,synthetic_llm
+lump chin under skin day red tender not itchy,acne,0,synthetic_llm
+fresh welt keep appearing shoulder itch driving nut,hives,3,synthetic_llm
+baby scalp thick yellowish crusty patch spreading,seborrheic_dermatitis,8,synthetic_seed
+look contagious circle shaped red rash flake edge side,ringworm,5,synthetic_llm
+light colored patch shin,vitiligo,9,synthetic_llm
+red face pimple no blackhead wat,rosacea,6,synthetic_llm
+toenail thick yellowish crumbly little dent nail fungus treatment nothing,psoriasis,4,synthetic_llm
+foot red scaly patch sol skin thick no itching hurt walk,psoriasis,4,synthetic_llm
+cheek red nd bumpy since few week,rosacea,6,synthetic_llm
+rash hand,contact_dermatitis,1,synthetic_llm
+visible red line cheek persistent pink glow makeup not hide,rosacea,6,synthetic_llm
+keep scratching wrist skin dry itchy red,eczema,2,synthetic_llm
+ive got white spot all over wat,vitiligo,9,synthetic_llm
+two month big itchy welt show random arm leg stomach disappear within day tried switching laundry detergent nothing changed,hives,3,synthetic_llm
+weird circle stomach dog licking,ringworm,5,synthetic_llm
+cracked dry skin lip corner chin red itchy around,eczema,2,synthetic_llm
+ring shaped lesion waist area get itchier after exercise,ringworm,5,synthetic_seed
+weird dry itchy spot all over body,eczema,2,synthetic_llm
+breakout after starting new foundation,acne,0,synthetic_llm
+baby head like yellow crusty normal,seborrheic_dermatitis,8,synthetic_llm
+red circle back cant see girlfriend noticed,ringworm,5,synthetic_llm
+got ring shaped itchy spot after playing stray cat,ringworm,5,synthetic_seed
+brother law mentioned face look different mirror see red bump white center across forehead chin week tea tree oil done anything,acne,0,synthetic_llm
+red welt elbow,hives,3,synthetic_llm
+get red blotchy patch face exercise feel embarrassed,rosacea,6,synthetic_seed
+itchy neck new necklace,contact_dermatitis,1,synthetic_llm
+normal skin patch get worse every time stressed work,psoriasis,4,synthetic_llm
+hive all over arm chest appear every evening fade morning,hives,3,synthetic_seed
+flaky dry patch hand bleed skin crack open,eczema,2,synthetic_seed
+red angry looking pimple back hurt lean chair,acne,0,synthetic_seed
+scabies look like tiny pimple around waist mine itch like crazy,scabies,7,synthetic_llm
+scaling around edge patch calf middle normal skin week,ringworm,5,synthetic_llm
+red patch wrist appeared within hour wearing leather strap,contact_dermatitis,1,synthetic_seed
+keep picking pimple even though know dark mark couple small pit stress exam make worse,acne,0,synthetic_llm
+itchy circular rash child scalp hair loss area,ringworm,5,synthetic_seed
+red itchy rash neck,eczema,2,synthetic_llm
+red raw skin scratching between finger all night long,scabies,7,synthetic_seed
+smooth shiny red patch under breast groin crease no scaling go away antifungal cream,psoriasis,4,synthetic_llm
+taking protein supplement eating more dairy bulking since chest back covered red bump white tip look gross beach,acne,0,synthetic_llm
+scalp patch well defined covered dry white scale skin around ear also pink,seborrheic_dermatitis,8,synthetic_llm
+skin inner arm little burrow almost see itch strongest right before sleep,scabies,7,synthetic_llm
+face got puffy flaky around cheek after used different sunscreen beach assumed sunburn sunburn would not waited two day aloe help hydrocortisone little,contact_dermatitis,1,synthetic_llm
+dry gritty feeling eye combined facial redness across cheek,rosacea,6,synthetic_seed
+lip lost pigment turned lighter area,vitiligo,9,synthetic_seed
+baby fine skin not since birth face gotten red flushed bumpy over nose cheek sleeping badly seems trigger,rosacea,6,synthetic_llm
+welt face neck after taking new medication,hives,3,synthetic_seed
+tiny bump forehead not itchy,acne,0,synthetic_llm
+light skin freckled 36 face upper chest flush anxious cheek permanent faint redness few spider vein makeup not cover well,rosacea,6,synthetic_llm
+itchy blotchy skin started week,hives,3,synthetic_llm
+groin rash itch badly night not daytime,scabies,7,synthetic_llm
+painful stinging rash both hand since used oven cleaner without glove,contact_dermatitis,1,synthetic_llm
+itchy skin swollen spot after taking amoxicillin,hives,3,synthetic_llm
+greasy looking scale forehead above eyebrow,seborrheic_dermatitis,8,synthetic_seed
+dry scaly rash around mouth chin itch,eczema,2,synthetic_llm
+white patch near armpit painless,vitiligo,9,synthetic_llm
+teach middle school face go beet red every time get stressed class over summer constant redness across nose cheek hurting confidence lot,rosacea,6,synthetic_llm
+not itch all cheek red tender bump sometimes white tip,acne,0,synthetic_llm
+scalp itchy night greasy yellow scale come clump scratch,seborrheic_dermatitis,8,synthetic_llm
+super itchy raised dot torso after sauna fade cool,hives,3,synthetic_llm
+noticed new spot appearing right along scratch mark cat red scaly,psoriasis,4,synthetic_llm
+recently noticed lot tiny closed bump across forehead feel like sandpaper,acne,0,synthetic_llm
+lot small bump under skin forehead called fungal acne,acne,0,synthetic_seed
+elderly mother rehab few week since coming home very itchy rash back stomach crusting hand two caregiver also noticed itchy spot,scabies,7,synthetic_llm
+could stress college giving thick flaky scalp patch 20 no one family first flare,psoriasis,4,synthetic_llm
+child break hive after eating strawberry,hives,3,synthetic_seed
+teenage daughter dry red itchy skin elbow since little showing neck embarrassed wear hair,eczema,2,synthetic_llm
+lost colour patch under breast,vitiligo,9,synthetic_llm
+very dry rough skin back knee constant urge scratch,eczema,2,synthetic_seed
+strange skin thing red raised well-defined covered flaky white right forearm,psoriasis,4,synthetic_llm
+skin break patchy dry itchy rash neck chest whenever get cold bad week work fade after few day moisturizing worry going keep coming back,eczema,2,synthetic_llm
+noticed depigmented area around belly button keep growing,vitiligo,9,synthetic_seed
+red scaly spot beard area hair falling,ringworm,5,synthetic_llm
+red patch around eye fine silvery scale,psoriasis,4,synthetic_seed
+month armpit crease elbow itch like crazy nothing put help,scabies,7,synthetic_llm
+white area lower back,vitiligo,9,synthetic_llm
+possible scalp dandruff spread eyebrow side nose itching all day skin look reddish flaky not pain,seborrheic_dermatitis,8,synthetic_llm
+normal newborn face red rough month,eczema,2,synthetic_llm
+weeping blister finger crust over itch terribly,eczema,2,synthetic_seed
+glove rash hand latex think,contact_dermatitis,1,synthetic_llm
+skin foot dry itchy cracked sol kid shoe maybe,eczema,2,synthetic_llm
+scalp keep shedding white flake onto shoulder get really itchy stressed,psoriasis,4,synthetic_llm
+pu filled pimple shoulder upper back,acne,0,synthetic_seed
+small fluid filled bump side finger itch intensely,eczema,2,synthetic_seed
+moved new apartment got job restaurant kitchen forehead cheek full whitehead oily all day washing lot make worse,acne,0,synthetic_llm
+allergy lip swell get itchy bump after eating nut,hives,3,synthetic_llm
+pretty sure skin condition back knee red itchy,eczema,2,synthetic_llm
+skin itch many place lately bump seem pop around crease like elbow wrist under knee,scabies,7,synthetic_llm
+skin get puffy welted scratch pressure,hives,3,synthetic_seed
+thick scaly patch foot sol crack hurt walking,psoriasis,4,synthetic_seed
+flaky scaly ring calf itch sweat,ringworm,5,synthetic_seed
+greasy scale center chest,seborrheic_dermatitis,8,synthetic_llm
+dark purple redness cheek indian thirty get worse summer heat after spicy curry small bump no itching,rosacea,6,synthetic_llm
+get scaly red rash eyelid upper cheek every time use perfumed product,contact_dermatitis,1,synthetic_llm
+weepy crusted patch behind ear hearing aid rest father say get worse after us new cleaning spray,contact_dermatitis,1,synthetic_llm
+expanding patch thigh red scaly edge also few small one nearby,ringworm,5,synthetic_llm
+no pain really itchy dry skin elbow crease,eczema,2,synthetic_llm
+red flaky nasolabial fold no itch,seborrheic_dermatitis,8,synthetic_llm
+elderly mother seventy started getting blackhead bump cheek chin us heavy night cream never young,acne,0,synthetic_llm
+forehead get small flesh colored bump right after use thick hair oil,acne,0,synthetic_llm
+chronic dandruff redness itching scalp,seborrheic_dermatitis,8,synthetic_seed
+face whitehead blackhead mostly nose forehead nothing painful,acne,0,synthetic_llm
+after thyroid diagnosis started noticing pale patch hand doctor said thyroid skin color problem go together sometimes not scaly not sore look bleached make self conscious wearing short sleeve,vitiligo,9,synthetic_llm
+cheek go bright red every time walk warm room cold,rosacea,6,synthetic_llm
+flaky red patch lower leg,psoriasis,4,synthetic_llm
+tiny white spot merging bigger patch forearm,vitiligo,9,synthetic_llm
+red bumpy rash wrist exactly fitness tracker band sits,contact_dermatitis,1,synthetic_seed
+red rash cheek no itch burn,rosacea,6,synthetic_llm
+scalp white patch hair white rest black skin feel everywhere else no flaking,vitiligo,9,synthetic_llm
+white patch spreading armpit groin over year,vitiligo,9,synthetic_llm
+thin grayish line side hand whole area itch especially evening,scabies,7,synthetic_llm
+raised red patch irregular border chest back,hives,3,synthetic_seed
+pls help rash wont go away itchy dry,eczema,2,synthetic_llm
+oily skin small raised bump all over forehead,acne,0,synthetic_seed
+fold wrist red covered tiny bump itching wake 3am,scabies,7,synthetic_llm
+rash cheek surgical mask elastic,contact_dermatitis,1,synthetic_llm
+swollen bump jawline neck,acne,0,synthetic_llm
+redness around nose chin get worse wind,rosacea,6,synthetic_llm
+flaky red patch skin between sideburn ear,seborrheic_dermatitis,8,synthetic_seed
+help skin peeling sheet silvery flake,psoriasis,4,synthetic_llm
+started few itchy spot wrist bump groin around waist not changed soap detergent really bother bed room warm,scabies,7,synthetic_llm
+sunscreen make face burn,rosacea,6,synthetic_llm
+left earlobe red itchy right one fine wore new earring side,contact_dermatitis,1,synthetic_llm
+itchy rash wont go away week itch im bed,scabies,7,synthetic_llm
+white patch one eyelash turned white,vitiligo,9,synthetic_llm
+back ear yellow crust skin raw fall,seborrheic_dermatitis,8,synthetic_llm
+thick scaly patch scalp black people hair hair breaking mom say look like dandruff round,ringworm,5,synthetic_llm
+skin swell large puffy wheal itch intensely,hives,3,synthetic_seed
+last month small red bump appeared face chest thought sweat rash pu tip tender not itchy,acne,0,synthetic_llm
+painful red patch armpit fold crack move,psoriasis,4,synthetic_seed
+red swollen bump around nose look inflamed sore,rosacea,6,synthetic_seed
+red ring white scale shoulder blade month half not hurt tried aloe coconut oil kept growing outward,ringworm,5,synthetic_llm
+hand develop tiny itchy blister pop ooze clear fluid,eczema,2,synthetic_seed
+whole body got covered itchy raised welt hour after ate seafood place last night,hives,3,synthetic_llm
+pregnant month scalp eyebrow started flake get oily red used mild dandruff not sure shampoo safe using baby shampoo,seborrheic_dermatitis,8,synthetic_llm
+finger swollen red itchy after handling raw chili pepper,contact_dermatitis,1,synthetic_llm
+ring shaped rash slightly raised edge not painful,ringworm,5,synthetic_llm
+red rash stomach belt buckle rub skin,contact_dermatitis,1,synthetic_seed
+itchy red bump under chin neck new beard oil thing changed,contact_dermatitis,1,synthetic_llm
+face red after eating hot tomato soup,rosacea,6,synthetic_llm
+rash bend both elbow look red light skin almost grey mine,eczema,2,synthetic_llm
+skin face peeling center not cheek,seborrheic_dermatitis,8,synthetic_llm
+neck painful red bump sometimes leave dark scar,acne,0,synthetic_seed
+skin nose cheek red burning whenever cook near stove,rosacea,6,synthetic_llm
+ever since got laid chunky red scaly spot leg scratch bleed,psoriasis,4,synthetic_llm
+itchy bumpy rash behind knee get worse night,eczema,2,synthetic_seed
+mustache area red flaky patch greasy looking scale,seborrheic_dermatitis,8,synthetic_seed
+white bit hand,vitiligo,9,synthetic_llm
+first one showed elbow one elbow ankle always both side always white smooth feel nothing all aunt,vitiligo,9,synthetic_llm
+red itchy bump spreading arm cold,eczema,2,synthetic_llm
+red bump wrist itchy night,scabies,7,synthetic_llm
+patchy itchy rash belly not painful come go,eczema,2,synthetic_llm
+entire back covered large red scaly patch,psoriasis,4,synthetic_seed
+night shift sleep mess last two month face broken red tender bump cheek jaw cleanser spot treatment give little relief,acne,0,synthetic_llm
+dad nose gotten bigger red over year cheek showing early redness,rosacea,6,synthetic_llm
+tiny dry bump arm itch,eczema,2,synthetic_llm
+dry scaly patch behind ear very itchy,psoriasis,4,synthetic_seed
+face always red burn idk,rosacea,6,synthetic_llm
+perfectly straight line tiny blister shin itch terribly,contact_dermatitis,1,synthetic_llm
+pimple like bump nose cheek no blackhead like real acne,rosacea,6,synthetic_seed
+small white spot leg slowly expanding merging,vitiligo,9,synthetic_seed
+hand get raw red washing harsh industrial soap work,contact_dermatitis,1,synthetic_seed
+baby elbow rough red,eczema,2,synthetic_llm
+bump make ring leg dont hurt,ringworm,5,synthetic_llm
+idk elbow knee get crusty white thing,psoriasis,4,synthetic_llm
+nail right hand look thick white flaky under edge plus skin palm dry,ringworm,5,synthetic_llm
+skin thick silvery scale scalp flake lot,psoriasis,4,synthetic_seed
+large red hive appeared arm after eating shellfish,hives,3,synthetic_seed
+red patch chest,hives,3,synthetic_llm
+ankle itchy rashy,eczema,2,synthetic_llm
+strange swollen patch keep showing forearm warm itchy not painful,hives,3,synthetic_llm
+wrist itchy red new smartwatch sits switched different band slowly getting better never spread past band area,contact_dermatitis,1,synthetic_llm
+entire family scratching tiny bump between finger wrist,scabies,7,synthetic_seed
+rough textured bumpy skin cheek never fully clear,acne,0,synthetic_seed
+rash under ring finger wedding ring sits,contact_dermatitis,1,synthetic_seed
+after divorce stress face started flaring redness over cheek small bump every few week meditation helped little 39 tired covering foundation,rosacea,6,synthetic_llm
+lost color one side face,vitiligo,9,synthetic_llm
+skin look bleached patch black skin feel like spread whenever get stressed,vitiligo,9,synthetic_llm
+dry flaky foot itch lot night,ringworm,5,synthetic_llm
+eczema flare whenever use scented soap lotion,eczema,2,synthetic_seed
+dandruff plus red patch near hair line pls help,seborrheic_dermatitis,8,synthetic_llm
+welt under bra strap line,hives,3,synthetic_llm
+tiny pitted nail rash elbow related,psoriasis,4,synthetic_llm
+itchy lump seatbelt rubbed,hives,3,synthetic_llm
+rough textured skin upper arm like chicken skin,eczema,2,synthetic_seed
+got diagnosed scabies last week itching still awful hand belly even after treatment,scabies,7,synthetic_llm
+face rash after beauty salon red itchy puffy around eye chin,contact_dermatitis,1,synthetic_llm
+hair part head crusty itchy hair feel greasy next day,seborrheic_dermatitis,8,synthetic_llm
+red bumpy ring cheek kid school,ringworm,5,synthetic_llm
+normal cheek burn stay red month no itching,rosacea,6,synthetic_llm
+itchy red blotch torso flatten press,hives,3,synthetic_seed
+eyelid puffed turned red day after tried new eyeshadow palette,contact_dermatitis,1,synthetic_llm
+fell asleep sun white patch shoulder got burnt rest tanned fine look patchy,vitiligo,9,synthetic_llm
+skin itchy after hot shower,eczema,2,synthetic_llm
+started few blackhead nose little red pimple cheek appeared new gym routine wash face afterwards not painful all,acne,0,synthetic_llm
+red raised bump arm after outside cold,hives,3,synthetic_llm
+constant itch ankle waist,scabies,7,synthetic_llm
+ive got look like coin shaped itchy patch hip,ringworm,5,synthetic_llm
+persistent dandruff despite weekly shampoo,seborrheic_dermatitis,8,synthetic_llm
+pretty itchy bump appeared lower abdomen thigh after used shared hostel bed last month fade,scabies,7,synthetic_llm
+red scaly ring near mouth itch bit,ringworm,5,synthetic_llm
+nose cheek get very red after drinking hot beverage,rosacea,6,synthetic_seed
+sudden dry itchy rash both leg,eczema,2,synthetic_llm
+rash arm itch,scabies,7,synthetic_llm
+face red irritated area around nose used new nose strip last night,contact_dermatitis,1,synthetic_llm
+red scaly patch shin shaped like perfect oval look like silver sheen,psoriasis,4,synthetic_llm
+dark skinned welt look darker brown normal skin rather red started back three day ago itch like crazy tried coconut oil nothing,hives,3,synthetic_llm
+sudden patchy hair loss kid little flaking lot itching,ringworm,5,synthetic_llm
+large dark brown scaly patch back brown skin look almost ashy top,psoriasis,4,synthetic_llm
+widespread itchy rash after swimming chlorinated pool,contact_dermatitis,1,synthetic_seed
+skin dark brown bump wrist look darker skin almost purple itch constantly started after stayed relative all u coconut oil cortisone cream thing,scabies,7,synthetic_llm
+hot yoga leaf face lobster red redness lingers next day,rosacea,6,synthetic_llm
+husband both itchy rash around waist wrist odd since nothing changed routine,scabies,7,synthetic_llm
+white patch under eye,vitiligo,9,synthetic_llm
+eight year old came home sleepover started scratching tiny red bump between finger wrist put lotion oatmeal bath still wake cry every night,scabies,7,synthetic_llm
+after stressful week final broke itchy raised patch over neck chest come evening fade morning tried anti itch cream oatmeal bath no real change,hives,3,synthetic_llm
+hand crack itch every winter wash dish without glove,contact_dermatitis,1,synthetic_llm
+warm red cheek after one glass wine,rosacea,6,synthetic_llm
+got dry flaky patch face around nose brow,seborrheic_dermatitis,8,synthetic_llm
+red blotchy patch all over leg appeared overnight,hives,3,synthetic_seed
+itchy red ring wrist spread warm humid weather,ringworm,5,synthetic_seed
+toddler red scaly cheek get worse dry cold weather,eczema,2,synthetic_seed
+back break much after workout,acne,0,synthetic_llm
+since started new job noticed pale spot forearm itch burn flake look washed compared rest worried keep spreading,vitiligo,9,synthetic_llm
+finger crack bleed winter very dry irritated skin,eczema,2,synthetic_seed
+constant redness bridge nose inner cheek,rosacea,6,synthetic_seed
+allergic contact dermatitis hair dye scalp red swollen oozing third time year,contact_dermatitis,1,synthetic_llm
+47 cheek always warm pink few bump near nose spicy food wine bring intense flushing within minute cold compress help little,rosacea,6,synthetic_llm
+after switching heavier moisturizer face broke tiny whitehead along forehead,acne,0,synthetic_llm
+eyelid red crusty cheek flushing,rosacea,6,synthetic_llm
+normal skin bump change place every few hour,hives,3,synthetic_llm
+cheek network tiny broken blood vessel visible under skin,rosacea,6,synthetic_seed

@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"bumps on forehead that wont go away",acne,"forehead",mild,synthetic_llm
+"painful lump on chin before period",acne,"chin",moderate,synthetic_llm
+"blackheads all over my nose",acne,"nose",mild,synthetic_llm
+"pimples along jawline every month",acne,"jawline",moderate,synthetic_llm
+"back pimples after gym",acne,"back",mild,synthetic_llm
+"whiteheads on cheeks and chin",acne,"cheeks and chin",mild,synthetic_llm
+"deep sore bump on cheek no head",acne,"cheek",moderate,synthetic_llm
+"oily face breakouts teenager",acne,"face",moderate,synthetic_llm
+"red bumps on shoulders and chest",acne,"chest and shoulders",moderate,synthetic_llm
+"pimple scars dark marks on cheeks",acne,"cheeks",mild,synthetic_llm
+"cystic bumps jaw hurts to touch",acne,"jaw",severe,synthetic_llm
+"clogged pores forehead rough texture",acne,"forehead",mild,synthetic_llm
+"breakouts after starting new foundation",acne,"face",mild,synthetic_llm
+"hormonal pimples chin and neck",acne,"chin and neck",moderate,synthetic_llm
+"zits around mouth and chin",acne,"mouth and chin",mild,synthetic_llm
+"tiny bumps on forehead not itchy",acne,"forehead",mild,synthetic_llm
+"painful red spots on face",acne,"face",moderate,synthetic_llm
+"pimples on butt cheeks",acne,"buttocks",mild,synthetic_llm
+"pus filled spots on back",acne,"back",moderate,synthetic_llm
+"acne on my face wont clear",acne,"face",moderate,synthetic_llm
+"bumps on face since puberty",acne,"face",moderate,synthetic_llm
+"pimples under skin that never come to a head",acne,"various",moderate,synthetic_llm
+"breakouts under mask on cheeks",acne,"cheeks",mild,synthetic_llm
+"rash on my face",acne,"face",mild,synthetic_llm
+"red spots on cheeks and chin",acne,"cheeks and chin",mild,synthetic_llm
+"blackheads whiteheads t-zone",acne,"T-zone",mild,synthetic_llm
+"dark spots left after pimples brown skin",acne,"face",mild,synthetic_llm
+"swollen bumps on jawline and neck",acne,"jawline and neck",severe,synthetic_llm
+"oily skin with lots of spots",acne,"face",moderate,synthetic_llm
+"spots on chest and upper back",acne,"chest and back",moderate,synthetic_llm
+"pimples on hairline from hair oil",acne,"hairline",mild,synthetic_llm
+"big painful pimple near my ear",acne,"ear area",moderate,synthetic_llm
+"new pimples every week cant stop",acne,"face",moderate,synthetic_llm
+"bumpy forehead and temples",acne,"forehead and temples",mild,synthetic_llm
+"face covered in red bumps and nodules",acne,"face",severe,synthetic_llm
+"pimples came back after stopping pill",acne,"face",moderate,synthetic_llm
+"rough bumpy cheeks teen",acne,"cheeks",mild,synthetic_llm
+"red bumps on face",acne,"face",mild,synthetic_llm
+"small red bumps on my back and neck",acne,"back and neck",mild,synthetic_llm
+"stubborn chin pimples",acne,"chin",mild,synthetic_llm
+"pimples between eyebrows",acne,"between eyebrows",mild,synthetic_llm
+"breakout on face week before exams",acne,"face",mild,synthetic_llm
+"popped pimple left dark mark",acne,"cheek",mild,synthetic_llm
+"comedones on nose and chin",acne,"nose and chin",mild,synthetic_llm
+"sore lumps on cheeks and jaw no itch",acne,"cheeks and jaw",severe,synthetic_llm
+"spots on forehead from helmet",acne,"forehead",mild,synthetic_llm
+"pimples all over face and back",acne,"face and back",severe,synthetic_llm
+"bumps on my chin that look like pimples but huge",acne,"chin",moderate,synthetic_llm
+"flare on neck near hairline",acne,"neck",mild,synthetic_llm
+"greasy skin and spots",acne,"face",mild,synthetic_llm
+"My chin keeps getting these sore red bumps right before my period starts every single month.",acne,"chin",moderate,synthetic_llm
+"Lately my forehead is full of little bumps and I can feel them more than I see them.",acne,"forehead",mild,synthetic_llm
+"Got a huge painful lump on my jawline that has been there for two weeks now.",acne,"jawline",moderate,synthetic_llm
+"Blackheads on my nose have gotten way worse since summer and the pores look huge.",acne,"nose",mild,synthetic_llm
+"There are red spots across my shoulders and upper back that get worse when I sweat.",acne,"back and shoulders",moderate,synthetic_llm
+"Every time I start to clear up, a new batch of pimples shows up on my cheeks.",acne,"cheeks",moderate,synthetic_llm
+"My 13 year old son suddenly has lots of pimples on his nose and forehead.",acne,"nose and forehead",moderate,synthetic_llm
+"Pimples on my cheeks have left dark brown marks that take months to fade on my skin.",acne,"cheeks",mild,synthetic_llm
+"After switching to a heavier moisturizer my face broke out with tiny whiteheads along the forehead.",acne,"forehead",mild,synthetic_llm
+"I keep getting deep, tender bumps on my chin that never form a white head.",acne,"chin",moderate,synthetic_llm
+"The skin on my back has these angry red bumps, some with pus, and they hurt against my shirt.",acne,"back",moderate,synthetic_llm
+"Wearing a mask all day gave me a bunch of pimples around my mouth and cheeks.",acne,"mouth and cheeks",mild,synthetic_llm
+"My face is oily by noon and I get new pimples around my nose constantly.",acne,"nose",moderate,synthetic_llm
+"Does not itch at all but my cheeks have red tender bumps that sometimes have white tips.",acne,"cheeks",moderate,synthetic_llm
+"Recently noticed lots of tiny closed bumps across my forehead, they feel like sandpaper.",acne,"forehead",mild,synthetic_llm
+"Something on my chest looks like pimples, red and a bit sore, for about a month now.",acne,"chest",mild,synthetic_llm
+"Went off birth control a few months ago and now my jawline is covered in painful cysts.",acne,"jawline",severe,synthetic_llm
+"These spots on my face leave purplish marks on my dark skin after they heal.",acne,"face",moderate,synthetic_llm
+"Whenever I stress about work my chin breaks out in swollen red pimples.",acne,"chin",moderate,synthetic_llm
+"Pimples are showing up on my hairline and temples since I started using pomade.",acne,"hairline and temples",mild,synthetic_llm
+"My skin gets clogged and bumpy on the cheeks and I cant seem to stop new ones forming.",acne,"cheeks",mild,synthetic_llm
+"Big red bump on my nose that is sore and has a yellow center, will it go away.",acne,"nose",moderate,synthetic_llm
+"Face has whiteheads and blackheads mostly on the nose and forehead, nothing painful.",acne,"nose and forehead",mild,synthetic_llm
+"Our daughter is eleven and has started getting blackheads and a few red spots on her nose.",acne,"nose",mild,synthetic_llm
+"Several firm lumps under the skin on my cheeks, they hurt but there is no itching.",acne,"cheeks",severe,synthetic_llm
+"Pimples appear on my shoulders mostly when I wear my backpack straps for long days.",acne,"shoulders",mild,synthetic_llm
+"Skin on my jaw and neck keeps erupting in sore bumps that last weeks.",acne,"jaw and neck",moderate,synthetic_llm
+"There are old pimples that left pitted marks on my cheeks and new ones keep coming.",acne,"cheeks",moderate,synthetic_llm
+"My forehead gets small flesh colored bumps right after I use thick hair oil.",acne,"forehead",mild,synthetic_llm
+"Woke up with three new pimples on my chin and one is really swollen and tender.",acne,"chin",moderate,synthetic_llm
+"Red bumps with pus tips covering my cheeks and no relief from regular face wash.",acne,"cheeks",moderate,synthetic_llm
+"Pimples on my lower back near the waistband, they get irritated when I sit.",acne,"lower back",mild,synthetic_llm
+"Face looks bumpy and uneven with some red spots and some blackheads, nothing seems to help.",acne,"face",mild,synthetic_llm
+"Skin around my mouth is breaking out with small red pimples after I started a new lip balm.",acne,"around mouth",mild,synthetic_llm
+"Spots on my face are brown and raised on my dark skin and some have pus.",acne,"face",moderate,synthetic_llm
+"Teenage boy here, my back and chest are covered in zits and I hate taking my shirt off.",acne,"back and chest",severe,synthetic_llm
+"Few sore pimples keep coming up on the same spot on my left cheek.",acne,"left cheek",mild,synthetic_llm
+"My cheeks are breaking out in red bumps, dont know if its pimples or something else.",acne,"cheeks",mild,synthetic_llm
+"Face gets painful pimples and I notice they flare up a week before my period.",acne,"face",moderate,synthetic_llm
+"Super oily T-zone with clogged pores and tiny pimples that wont clear.",acne,"T-zone",mild,synthetic_llm
+"Lump on my chin has been under the skin for days, red and tender but not itchy.",acne,"chin",moderate,synthetic_llm
+"Almost no itching or burning, just lots of red pimples spread over my cheeks and forehead.",acne,"cheeks and forehead",moderate,synthetic_llm
+"Recently moved to a humid city and now my face is full of whiteheads.",acne,"face",mild,synthetic_llm
+"My skin broke out on the chin and around the mouth after protein shakes, many tender bumps.",acne,"chin and mouth",moderate,synthetic_llm
+"Pimples all along my neck line where my collar rubs, red and a few with pus.",acne,"neck",mild,synthetic_llm
+"Awful breakouts across both cheeks, some are nodules the size of a pea.",acne,"cheeks",severe,synthetic_llm
+"After shaving my beard area has red bumps with pus and some deep sore lumps.",acne,"beard area",moderate,synthetic_llm
+"These bumps on my forehead are small and skin coloured, hundreds of them, no itch.",acne,"forehead",mild,synthetic_llm
+"Started college and my stress breakouts are everywhere on my chin and cheeks.",acne,"chin and cheeks",moderate,synthetic_llm
+"Painful red cysts on my face for months and my skin is scarring.",acne,"face",severe,synthetic_llm
+"There is a bump on my face that looks like a pimple but wont pop and hurts.",acne,"face",moderate,synthetic_llm
+"My shoulders have little red bumps and a few blackheads, a friend said maybe clogged pores.",acne,"shoulders",mild,synthetic_llm
+"My teenage niece has lots of red bumps and whiteheads around her chin and cheeks.",acne,"chin and cheeks",moderate,synthetic_llm
+"Spots on my back are mostly blackheads with some big red ones in the middle.",acne,"back",moderate,synthetic_llm
+"Redness and tender pimples on my cheeks that get worse around my period.",acne,"cheeks",moderate,synthetic_llm
+"The pimples on my chin pop and ooze a bit then come back in the same places.",acne,"chin",moderate,synthetic_llm
+"Got oily patches and lots of tiny bumps on my nose and chin since I turned fourteen.",acne,"nose and chin",mild,synthetic_llm
+"My boyfriend noticed my face has gotten really spotty on the jawline over the last month.",acne,"jawline",mild,synthetic_llm
+"Sore pimples on my face a month after giving birth, mostly on my chin.",acne,"chin",moderate,synthetic_llm
+"Dark red lumps along my jaw that take a month to go away and leave marks.",acne,"jaw",severe,synthetic_llm
+"Pimples keep popping up on my forehead and between my eyebrows, small but really annoying.",acne,"forehead",mild,synthetic_llm
+"My skin has been breaking out in small red bumps since I started the new sunscreen.",acne,"face",mild,synthetic_llm
+"Red bumps on my face and some on my upper chest, they sting a little when touched.",acne,"face and chest",moderate,synthetic_llm
+"Cheeks have little pus bumps and my skin feels greasy even right after washing.",acne,"cheeks",moderate,synthetic_llm
+"I get these sore pimples on the sides of my chin that stay for weeks and leave dark spots.",acne,"chin",moderate,synthetic_llm
+"Pimples on my arms and back after workouts, not too many but they keep coming.",acne,"back and arms",mild,synthetic_llm
+"Several whiteheads on my forehead and a couple of tender ones near my mouth.",acne,"forehead and mouth",mild,synthetic_llm
+"Breaking out on my face for the first time at age thirty, mostly jaw and chin.",acne,"jaw and chin",moderate,synthetic_llm
+"My face has patches of red spots and I cant tell if its pimples or a rash.",acne,"face",mild,synthetic_llm
+"The bumps on my face come and go, bigger ones last a week, small ones a few days.",acne,"face",mild,synthetic_llm
+"It started about six months ago on my chin and now it is spreading to my cheeks. I tried benzoyl peroxide from the pharmacy but it just dried me out. Feeling self conscious at my new job.",acne,"chin and cheeks",moderate,synthetic_llm
+"I'm 16 and my face has been breaking out since last year. Tried toothpaste on the pimples and apple cider vinegar but nothing works. Kids at school have started commenting.",acne,"face",moderate,synthetic_llm
+"Pregnant in my second trimester and my face suddenly broke out with lots of red bumps along my chin. I'm scared to use anything strong. It's making me feel awful.",acne,"chin",moderate,synthetic_llm
+"For about three weeks there have been a bunch of painful bumps on my back and shoulders. They started after I began lifting weights in tight clothes. Salicylic acid wash helped slightly.",acne,"back and shoulders",moderate,synthetic_llm
+"My skin is dark brown and these pimples leave dark spots that last longer than the pimples themselves. I've been using vitamin C serum. The spots bother me more than the breakouts.",acne,"face",moderate,synthetic_llm
+"I'm 34 and thought I would be done with this years ago. Deep tender bumps along the jawline keep appearing every month. Drugstore creams don't touch them.",acne,"jawline",moderate,synthetic_llm
+"Moved to a new apartment and got a job in a restaurant kitchen. My forehead and cheeks are full of whiteheads and oily all day. Washing a lot makes it worse.",acne,"forehead and cheeks",moderate,synthetic_llm
+"My teenage son has spots all over his back and the pimples on his face are big and red. He refuses to wear short sleeves. We tried an over the counter wash from the store.",acne,"face and back",severe,synthetic_llm
+"Started a new hair product two weeks ago and now my forehead and hairline have lots of tiny bumps. They are not itchy. I stopped the product but they are still there.",acne,"forehead and hairline",mild,synthetic_llm
+"About a month after stopping the pill my chin and jaw exploded with cysts. They are sore and I cannot sleep on my side. Doctor appointment is not until next month.",acne,"chin and jaw",severe,synthetic_llm
+"I keep picking at my pimples even though I know I shouldn't, and now there are dark marks and a couple of small pits. Stress from exams makes it worse.",acne,"face",moderate,synthetic_llm
+"My face has been full of red pimples for two years, I wash it twice a day with a gentle cleanser. Sometimes I use tea tree oil. It improves a little and then comes back.",acne,"face",moderate,synthetic_llm
+"Been taking a protein supplement and eating more dairy while bulking. Since then my chest and back are covered in red bumps with white tips. Looks gross at the beach.",acne,"chest and back",moderate,synthetic_llm
+"My 12 year old daughter has blackheads and small bumps on her nose and forehead. She is just starting puberty. Should we do anything or just wait it out.",acne,"nose and forehead",mild,synthetic_llm
+"Ever since I turned 40 I get pimples on my chin and lower cheeks, not like my teenage ones, more deep and tender. Wondering if it's hormones. Have not tried anything yet.",acne,"chin and cheeks",moderate,synthetic_llm
+"There is a big bump on my cheek, red and swollen, for five days now. I didn't squeeze it. Warm compress did nothing and it throbs when I bend over.",acne,"cheek",moderate,synthetic_llm
+"My skin is oily and I get blackheads on the nose with tiny bumps on the forehead. Tried pore strips weekly. They remove the blackheads but they return in days.",acne,"nose and forehead",mild,synthetic_llm
+"Elderly mother in her seventies has started getting blackheads and some bumps on her cheeks and chin. She uses a heavy night cream. Never had this when she was young.",acne,"cheeks and chin",mild,synthetic_llm
+"It's mainly around my mouth and chin, small red bumps, some with white tops. I use a lot of makeup for work and don't always remove it at night. Skin feels tight and oily.",acne,"mouth and chin",mild,synthetic_llm
+"My pimples are everywhere, face chest and back, and some are large and hard under the skin. I'm 19 and it's affecting my confidence and I avoid photos.",acne,"face, chest and back",severe,synthetic_llm
+"I'm on night shifts and my sleep is a mess. In the last two months my face has broken out with red tender bumps on cheeks and jaw. Cleanser and spot treatment give only a little relief.",acne,"cheeks and jaw",moderate,synthetic_llm
+"Two weeks of antibiotics for a different problem and I still have these bumps on my forehead. Skin is shiny. They don't itch at all, just look like constant little pimples.",acne,"forehead",mild,synthetic_llm
+"I use a thick sunscreen daily because of my dark skin tone. My forehead and cheeks are now covered with small flesh coloured bumps. I wonder if the products are clogging my skin.",acne,"forehead and cheeks",mild,synthetic_llm
+"After my sister's wedding I noticed my cheeks looked spotty with red and brown bumps. I had used a lot of heavy makeup that week. A few pimples are sore.",acne,"cheeks",mild,synthetic_llm
+"My back acne gets worse in summer when I sweat a lot. The bumps don't itch, they just hurt when I lean on a chair. I shower right after work but it doesn't help.",acne,"back",moderate,synthetic_llm
+"I'm 25 and I keep getting one or two big pimples on the same side of my chin. They take ten days to go away and leave a red mark. Picking makes them last longer.",acne,"chin",moderate,synthetic_llm
+"My boyfriend says it looks like a rash but it's actually just lots of tiny red bumps along my cheeks and forehead. Skin is oily and he thinks it's from stress.",acne,"cheeks and forehead",mild,synthetic_llm
+"We moved to a hot humid country and my 15 year old now has pimples on his forehead and temples. He wears a cap all day. We bought a salicylic wash and it is a bit better.",acne,"forehead and temples",mild,synthetic_llm
+"I'm a nurse and wear a mask 12 hours. The skin along my jawline and cheeks has red bumps and pustules. Moisturizer seems to make it worse, plain water is better.",acne,"jawline and cheeks",moderate,synthetic_llm
+"Doctor said my breakouts are hormonal. I get big tender bumps on my lower face that come in cycles with my period. I've been using spot patches but want something stronger.",acne,"lower face",moderate,synthetic_llm
+"My face has had pimples for years but lately red and purplish marks are lingering on my brown skin. The bumps themselves are small and closed. I feel I can't go out without concealer.",acne,"face",moderate,synthetic_llm
+"Using a clay mask on my face twice a week, pimples seem to be getting angrier and some are tender. I'm a college student and can't afford a dermatologist, so I'm trying stuff online.",acne,"face",moderate,synthetic_llm
+"Teen girl, face is okay but my shoulders and upper arms and chest have lots of small red pimples. Looks worse with bra straps and backpack. Feels sore not itchy.",acne,"shoulders, arms and chest",moderate,synthetic_llm
+"My forehead has been bumpy since I started wearing a school hat. Looks like rows of small whiteheads. I tried rubbing alcohol but it made my skin peel.",acne,"forehead",mild,synthetic_llm
+"I noticed nodules deep in my skin on the cheeks that never come to a head and last for weeks. Concealer can't hide them and they hurt when I smile.",acne,"cheeks",severe,synthetic_llm
+"Two months ago I started a new job with very long hours, and since then my skin has not been the same. Chin is full of bumps and there are red marks over my cheeks.",acne,"chin and cheeks",moderate,synthetic_llm
+"Recently diagnosed with PCOS and my face is full of pimples around the jaw and chin, plus oily skin. Face wash from the pharmacy has not done much. Want to know what else to try.",acne,"jaw and chin",moderate,synthetic_llm
+"My skin is oily and I wear heavy sunscreen, and I'm getting small clogged bumps over my nose and cheeks. They don't hurt or itch, just rough and make my skin look uneven.",acne,"nose and cheeks",mild,synthetic_llm
+"I used to have clear skin but after my wedding stress my face is covered in sore red pimples. I've been using honey and turmeric masks. Please tell me what this might be.",acne,"face",moderate,synthetic_llm
+"There's a red bump on my back that is hard and painful and it has been there for ten days. Another smaller one showed up beside it. No itch, no fever.",acne,"back",moderate,synthetic_llm
+"My 17 year old nephew has lots of pus-filled spots along his forehead and cheeks, and some scarring. He squeezes them constantly. He is embarrassed to go to school.",acne,"forehead and cheeks",severe,synthetic_llm
+"My skin is combo, dry cheeks but an oily forehead, and I get pimples only on my forehead and nose. Tried changing pillowcases weekly. Still new ones every few days.",acne,"forehead and nose",mild,synthetic_llm
+"Pimples have spread from my chin to my neck over the past two months. Some are tender and deep. I am 28 and this is the worst my skin has ever been.",acne,"chin and neck",severe,synthetic_llm
+"The bumps on my forehead look like tiny skin colored dots, a bit rough, tons of them. They started after using heavy oil based hair serum. I'm 22.",acne,"forehead",mild,synthetic_llm
+"Dark skinned and my cheeks have bumps that turn dark brown after they heal, and a few are filled with pus. The marks last for months and cause me stress.",acne,"cheeks",moderate,synthetic_llm
+"My jaw has red lumps that rise each month and I've tried an over the counter retinol cream. It made my face peel but the lumps are still there.",acne,"jaw",moderate,synthetic_llm
+"My brother in law mentioned my face looks different. In the mirror I see red bumps with white centers across forehead and chin. A week of tea tree oil hasn't done anything.",acne,"forehead and chin",moderate,synthetic_llm
+"It started as a few blackheads on my nose, then little red pimples on my cheeks appeared. I'm on a new gym routine and wash my face afterwards. Not painful at all.",acne,"nose and cheeks",mild,synthetic_llm
+"In the last month small red bumps have appeared on my face and chest. I thought it was sweat rash but they have pus tips and are tender, not itchy.",acne,"face and chest",moderate,synthetic_llm
+"My face and shoulders are very oily and I have constant new pimples. I'm 18 and just took exams and it flared. My mom bought me a gentle cleanser which helped slightly.",acne,"face and shoulders",moderate,synthetic_llm
+"my face is full of pimples again ugh",acne,"face",moderate,synthetic_llm
+"pimples on my chin wont go away i tried everything",acne,"chin",moderate,synthetic_llm
+"hi i got alot of pimple on my face and back since 2 months what to do",acne,"face and back",moderate,synthetic_llm
+"omg another giant zit on my nose rn",acne,"nose",mild,synthetic_llm
+"my forhead got so many bumps idk why",acne,"forehead",mild,synthetic_llm
+"bro my back is covered in zits",acne,"back",moderate,synthetic_llm
+"face got bumpy n red after i used new cream",acne,"face",mild,synthetic_llm
+"i get pimple every time before my period its so annoying",acne,"face",moderate,synthetic_llm
+"pls help pimples on my cheeks leaving black marks",acne,"cheeks",moderate,synthetic_llm
+"skin is oily and pimples everywhere since i am in college",acne,"face",moderate,synthetic_llm
+"big painful pimple on my chin dont know how to remove",acne,"chin",moderate,synthetic_llm
+"my face have many red spot and little pus i am 20 years",acne,"face",moderate,synthetic_llm
+"hv blackheads on nose really bad",acne,"nose",mild,synthetic_llm
+"got these bumps on jawline since monday they hurt",acne,"jawline",moderate,synthetic_llm
+"why are my pimples not going away even with face wash lol",acne,"face",moderate,synthetic_llm
+"pimple scar marks on face very dark idk",acne,"face",mild,synthetic_llm
+"teen here my face is a disaster rn",acne,"face",moderate,synthetic_llm
+"pimples at my chest and back too its so embarrasing",acne,"chest and back",moderate,synthetic_llm
+"got a zit under my skin that just hurts dont come out",acne,"various",moderate,synthetic_llm
+"my skin so oily n have pimples all day pls suggest",acne,"face",moderate,synthetic_llm
+"Why do I keep getting pimples only on my chin?",acne,"chin",moderate,synthetic_llm
+"Is it normal to get deep painful pimples on the jawline at 30?",acne,"jawline",moderate,synthetic_llm
+"why does my back break out so much after workouts?",acne,"back",mild,synthetic_llm
+"Are these little bumps on my forehead pimples or something else?",acne,"forehead",mild,synthetic_llm
+"Why am I getting zits again in my thirties when my skin was clear as a teen?",acne,"face",moderate,synthetic_llm
+"Is this acne or just clogged pores on my cheeks?",acne,"cheeks",mild,synthetic_llm
+"why do my pimples leave dark marks on my skin?",acne,"face",mild,synthetic_llm
+"Can stress cause these red tender bumps on my face?",acne,"face",moderate,synthetic_llm
+"Is it normal to have pimples on my buttocks?",acne,"buttocks",mild,synthetic_llm
+"why wont this one painful bump on my cheek go away?",acne,"cheek",moderate,synthetic_llm

@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"big itchy welts all over after dinner",hives,"various",moderate,synthetic_llm
+"red raised bumps that come and go",hives,"various",mild,synthetic_llm
+"itchy bumps appear then vanish by morning",hives,"various",mild,synthetic_llm
+"rash on my face",hives,"face",mild,synthetic_llm
+"red itchy patches",hives,"various",mild,synthetic_llm
+"welts after taking ibuprofen",hives,"torso and arms",moderate,synthetic_llm
+"swollen itchy lips this morning",hives,"lips",moderate,synthetic_llm
+"raised blotches on arms and legs, itchy",hives,"arms and legs",moderate,synthetic_llm
+"itchy wheals right after workout",hives,"chest and arms",mild,synthetic_llm
+"spots that keep moving around my body",hives,"various",moderate,synthetic_llm
+"bumps like mosquito bites but everywhere",hives,"various",moderate,synthetic_llm
+"hot shower makes me break out in bumps",hives,"chest and back",mild,synthetic_llm
+"scratch my skin and it raises red lines",hives,"arms and back",mild,synthetic_llm
+"puffy eyelid and itchy bumps",hives,"eyelids and face",moderate,synthetic_llm
+"welts on stomach, no pain just itch",hives,"stomach",moderate,synthetic_llm
+"itchy rash after eating shrimp",hives,"torso",moderate,synthetic_llm
+"skin welts whenever I get stressed",hives,"various",mild,synthetic_llm
+"purplish raised itchy patches on dark skin",hives,"thighs and arms",moderate,synthetic_llm
+"hives all over my back since last night",hives,"back",severe,synthetic_llm
+"cold air gives me itchy bumps",hives,"hands and face",mild,synthetic_llm
+"itchy bumps after starting antibiotics",hives,"trunk",moderate,synthetic_llm
+"rash that disappears in a few hours",hives,"various",mild,synthetic_llm
+"patchy swelling on hands, itchy",hives,"hands",moderate,synthetic_llm
+"raised itchy circles on thighs",hives,"thighs",mild,synthetic_llm
+"baby covered in red blotches after new food",hives,"face and body",moderate,synthetic_llm
+"welts under bra strap line",hives,"chest and back",mild,synthetic_llm
+"itchy rash that comes and goes for 3 weeks",hives,"various",moderate,synthetic_llm
+"swollen red bumps on neck and chest",hives,"neck and chest",moderate,synthetic_llm
+"sudden bumps all over, itching like crazy",hives,"various",severe,synthetic_llm
+"can write on my skin and it stays raised",hives,"arms and back",mild,synthetic_llm
+"tight itchy swelling in hands after cold water",hives,"hands",moderate,synthetic_llm
+"giant red welts on my hips",hives,"hips",moderate,synthetic_llm
+"sudden itchy rash and swollen lip",hives,"lips and torso",severe,synthetic_llm
+"tiny itchy bumps when I sweat",hives,"chest and neck",mild,synthetic_llm
+"itchy blotches on my torso every evening",hives,"torso",moderate,synthetic_llm
+"raised pale bumps with red halo",hives,"arms",mild,synthetic_llm
+"face puffy and itchy after peanuts",hives,"face",severe,synthetic_llm
+"allergic looking rash all over",hives,"various",moderate,synthetic_llm
+"itchy welts after new medicine",hives,"various",moderate,synthetic_llm
+"rash moved from my arm to my leg overnight",hives,"arms and legs",mild,synthetic_llm
+"swollen red patches on my kid's legs",hives,"legs",moderate,synthetic_llm
+"bumps all over after swimming in cold lake",hives,"legs and arms",moderate,synthetic_llm
+"raised itchy rash on belly, pregnant",hives,"belly",moderate,synthetic_llm
+"skin itches then big bumps within minutes",hives,"various",moderate,synthetic_llm
+"itchy lumps where seatbelt rubbed",hives,"chest and hip",mild,synthetic_llm
+"red welts on elbow",hives,"elbow",mild,synthetic_llm
+"blotchy itchy skin since yesterday",hives,"various",mild,synthetic_llm
+"dark brown raised itchy patches, fade by night",hives,"back and arms",mild,synthetic_llm
+"itchy bumps on scalp and neck after dye",hives,"scalp and neck",moderate,synthetic_llm
+"swollen eyes and itchy skin after cat visit",hives,"eyes and arms",moderate,synthetic_llm
+"rash after sunscreen, raised and itchy",hives,"arms and shoulders",mild,synthetic_llm
+"My whole body got covered in itchy raised welts about an hour after I ate at a seafood place last night.",hives,"various",severe,synthetic_llm
+"Out of nowhere these puffy red bumps showed up on my arms and they itch way more than a bug bite.",hives,"arms",moderate,synthetic_llm
+"The welts on my thighs were gone by lunch but a new batch popped up on my back.",hives,"thighs and back",moderate,synthetic_llm
+"Every time I sweat during the gym session I get itchy little raised dots across my chest.",hives,"chest",mild,synthetic_llm
+"Woke up with my lips and one eyelid swollen and a bunch of itchy bumps on my stomach.",hives,"lips, eyelid and stomach",severe,synthetic_llm
+"Raised itchy welts appeared under my waistband where my jeans press, and they are not scaly at all.",hives,"waist and hips",mild,synthetic_llm
+"My daughter got big pink blotches on her cheeks and trunk after trying egg for the first time.",hives,"cheeks and trunk",moderate,synthetic_llm
+"Strange swollen patches keep showing up on my forearms and they are warm and itchy but not painful.",hives,"forearms",moderate,synthetic_llm
+"After my morning run in the cold my legs were covered in raised welts that itched badly.",hives,"legs",moderate,synthetic_llm
+"Itchy bumps joined together into huge raised patches across my back within about twenty minutes.",hives,"back",severe,synthetic_llm
+"The raised patches on my skin look pale in the middle with a red edge and they keep changing shape.",hives,"torso",moderate,synthetic_llm
+"It feels like nettles brushed my entire torso, burning and itchy with raised streaks.",hives,"torso",moderate,synthetic_llm
+"My brown skin has darker raised welts on my shoulders that itch like crazy but are gone the next day.",hives,"shoulders",moderate,synthetic_llm
+"Nothing is flaky or oozing, just raised swollen itchy spots that pop up anywhere.",hives,"various",moderate,synthetic_llm
+"Every few days I get puffy itchy lumps on my hands and feet and I cannot find a reason.",hives,"hands and feet",moderate,synthetic_llm
+"My toddler has red raised bumps on her tummy and arms that appeared after the new antibiotic.",hives,"tummy and arms",moderate,synthetic_llm
+"Looks like a map of red raised patches on my side and they sting a bit when I scratch.",hives,"side",moderate,synthetic_llm
+"I get an intense itch first and then the welts rise up under my fingernails' scratching.",hives,"arms",mild,synthetic_llm
+"Just stepped out of a hot bath and now I am covered in itchy raised pink bumps.",hives,"chest and legs",mild,synthetic_llm
+"Big swollen area on my cheek that itches, appeared in about ten minutes and is fading now.",hives,"cheek",moderate,synthetic_llm
+"Since yesterday evening I have had red itchy raised spots on my neck, ears and chest.",hives,"neck, ears and chest",moderate,synthetic_llm
+"The welts follow wherever I scratch, so my arms look like they have pink tracks drawn on them.",hives,"arms",mild,synthetic_llm
+"Raised red rings on my belly that keep growing and then fade without leaving marks.",hives,"belly",mild,synthetic_llm
+"Mild itchy bumps on both ankles after wearing tight socks all day.",hives,"ankles",mild,synthetic_llm
+"Woke up at 3am scratching because of raised hot welts on my hips and thighs.",hives,"hips and thighs",severe,synthetic_llm
+"My elderly dad has itchy raised blotches on his back since starting a new blood pressure pill.",hives,"back",moderate,synthetic_llm
+"Strange puffy rash on my knees and elbows that itches, does not look like dry skin at all.",hives,"knees and elbows",mild,synthetic_llm
+"Pink raised patches with clear edges across my chest that burn and itch after I eat spicy food.",hives,"chest",mild,synthetic_llm
+"The bumps on my arms get bigger when I scratch and the itch is worse at night.",hives,"arms",moderate,synthetic_llm
+"One side of my face swelled up with itchy welts and my husband says it looks like I got stung.",hives,"face",severe,synthetic_llm
+"Little hot welts on my wrists where my watch strap sits, itchy and raised.",hives,"wrists",mild,synthetic_llm
+"My skin gets raised and red whenever I get nervous before presentations, mostly neck and chest.",hives,"neck and chest",mild,synthetic_llm
+"Large raised bumps cover my legs after a long day of hiking in the heat.",hives,"legs",moderate,synthetic_llm
+"Swollen red patches popped up on my buttocks and the backs of my thighs and itch intensely.",hives,"buttocks and thighs",moderate,synthetic_llm
+"There are dozens of itchy raised dots on my torso that appeared after a hot yoga class.",hives,"torso",mild,synthetic_llm
+"Puffy purple-brown patches on my arms that are really itchy but disappear and return elsewhere.",hives,"arms",moderate,synthetic_llm
+"Not painful at all, just a very itchy swollen patch on my forearm that vanished by evening.",hives,"forearm",mild,synthetic_llm
+"My cheeks and forehead have flat-topped red welts and I am worried before a work meeting.",hives,"face",moderate,synthetic_llm
+"I have raised itchy welts across my back that started two hours after taking aspirin.",hives,"back",severe,synthetic_llm
+"I have been getting random itchy bumps on my arms and legs for about a month now and they never last long.",hives,"arms and legs",moderate,synthetic_llm
+"Red swollen patches showed up all over my body after the wasp sting last weekend.",hives,"various",severe,synthetic_llm
+"Out in the cold wind my hands puff up and get itchy red welts.",hives,"hands",mild,synthetic_llm
+"Fresh welts keep appearing on my shoulders and the itch is driving me nuts.",hives,"shoulders",moderate,synthetic_llm
+"The rash on my chest is raised but smooth, no scaling, and it itches in waves.",hives,"chest",mild,synthetic_llm
+"Raised patches appear when my sleeves rub my skin, even a bit of pressure does it.",hives,"arms",mild,synthetic_llm
+"Between my fingers and on my palms I get itchy puffy swellings after washing dishes in cold water.",hives,"hands",mild,synthetic_llm
+"Large patchy welts on my hips since I ate mango yesterday, very itchy.",hives,"hips",moderate,synthetic_llm
+"I got a rash on my stomach that looks like several raised pink islands and it itches terribly.",hives,"stomach",moderate,synthetic_llm
+"There are a few raised bumps on my arm and they are only a little itchy, nothing else going on.",hives,"arm",mild,synthetic_llm
+"It started on my feet and spread up my legs as raised blotches within a couple of hours.",hives,"feet and legs",moderate,synthetic_llm
+"Been itchy since lunch and now there are welts on my neck and under my chin.",hives,"neck and chin",moderate,synthetic_llm
+"Itchy hot lumps keep coming in clusters on my lower back, then flatten after a while.",hives,"lower back",moderate,synthetic_llm
+"Is it normal for bumps to show up for two hours and then just disappear? I am 24 and they itch a lot.",hives,"arms and legs",mild,synthetic_llm
+"Why do I get raised itchy welts every time I take a hot shower?",hives,"chest and back",mild,synthetic_llm
+"what are these red swollen itchy patches that moved from my arm to my leg??",hives,"arms and legs",moderate,synthetic_llm
+"Is it an allergy if my lips swell and I get itchy bumps after eating nuts?",hives,"lips and torso",severe,synthetic_llm
+"why does my skin raise up in welts when I scratch it lightly",hives,"arms",mild,synthetic_llm
+"Should I worry about itchy raised rash that has lasted over six weeks on and off?",hives,"various",moderate,synthetic_llm
+"is it normal to have skin bumps that change place every few hours",hives,"various",mild,synthetic_llm
+"Could stress cause these big itchy blotches on my chest and neck before exams?",hives,"chest and neck",mild,synthetic_llm
+"Why is my baby's face covered with red raised patches after her first taste of yogurt?",hives,"face",moderate,synthetic_llm
+"my body itch and have big bump all over, is this allergy?",hives,"various",moderate,synthetic_llm
+"Are these welts under my belt from pressure or something else? they itch and fade after an hour",hives,"waist",mild,synthetic_llm
+"Why do my hands swell and itch after touching ice or cold drinks?",hives,"hands",mild,synthetic_llm
+"itchy bumps all over my body since morning pls help",hives,"various",moderate,synthetic_llm
+"my arms r covered in red bumps that itch and they move around",hives,"arms",moderate,synthetic_llm
+"got big welts after drinking cold beer lol so itchy",hives,"chest",mild,synthetic_llm
+"red patches on skin very itch since I eat prawns yesterday",hives,"various",moderate,synthetic_llm
+"face swollen and bumps on body what is happening",hives,"face and body",severe,synthetic_llm
+"my skin go raised when i scratch like a map",hives,"arms and back",mild,synthetic_llm
+"idk these bumps come at night then gone in the morning",hives,"various",mild,synthetic_llm
+"ugh so itchy fresh welts on my legs again today",hives,"legs",moderate,synthetic_llm
+"itchy rash on both thighs after the new painkiller, big red lumps",hives,"thighs",moderate,synthetic_llm
+"bumps on my neck n chest every time i get mad or stressed",hives,"neck and chest",mild,synthetic_llm
+"sir my son have red patch on body itching after medicine",hives,"body",moderate,synthetic_llm
+"hives again after eating strawberries, my lips feel fat too",hives,"lips and body",moderate,synthetic_llm
+"swollen patches wherever my bag strap sits",hives,"shoulder",mild,synthetic_llm
+"cant sleep bc the itching and the welts are everywhere",hives,"various",severe,synthetic_llm
+"red raised bumps on my arms after being outside in the cold",hives,"arms",mild,synthetic_llm
+"I was prescribed a new antibiotic five days ago, and last night I broke out in raised itchy welts on my chest and back. I took a Benadryl and they eased by morning but some came back at lunch. I am a bit scared to take the next pill.",hives,"chest and back",moderate,synthetic_llm
+"This has been on and off for about two months. Big itchy welts show up at random on my arms, legs or stomach and disappear within a day. I have tried switching laundry detergent and nothing changed.",hives,"various",moderate,synthetic_llm
+"I am 32 weeks pregnant and started getting very itchy raised patches on my belly and thighs last week. Calamine lotion helps a little but the welts keep moving around, and I cannot sleep at night.",hives,"belly and thighs",moderate,synthetic_llm
+"My 4 year old got red bumpy blotches all over her body after birthday cake. They were pink with pale centers and she kept scratching. By bedtime most were gone but her eyelids were still puffy.",hives,"body and eyelids",moderate,synthetic_llm
+"I started a new job in a cold warehouse and now my hands and forearms puff up with itchy welts whenever I handle chilled goods. It is not painful, just itchy and swollen. It goes away once I warm up.",hives,"hands and forearms",moderate,synthetic_llm
+"I am dark skinned so the welts look darker brown than my normal skin rather than red. They started on my back about three days ago and they itch like crazy. Tried coconut oil but it did nothing.",hives,"back",moderate,synthetic_llm
+"After a stressful week of finals I broke out in itchy raised patches over my neck and chest. They come in the evening and fade by morning. I tried an anti itch cream and an oatmeal bath with no real change.",hives,"neck and chest",moderate,synthetic_llm
+"My mother is 78 and has had raised itchy blotches on her back and sides for a week. She started a new heart medication ten days ago. Her skin is not dry or flaky, just puffy welts that move.",hives,"back and sides",moderate,synthetic_llm
+"Ever since I had a bad cold three weeks ago I keep getting these itchy welts. They are on my legs mostly and last a few hours. I used hydrocortisone cream, which barely touches the itch.",hives,"legs",moderate,synthetic_llm
+"Whenever I run in the summer, I get tiny itchy bumps surrounded by a red flare on my arms and chest. They go away after I cool down for twenty minutes. It is making me skip workouts.",hives,"arms and chest",mild,synthetic_llm
+"I think I reacted to something at a restaurant. Within an hour my lips tingled and swelled and large welts came up on my stomach. I took an antihistamine from my bag and it helped but I am still shaky.",hives,"lips and stomach",severe,synthetic_llm
+"My roommate says my back looks like it was whipped. I only scratched it a bit after showering, and long raised red lines came up. It does not hurt, just itches and it is embarrassing at the pool.",hives,"back",mild,synthetic_llm
+"For six weeks my face, especially around the eyes, keeps swelling in the morning along with itchy bumps on my body. My doctor is booked out for weeks. Over the counter allergy pills help a bit but not fully.",hives,"face and body",moderate,synthetic_llm
+"I am 19 and just got a new puppy and my arms are covered in raised itchy welts after playing with him. They fade after I wash up but come right back. No rash on the skin in between.",hives,"arms",mild,synthetic_llm
+"Last night after sushi I felt itchy everywhere and by the time I looked in the mirror my chest was covered in raised pink patches. They lasted about four hours. Nothing like this has ever happened to me before.",hives,"chest",moderate,synthetic_llm
+"Nurse here, working night shifts. My forearms break out in itchy welts after I put on latex gloves for about half an hour. The skin is not cracked or dry, just swollen raised bumps that settle in an hour.",hives,"forearms",mild,synthetic_llm
+"I have had these welts for four months now. They are on my arms and trunk, they itch mostly at night, and they never stay more than a day in one place. Tried cutting dairy and it did nothing.",hives,"arms and trunk",moderate,synthetic_llm
+"Spent the afternoon in a hot tub and now there are raised red bumps all over my thighs and waist. They itch badly but there are no blisters or pus. My girlfriend thinks it is a bug bite.",hives,"thighs and waist",mild,synthetic_llm
+"My teenage son has itchy lumps on his arms and legs after football practice. They look like big mosquito bites and fade after a shower. He has had it three times this month and he is getting embarrassed.",hives,"arms and legs",mild,synthetic_llm
+"I took naproxen for a headache and about an hour later got big itchy welts on my shoulders and arms. It is the second time with this kind of pill, so I think there is a link. Not painful, only the itch.",hives,"shoulders and arms",moderate,synthetic_llm
+"Two nights ago the itching started in the palms of my hands and it spread. By morning I had huge raised patches on my torso and my ankles were puffy. Cetirizine took the edge off but I still feel itchy.",hives,"torso, palms and ankles",severe,synthetic_llm
+"I am a new mom and my hormones are all over the place. Since the baby came I get these red raised patches on my chest and back whenever I feed at night. They are itchy, not sore, and fade by dawn.",hives,"chest and back",mild,synthetic_llm
+"It looks like I got stung by a whole bunch of bees but there is no sting mark. The bumps are huge, itchy and joined together on my arms, and some are fading while new ones show up on my legs.",hives,"arms and legs",moderate,synthetic_llm
+"I washed my hands in cold water and within minutes my knuckles puffed up with itchy red welts. Same thing happens when I grab frozen vegetables. My sister has it too, she says it runs in the family.",hives,"hands",mild,synthetic_llm
+"These purple-ish itchy swollen areas on my legs showed up after a long flight. They are smooth and raised, they do not hurt, and some of them vanished while I was in the shower.",hives,"legs",moderate,synthetic_llm
+"Two days on a new protein powder and I have raised itchy welts on my chest and arms. I stopped it yesterday and they are fading, but I do not know if I should still see someone.",hives,"chest and arms",moderate,synthetic_llm
+"My skin has been so itchy lately with random raised bumps I try to ignore. They last an hour or two. I am a student on a budget so I am just using ice packs and hoping it stops.",hives,"various",mild,synthetic_llm
+"red itchy bumps on my skin",hives,"various",mild,synthetic_llm
+"Rash all over my body today, itchy",hives,"various",moderate,synthetic_llm
+"something on my skin, raised and kinda itchy, not sure what",hives,"various",mild,synthetic_llm
+"just itchy blotchy skin, started this week",hives,"arms",mild,synthetic_llm
+"red patches on my chest",hives,"chest",mild,synthetic_llm
+"skin looks red and swollen in spots",hives,"various",mild,synthetic_llm
+"Weird rash on my legs, itchy, not sure if it is allergy or what",hives,"legs",mild,synthetic_llm
+"itchy rash that wont go away",hives,"various",moderate,synthetic_llm
+"Allergy rash, itchy red welts on arms",hives,"arms",moderate,synthetic_llm
+"my face is red and itchy and a bit puffy",hives,"face",moderate,synthetic_llm
+"Tiny red itchy bumps on my forearms after a hot day outside",hives,"forearms",mild,synthetic_llm
+"Swelling around my mouth and itchy skin after lunch, no idea why",hives,"mouth",severe,synthetic_llm
+"The skin on my neck looks blotchy and a bit raised whenever I am anxious",hives,"neck",mild,synthetic_llm
+"Raised welts on both arms that do not hurt but itch badly, started yesterday",hives,"arms",moderate,synthetic_llm
+"itchy skin and swollen spots after taking amoxicillin",hives,"various",moderate,synthetic_llm
+"Suddenly covered in huge itchy welts and I can feel my throat getting a bit scratchy",hives,"various",severe,synthetic_llm
+"my scalp feels hot and itchy and bumps on my neck came up after I used a new shampoo yesterday evening",hives,"scalp and neck",moderate,synthetic_llm
+"Strange swollen bumps on my back that look like pale pink blobs, and the itch comes in waves",hives,"back",moderate,synthetic_llm
+"The welts look like raised red rivers across my belly and they sting a little when scratched",hives,"belly",moderate,synthetic_llm
+"Allergic reaction I think, big raised itchy patches on both legs",hives,"legs",moderate,synthetic_llm
+"idk if its hives but my back is full of red itchy bumps that disappear and come again",hives,"back",moderate,synthetic_llm
+"Raised ring shaped welts on my chest, each lasting less than a day, very itchy",hives,"chest",moderate,synthetic_llm
+"they say its chronic urticaria but nobody tells me why my skin keeps swelling",hives,"various",moderate,synthetic_llm
+"Doctor mentioned hives last time, and today they are back on my shoulders and hips",hives,"shoulders and hips",moderate,synthetic_llm
+"Is this hives? red raised bumps with itch around my waist",hives,"waist",mild,synthetic_llm
+"Large itchy welts on my chest and neck after tomato soup",hives,"chest and neck",moderate,synthetic_llm
+"Super itchy raised dots on my torso after the sauna, they fade when I cool down",hives,"torso",mild,synthetic_llm
+"My eyelids and lips look swollen and I have some itchy welts on my chest",hives,"eyelids, lips and chest",severe,synthetic_llm
+"Raised bumps showed up on my legs after a long hot day and they are so itchy I want to scratch my skin off",hives,"legs",severe,synthetic_llm
+"The itchy raised spots on my arm are almost gone but now there are new ones on my back",hives,"arm and back",mild,synthetic_llm
+"Patches of swelling on my hands and feet that itch and fade within hours",hives,"hands and feet",moderate,synthetic_llm
+"Pink raised wheal on my arm where I scratched a mosquito bite, it spread into a big itchy patch",hives,"arm",mild,synthetic_llm
+"Everything below my collarbone is covered in raised itchy blotches this morning",hives,"chest and torso",severe,synthetic_llm
+"The welts are warm to the touch, they blanch when I press them, and they itch all day",hives,"torso",moderate,synthetic_llm
+"itchy welts on my thighs after wearing tight leggings all day",hives,"thighs",mild,synthetic_llm
+"Why do I get red puffy bumps on my arms whenever I drink wine?",hives,"arms",mild,synthetic_llm
+"swollen itchy patch on my calf, gone by dinner, back again next morning",hives,"calf",mild,synthetic_llm
+"My husband woke up with big raised pink welts on his back and says they burn when he scratches. He took a new supplement yesterday and has no other symptoms.",hives,"back",moderate,synthetic_llm
+"rash all over after medicine, so much itch i cant focus in class",hives,"various",severe,synthetic_llm
+"Raised itchy blotches on my ribs and underarms after a stressful week, not scaly, fade within hours",hives,"ribs and underarms",mild,synthetic_llm
+"red bumpy rash on arms, itchy",hives,"arms",mild,synthetic_llm
+"Elbows and forearms covered in raised welts after gardening, very itchy but no blisters, and some already faded",hives,"elbows and forearms",moderate,synthetic_llm
+"Big itchy dark patches appearing on my chest, brown skin, they look raised and swollen and last a few hours",hives,"chest",moderate,synthetic_llm

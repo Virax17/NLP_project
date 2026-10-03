@@ -12,7 +12,7 @@ import os
 import pickle
 import pandas as pd
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
@@ -26,7 +26,11 @@ from sklearn.metrics import (
 from sklearn.model_selection import cross_val_score
 
 
+SOURCES_TEST = None
+
+
 def load_splits(processed_dir: str):
+    global SOURCES_TEST
     train_df = pd.read_csv(os.path.join(processed_dir, "train.csv"))
     test_df = pd.read_csv(os.path.join(processed_dir, "test.csv"))
     label_map = pd.read_csv(os.path.join(processed_dir, "label_mapping.csv"))
@@ -37,6 +41,8 @@ def load_splits(processed_dir: str):
     y_test = test_df["label"].values
 
     label_names = dict(zip(label_map["label"], label_map["disease"]))
+    if "source" in test_df.columns:
+        SOURCES_TEST = test_df["source"].values
 
     print(f"Train: {len(X_train)} | Test: {len(X_test)}")
     print(f"Classes: {list(label_names.values())}")
@@ -45,26 +51,26 @@ def load_splits(processed_dir: str):
 
 def build_pipelines():
     tfidf = TfidfVectorizer(
-        max_features=5000,
+        max_features=8000,
         ngram_range=(1, 2),
         sublinear_tf=True,
     )
 
     pipelines = {
         "Naive Bayes": Pipeline([
-            ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
+            ("tfidf", TfidfVectorizer(max_features=8000, ngram_range=(1, 2), sublinear_tf=True)),
             ("clf", MultinomialNB(alpha=0.1)),
         ]),
         "Linear SVM": Pipeline([
-            ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
+            ("tfidf", TfidfVectorizer(max_features=8000, ngram_range=(1, 2), sublinear_tf=True)),
             ("clf", LinearSVC(max_iter=10000, C=1.0)),
         ]),
         "Logistic Regression": Pipeline([
-            ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
-            ("clf", LogisticRegression(max_iter=2000, C=30.0)),
+            ("tfidf", TfidfVectorizer(max_features=8000, ngram_range=(1, 2), sublinear_tf=True)),
+            ("clf", LogisticRegression(max_iter=2000, C=10.0)),
         ]),
         "Random Forest": Pipeline([
-            ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
+            ("tfidf", TfidfVectorizer(max_features=8000, ngram_range=(1, 2), sublinear_tf=True)),
             ("clf", RandomForestClassifier(n_estimators=200, random_state=42)),
         ]),
     }
@@ -87,6 +93,10 @@ def evaluate_all(pipelines, X_train, y_train, X_test, y_test, label_names):
 
         acc = accuracy_score(y_test, y_pred)
         print(f"Test accuracy: {acc:.4f}")
+        if SOURCES_TEST is not None:
+            for src in sorted(set(SOURCES_TEST)):
+                m = SOURCES_TEST == src
+                print(f"  {src}: {accuracy_score(y_test[m], y_pred[m]):.4f} (n={int(m.sum())})")
 
         target_names = [label_names[i] for i in sorted(label_names.keys())]
         print("\nClassification Report:")
@@ -118,12 +128,29 @@ def select_best(results):
     return best_name, best["pipeline"]
 
 
-def save_model(pipeline, label_names, model_dir="models"):
+def word_purity(X_train, y_train):
+    """For each word: (share of its documents in the most common class, document count).
+    The chatbot uses this to tell condition-specific words from generic ones."""
+    cv = CountVectorizer(binary=True)
+    M = cv.fit_transform(X_train)
+    out = {}
+    classes = np.unique(y_train)
+    per_class = np.vstack([np.asarray(M[y_train == c].sum(axis=0)).ravel() for c in classes])
+    total = per_class.sum(axis=0)
+    for w, i in cv.vocabulary_.items():
+        out[w] = (float(per_class[:, i].max() / total[i]), int(total[i]))
+    return out
+
+
+def save_model(pipeline, label_names, purity, model_dir="models"):
     os.makedirs(model_dir, exist_ok=True)
 
     model_path = os.path.join(model_dir, "skin_disease_model.pkl")
     with open(model_path, "wb") as f:
         pickle.dump(pipeline, f)
+
+    with open(os.path.join(model_dir, "word_purity.pkl"), "wb") as f:
+        pickle.dump(purity, f)
 
     labels_path = os.path.join(model_dir, "label_names.pkl")
     with open(labels_path, "wb") as f:
@@ -161,7 +188,7 @@ def main():
     results = evaluate_all(pipelines, X_train, y_train, X_test, y_test, label_names)
 
     best_name, best_pipeline = select_best(results)
-    save_model(best_pipeline, label_names, MODEL_DIR)
+    save_model(best_pipeline, label_names, word_purity(X_train, y_train), MODEL_DIR)
 
     print("\n" + "=" * 50)
     print("Testing with sample inputs")

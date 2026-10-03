@@ -1,0 +1,201 @@
+text,disease,body_location,severity,source
+"itchy between fingers worse at night",scabies,"between fingers",moderate,synthetic_llm
+"tiny bumps and itching at night",scabies,"various",moderate,synthetic_llm
+"red itchy patches",scabies,"various",moderate,synthetic_llm
+"rash on my arms that itches",scabies,"arms",mild,synthetic_llm
+"itching all night, wrists and waist",scabies,"wrists and waist",severe,synthetic_llm
+"thin wavy lines on wrist, itchy",scabies,"wrist",moderate,synthetic_llm
+"itchy bumps around belly button",scabies,"abdomen",moderate,synthetic_llm
+"night itching, bumps on buttocks",scabies,"buttocks",moderate,synthetic_llm
+"itchy rash on my back",scabies,"back",mild,synthetic_llm
+"itchy spots in armpits and groin since last week",scabies,"armpits and groin",moderate,synthetic_llm
+"bumps on penis that itch at night",scabies,"genitals",moderate,synthetic_llm
+"itchy nipples with little bumps around them",scabies,"breasts",moderate,synthetic_llm
+"hands itch like crazy at night, no relief",scabies,"hands",severe,synthetic_llm
+"small scratchy bumps on ankles and feet",scabies,"ankles and feet",mild,synthetic_llm
+"whole house has an itchy rash",scabies,"various",moderate,synthetic_llm
+"itchy rash since the hostel trip",scabies,"various",moderate,synthetic_llm
+"pimple-like itchy bumps along waistline",scabies,"waist",moderate,synthetic_llm
+"dark brown itchy bumps on wrists, lots of scratch marks",scabies,"wrists",moderate,synthetic_llm
+"itchy rash on both elbows and wrists",scabies,"elbows and wrists",moderate,synthetic_llm
+"rash that only itches at night",scabies,"various",moderate,synthetic_llm
+"scabbed hands from scratching all night",scabies,"hands",severe,synthetic_llm
+"tiny red dots between toes, itchy",scabies,"between toes",mild,synthetic_llm
+"baby has itchy blisters on palms",scabies,"palms",moderate,synthetic_llm
+"grandma at nursing home, itchy crusty rash on hands",scabies,"hands",severe,synthetic_llm
+"itchy burrow-like tracks on my hand",scabies,"hand",moderate,synthetic_llm
+"not sure what this rash is, itchy at night, hands and waist",scabies,"hands and waist",moderate,synthetic_llm
+"itching under breasts with small bumps",scabies,"under breasts",moderate,synthetic_llm
+"intense itch but barely any rash to see",scabies,"various",moderate,synthetic_llm
+"inner thighs itchy, red bumps, worse at night",scabies,"inner thighs",moderate,synthetic_llm
+"sleepless from itchy hands",scabies,"hands",severe,synthetic_llm
+"itchy bumps on wrist, boyfriend has the same thing",scabies,"wrist",moderate,synthetic_llm
+"itchy rash after sleeping at a friend's place",scabies,"various",moderate,synthetic_llm
+"itchy red bumps on buttocks and thighs",scabies,"buttocks and thighs",moderate,synthetic_llm
+"purplish itchy bumps on my forearms",scabies,"forearms",moderate,synthetic_llm
+"itching gets worse after a hot shower, mostly wrists",scabies,"wrists",mild,synthetic_llm
+"small itchy sores in finger webbing",scabies,"finger webs",moderate,synthetic_llm
+"itchy rash, no cream has worked in weeks",scabies,"various",moderate,synthetic_llm
+"itchy lumps in the groin area",scabies,"groin",moderate,synthetic_llm
+"kids all scratching at night",scabies,"various",moderate,synthetic_llm
+"itchy rash between fingers and on wrists",scabies,"fingers and wrists",moderate,synthetic_llm
+"toddler itchy bumps on palms and soles",scabies,"palms and soles",moderate,synthetic_llm
+"dormmates all got an itchy rash",scabies,"various",moderate,synthetic_llm
+"rash on stomach that itches at night",scabies,"abdomen",mild,synthetic_llm
+"itchy bumps on backs of knees and ankles",scabies,"knees and ankles",mild,synthetic_llm
+"itching since the camping trip, nothing helps",scabies,"various",moderate,synthetic_llm
+"infant rash on hands and feet, scratching nonstop",scabies,"hands and feet",severe,synthetic_llm
+"itchy red pimples on hands and wrists",scabies,"hands and wrists",moderate,synthetic_llm
+"rash with little tunnels in the skin",scabies,"various",moderate,synthetic_llm
+"constant itch on ankles and waist",scabies,"ankles and waist",moderate,synthetic_llm
+"cant stop scratching at night, red specks everywhere",scabies,"various",severe,synthetic_llm
+"My wrists and the skin between my fingers itch so badly at night that I wake up scratching until it bleeds.",scabies,"wrists and fingers",severe,synthetic_llm
+"Little red bumps showed up around my waist and belt line and the itch is way worse once I lie down.",scabies,"waist",moderate,synthetic_llm
+"For about a month now my armpits and the creases of my elbows itch like crazy and nothing I put on it helps.",scabies,"armpits and elbows",moderate,synthetic_llm
+"Both of my kids and I have been scratching at night and we found tiny bumps between their fingers.",scabies,"between fingers",moderate,synthetic_llm
+"There are these thin grayish lines on the side of my hand and the whole area itches, especially in the evening.",scabies,"side of hand",moderate,synthetic_llm
+"Ever since I came back from my trip, my skin has been super itchy with a bunch of small bumps on my stomach.",scabies,"abdomen",moderate,synthetic_llm
+"The itching on my lower belly and inner thighs is driving me nuts, and I get red dots there that look like bites.",scabies,"lower abdomen and thighs",moderate,synthetic_llm
+"Nothing visible really except a few scratch marks, but my hands itch intensely every night after I get into bed.",scabies,"hands",moderate,synthetic_llm
+"My 4 month old has been fussy and scratching, and there are small blisters on both of his feet.",scabies,"feet",moderate,synthetic_llm
+"I noticed itchy pimple-looking spots on my private area and also between my fingers, and it gets worse at night.",scabies,"groin and fingers",moderate,synthetic_llm
+"Weird itchy bumps on my wrists and ankles that started a couple weeks after my roommate began scratching too.",scabies,"wrists and ankles",moderate,synthetic_llm
+"The skin around my nipples is itchy and has small red bumps, and I also itch between my fingers.",scabies,"breasts and fingers",moderate,synthetic_llm
+"Small crusty patches on my hands and elbows that itch terribly, and my mom in the care home has the same.",scabies,"hands and elbows",severe,synthetic_llm
+"My buttocks and the back of my thighs are covered in itchy little bumps that are worse when I'm warm in bed.",scabies,"buttocks and thighs",moderate,synthetic_llm
+"Is there a rash that itches mostly at night and spares my face? Mine is on my hands, wrists, and belly.",scabies,"hands, wrists and belly",moderate,synthetic_llm
+"The bumps on my skin are dark and a little raised, and the itching is just constant on my forearms and waist.",scabies,"forearms and waist",moderate,synthetic_llm
+"My scrotum has itchy red nodules and my wrists have tiny bumps, and I have been scratching for weeks.",scabies,"genitals and wrists",severe,synthetic_llm
+"After staying in a shared dorm room, I got a very itchy rash between my fingers and on my wrists.",scabies,"fingers and wrists",moderate,synthetic_llm
+"These tiny blisters on my palms itch more than anything I've felt before, and it only gets bad in the night.",scabies,"palms",severe,synthetic_llm
+"My daughter's hands are covered in scratch marks and little red bumps and she cries at bedtime from the itch.",scabies,"hands",moderate,synthetic_llm
+"There are little scabbed spots on my ankles and between my toes that itch badly after I take my socks off.",scabies,"ankles and toes",moderate,synthetic_llm
+"Itching on my ribs and sides that starts around midnight, and I see small red bumps in a line.",scabies,"ribs and sides",moderate,synthetic_llm
+"My husband and I both have an itchy rash around the waist and wrists, which is odd since nothing changed in our routine.",scabies,"waist and wrists",moderate,synthetic_llm
+"The itchy bumps on my feet get worse at night, and there are some small tracks near my arch.",scabies,"feet",moderate,synthetic_llm
+"My skin looks like it has lots of tiny pimples on my wrists but they itch instead of hurting.",scabies,"wrists",moderate,synthetic_llm
+"It feels like something is crawling under the skin on my hands at night, and I see a few red bumps.",scabies,"hands",moderate,synthetic_llm
+"I have an itchy rash around my waist and between my fingers that started right after I stayed at a hotel.",scabies,"waist and fingers",moderate,synthetic_llm
+"Our toddler is scratching his hands and feet nonstop and has scabs on his fingers, and now I'm itchy too.",scabies,"hands and feet",severe,synthetic_llm
+"The folds of my wrists are red and covered in tiny bumps, and the itching wakes me at 3am.",scabies,"wrists",moderate,synthetic_llm
+"Itchy bumps along my bra line and under my arms, but no pain and no weeping, just that awful itch.",scabies,"chest and armpits",moderate,synthetic_llm
+"A rash that spares my face and neck but covers my hands, torso, and legs, and itches like crazy at night.",scabies,"hands, torso and legs",severe,synthetic_llm
+"My skin on the inner arms has little burrows you can almost see, and the itch is strongest right before sleep.",scabies,"inner arms",moderate,synthetic_llm
+"I get little itchy sores around my belt and in the crease of my butt, and they get scabby from scratching.",scabies,"waist and buttocks",moderate,synthetic_llm
+"There are three or four swollen itchy bumps in my armpit that don't look like regular pimples.",scabies,"armpit",moderate,synthetic_llm
+"Started getting itchy on my hands, now it's spread to my belly and legs and I'm barely sleeping.",scabies,"hands, belly and legs",severe,synthetic_llm
+"Nobody in the house can sleep because we are all scratching, and the bumps are mostly on our wrists and fingers.",scabies,"wrists and fingers",moderate,synthetic_llm
+"The rash on my hands looks like small red dots, and when I scratch the skin seems to get thicker and crusty.",scabies,"hands",moderate,synthetic_llm
+"Even though it itches a lot, the skin doesn't look that bad, just a few red specks on my wrists and waist.",scabies,"wrists and waist",mild,synthetic_llm
+"The itch started on my fingers and spread to my elbows and waist over about two weeks, with no hives.",scabies,"fingers, elbows and waist",moderate,synthetic_llm
+"My ankles are dotted with itchy dark spots that I keep scratching open, especially at night.",scabies,"ankles",moderate,synthetic_llm
+"Weird that only my hands and waist itch badly at night, and there are small raised lines near my thumb.",scabies,"hands and waist",moderate,synthetic_llm
+"There is a patch of tiny red bumps on my lower back that itches endlessly, and it is spreading to my sides.",scabies,"lower back",moderate,synthetic_llm
+"I can see a tiny dark dot at the end of a thin line on my wrist and it itches like mad.",scabies,"wrist",moderate,synthetic_llm
+"I think I picked this up at the gym or from a borrowed blanket, because now my arms and belly itch all night.",scabies,"arms and belly",moderate,synthetic_llm
+"Doctor told me it might be an allergy, but antihistamines did nothing for the night itching on my hands and waist.",scabies,"hands and waist",moderate,synthetic_llm
+"The itching hits right when I get under the covers, mostly on the soft skin of my wrists and thighs.",scabies,"wrists and thighs",moderate,synthetic_llm
+"About three weeks ago I started getting itchy and now my girlfriend is scratching too. We both have bumps on our hands and stomachs. I tried hydrocortisone cream but it did nothing and the itching is getting worse at night.",scabies,"hands and stomach",moderate,synthetic_llm
+"My eight year old came home from a sleepover and started scratching. Now there are tiny red bumps between his fingers and on his wrists. I put on lotion and oatmeal baths but he still wakes up crying every night.",scabies,"fingers and wrists",moderate,synthetic_llm
+"I am a nurse and a few of the patients on my ward had a crusty rash on their hands. Now I have an itchy rash on my wrists and waist. It is worst at night and I am exhausted at work.",scabies,"wrists and waist",moderate,synthetic_llm
+"I'm 67 and live in assisted living. For a month my hands, elbows, and back have been itchy, and now there are scabby areas. I tried a moisturizer and an anti-itch spray but nothing helps, and it embarrasses me around the other residents.",scabies,"hands, elbows and back",severe,synthetic_llm
+"I'm 5 months pregnant and my hands and belly are covered in itchy little bumps. I worry what I can use safely. It's mostly at night and I haven't slept properly in days.",scabies,"hands and belly",moderate,synthetic_llm
+"My skin is dark brown and the bumps on my wrists look darker than my skin, almost purple, and they itch constantly. It started after I stayed with relatives and all of us have it now. Coconut oil and cortisone cream didn't do a thing.",scabies,"wrists",moderate,synthetic_llm
+"I moved into a college dorm last month. Since then I get an itchy rash around my waist, between my fingers, and on my ankles. My roommate is scratching too, so we're both kind of freaked out.",scabies,"waist, fingers and ankles",moderate,synthetic_llm
+"Our baby is 7 months old and has red bumps on his palms and soles, and he screams and rubs his hands at night. We tried diaper cream and baby lotion. Pediatrician appointment is not till Thursday and we are all on edge.",scabies,"palms and soles",severe,synthetic_llm
+"It has been about six weeks of itching that gets worse every night. I thought it was dry skin so I used heavy moisturizer, then an allergy pill, and neither one made any difference. Now there are scratch scabs all over my belly and thighs.",scabies,"belly and thighs",severe,synthetic_llm
+"I'm a bartender and I share a crowded apartment with four other people. Two of us have an itchy rash on our hands and wrists, and now small bumps are showing around my belt. Itching is brutal at night and I haven't slept more than three hours.",scabies,"hands, wrists and waist",severe,synthetic_llm
+"My dad has dementia and lives with us, and over a few weeks he developed thick crusty patches on his hands and feet. He scratches nonstop. Now my wife and I are itching in the evenings, mainly on our wrists.",scabies,"hands and feet",severe,synthetic_llm
+"I got back from a trip abroad two weeks ago and the itching started around then. Small bumps on my fingers, waist, and inner thighs. No fever, and the rash is not painful at all, it just itches terribly after dark.",scabies,"fingers, waist and thighs",moderate,synthetic_llm
+"Using tea tree oil and apple cider vinegar for ten days did nothing. The bumps are on my wrists, between my fingers, and on my buttocks. I am a student and it is making me miss sleep and class.",scabies,"wrists, fingers and buttocks",moderate,synthetic_llm
+"Looks like tiny bites in lines on my wrists and the web of my fingers. No other bugs in the house that I can find. Itch is worst in bed, and it has been about 10 days now.",scabies,"wrists and finger webs",moderate,synthetic_llm
+"My teenage son plays rugby and has an itchy rash around his armpits and waist. I assumed it was sweat rash but it is spreading to his hands and he scratches at night. Now I'm itchy on my forearms too.",scabies,"armpits, waist and hands",moderate,synthetic_llm
+"The itch is crazy but there's barely anything to see. Just a few little red dots on my wrists. It's been three weeks, mostly at night, and my partner has begun scratching as well.",scabies,"wrists",moderate,synthetic_llm
+"I work in daycare and a few of the kids had a rash recently. Now I'm itching on my hands, wrists, and under my breasts. I put calamine lotion on it, which cooled it for a bit, but by night it is awful again.",scabies,"hands, wrists and breasts",moderate,synthetic_llm
+"I'm 30 weeks pregnant, and for about two weeks my hands have been itchy, and I've found little bumps near my armpits and under my belly. I was told it could be pregnancy rash but my husband has it also.",scabies,"hands, armpits and belly",moderate,synthetic_llm
+"Started with a few itchy spots on my wrist and now there are bumps in my groin and around my waist. I have not changed any soaps or detergent. It really only bothers me when I'm in bed and the room is warm.",scabies,"wrist, groin and waist",moderate,synthetic_llm
+"My elderly mother was in rehab for a few weeks. Since coming home, she has had a very itchy rash on her back and stomach with some crusting on her hands. Two of her caregivers also noticed itchy spots.",scabies,"back, stomach and hands",severe,synthetic_llm
+"The itching in the webs of my fingers started a month ago and I have been using steroid cream from an old prescription. It calms down for a couple of hours and then comes back more and the rash has spread to my wrists.",scabies,"finger webs and wrists",moderate,synthetic_llm
+"We stayed at a cheap motel last month. Since then my husband and I have been itching around our waists and wrists. Our son has a rash on his palms too. We washed all the bedding twice, though the itch persists.",scabies,"waist, wrists and palms",moderate,synthetic_llm
+"I am almost 40 and never had skin problems before. Now I have intensely itchy bumps on my genitals, wrists, and between my fingers, and I'm too embarrassed to tell anyone. I only want it to stop so I can sleep.",scabies,"genitals, wrists and fingers",severe,synthetic_llm
+"New job in a care facility. After three weeks my hands started itching at night, then my forearms. Tiny red bumps and a few thin lines near my thumb. It does not hurt and there is no blistering, just the itch.",scabies,"hands and forearms",moderate,synthetic_llm
+"I got a used couch from marketplace and about two weeks after that I started itching in the evenings. Rash is on my buttocks, back of my thighs, and wrists. I've tried antifungal cream and it did nothing.",scabies,"buttocks, thighs and wrists",moderate,synthetic_llm
+"Three of us in a shared flat are scratching all the time. It began with itchy fingers and now we all have small red bumps on arms and stomach. We took allergy tablets, nothing changed, and nights are the worst.",scabies,"fingers, arms and stomach",moderate,synthetic_llm
+"my hands r so itchy at night i cant sleep and theres little bumps between my fingers",scabies,"hands",moderate,synthetic_llm
+"help everyone in my house is itchy and has bumps on wrists",scabies,"wrists",moderate,synthetic_llm
+"bro i keep scratching my waist at night theres red dots all over",scabies,"waist",moderate,synthetic_llm
+"itchy rash wont go away been 3 weeks only itches when im in bed",scabies,"various",moderate,synthetic_llm
+"my skin is itching very much in night time, small small pimples on hand and stomach",scabies,"hand and stomach",moderate,synthetic_llm
+"the itch is killing me hands wrists and butt cheeks omg",scabies,"hands, wrists and buttocks",severe,synthetic_llm
+"scratched my hands raw last night tiny bumps everywhere between fingers",scabies,"hands",severe,synthetic_llm
+"my baby got red spots on her hands and feet and she wont stop rubbing them",scabies,"hands and feet",moderate,synthetic_llm
+"itching at night for 2 weeks now, i think i got it from my friends couch",scabies,"various",moderate,synthetic_llm
+"in my country we call it itch of night, my skin has small bumps on fingers and itch very bad",scabies,"fingers",moderate,synthetic_llm
+"rash on my wrists n waist, lowkey itches so bad after midnight",scabies,"wrists and waist",moderate,synthetic_llm
+"ugh my roommate and i both got this itchy rash on our hands lol not fun",scabies,"hands",moderate,synthetic_llm
+"red dots in line on my wrist, itchy af",scabies,"wrist",moderate,synthetic_llm
+"my husband say it is mosquito but we dont have mosquito in house, the itching is on hands and belly",scabies,"hands and belly",moderate,synthetic_llm
+"i dont sleep since monday the itching on my armpits and groin is too much",scabies,"armpits and groin",severe,synthetic_llm
+"tiny bumps on my fingers and now spreading to waist, no pain just so itchy",scabies,"fingers and waist",moderate,synthetic_llm
+"nothing on my face or neck but body is itchy all over at night, hands worst",scabies,"hands and body",moderate,synthetic_llm
+"my kids are scratching their hands all day, school sent a note",scabies,"hands",moderate,synthetic_llm
+"itchy bumps on my wrist grew a scab idk what to do",scabies,"wrist",mild,synthetic_llm
+"Why does my skin only itch at night and why is it between my fingers specifically?",scabies,"between fingers",moderate,synthetic_llm
+"Is it normal that my rash itches more after a hot shower and mostly in bed?",scabies,"various",moderate,synthetic_llm
+"Could tiny bumps in lines on my wrists be burrows from something?",scabies,"wrists",moderate,synthetic_llm
+"Why is everyone in my house itching at the same time?",scabies,"various",moderate,synthetic_llm
+"Why do my nipples and armpits itch so much at night with little red bumps?",scabies,"nipples and armpits",moderate,synthetic_llm
+"Is it possible for a rash to itch this much with almost nothing visible on the skin?",scabies,"various",moderate,synthetic_llm
+"What are these tiny red bumps on my baby's palms that make her fuss and rub her hands?",scabies,"palms",moderate,synthetic_llm
+"Why does my groin rash itch so badly at night but not in the daytime?",scabies,"groin",moderate,synthetic_llm
+"My doctor said it was eczema but creams don't help the itching on my wrists and between my fingers, what else could it be?",scabies,"wrists and fingers",moderate,synthetic_llm
+"Could I have caught scabies from my gym towel? I have a night time itch and bumps on my arms and waist.",scabies,"arms and waist",moderate,synthetic_llm
+"Is this scabies? Small itchy bumps between my fingers and on my wrists, worse at night.",scabies,"fingers and wrists",moderate,synthetic_llm
+"I think I have scabies because my sister got diagnosed and now my hands and waist itch every night.",scabies,"hands and waist",moderate,synthetic_llm
+"scabies symptoms on legs and ankles, itching at night",scabies,"legs and ankles",moderate,synthetic_llm
+"Pretty sure it's scabies, the burrow lines on my wrist look just like the pictures and the itch is unbearable.",scabies,"wrist",severe,synthetic_llm
+"My roommate was told she has scabies and I now have the same itchy bumps on my wrists and stomach.",scabies,"wrists and stomach",moderate,synthetic_llm
+"does scabies look like tiny pimples around the waist? mine itch like crazy",scabies,"waist",moderate,synthetic_llm
+"Got diagnosed with scabies last week but the itching is still awful on my hands and belly even after treatment.",scabies,"hands and belly",moderate,synthetic_llm
+"scabies on my fingers and wrists, can't sleep",scabies,"fingers and wrists",severe,synthetic_llm
+"The rash looks kind of like bug bites but there are no bugs I can find, and the itch is non stop at night around my waist.",scabies,"waist",moderate,synthetic_llm
+"Little pimples on the sides of my fingers that are sore from scratching, plus an itchy rash on my elbows.",scabies,"fingers and elbows",moderate,synthetic_llm
+"It looks like a rash but I'm not sure what kind, it's on my legs and belly and the itch is bad at night.",scabies,"legs and belly",moderate,synthetic_llm
+"Light brown bumps on my skin that itch a lot, mostly hands and stomach, and they seem to be spreading.",scabies,"hands and stomach",moderate,synthetic_llm
+"I get hot and itchy at night and my arms look pinkish red with many tiny bumps and scratch marks.",scabies,"arms",moderate,synthetic_llm
+"A few red bumps on my hands that itch badly and my sister has the same ones, we both sleep in the same room.",scabies,"hands",moderate,synthetic_llm
+"Not a single bump on my face but everything else is itchy, my hands, arms, and the lower half of my body.",scabies,"hands, arms and lower body",moderate,synthetic_llm
+"There's a rash across my midsection and upper thighs, no pain at all, but itching is intense from evening to morning.",scabies,"midsection and thighs",severe,synthetic_llm
+"Small bumps on my wrist with a thin curved line next to them, and my hands itch at night.",scabies,"wrist and hands",moderate,synthetic_llm
+"The itchy areas on my body don't really blister or ooze, just small bumps and scabs from scratching, mainly around the waist.",scabies,"waist",moderate,synthetic_llm
+"Constant night itch on my feet and ankles with little bumps and a few tracks along the sole.",scabies,"feet and ankles",moderate,synthetic_llm
+"itchy skin on hands that gets worse once the lights are off",scabies,"hands",moderate,synthetic_llm
+"red bumps wrists, itchy, only at night",scabies,"wrists",moderate,synthetic_llm
+"rash and itching after visiting my uncle in the hospital",scabies,"various",mild,synthetic_llm
+"My skin itches in so many places lately, and the bumps seem to pop up around creases like the elbows, wrists, and under the knees.",scabies,"elbows, wrists and knees",moderate,synthetic_llm
+"Mostly an itchy rash on my torso, a few bumps near my ankles, and a strange night time itch. Nothing seems to calm it.",scabies,"torso and ankles",moderate,synthetic_llm
+"The itching in my fingers starts about an hour after I go to sleep, then there's more on my wrists. I haven't used any new products.",scabies,"fingers and wrists",moderate,synthetic_llm
+"Little red bumps appeared on my buttocks about two weeks ago and keep itching nonstop, so I sit uncomfortably at work.",scabies,"buttocks",moderate,synthetic_llm
+"For the last month my toddler has had red dots in his armpits and on his hands, and he cries and scratches whenever it gets dark.",scabies,"armpits and hands",moderate,synthetic_llm
+"After my cousin stayed over with a rash, we all started itching, and I now see tiny bumps in the folds of my wrists.",scabies,"wrist folds",moderate,synthetic_llm
+"My skin tone is dark and the bumps on my fingers are a deeper brown color, they itch like mad, especially at bedtime.",scabies,"fingers",moderate,synthetic_llm
+"Terrible itching on my hands and feet at night, there are some pustules between my toes, and it seems to be contagious.",scabies,"hands and feet",severe,synthetic_llm
+"itchy rash on my stomach and arms",scabies,"abdomen and arms",mild,synthetic_llm
+"night itch, little scabs on fingers",scabies,"fingers",moderate,synthetic_llm
+"bumps all over, itching worse in bed",scabies,"various",moderate,synthetic_llm
+"itchy skin on hands and wrists, getting worse",scabies,"hands and wrists",moderate,synthetic_llm
+"red dots on thighs that itch nonstop",scabies,"thighs",moderate,synthetic_llm
+"tiny pimples between fingers, no pain",scabies,"between fingers",mild,synthetic_llm
+"Something is making my hands itch so bad at night that I end up sitting on them just to stop scratching.",scabies,"hands",severe,synthetic_llm
+"My partner and I keep waking up at night to scratch, with little red bumps on our wrists and around the waistband.",scabies,"wrists and waist",moderate,synthetic_llm
+"The skin on my inner elbows and wrists is covered in small bumps and itches fiercely once I'm in bed.",scabies,"elbows and wrists",moderate,synthetic_llm
+"There are small tunnel-like marks near my fingers and my skin itches the most after midnight.",scabies,"fingers",moderate,synthetic_llm
+"Pretty itchy bumps appeared on my lower abdomen and thighs after I used a shared hostel bed last month, and they won't fade.",scabies,"lower abdomen and thighs",moderate,synthetic_llm
+"I'm 22 and living with three roommates. The itching started on my hands about 2 weeks ago, then spread to my stomach and thighs. I tried a hydrocortisone cream and a cold compress, but the night itching is still awful and now I'm scared to share the couch.",scabies,"hands, stomach and thighs",moderate,synthetic_llm
+"My 2 year old has been rubbing his hands and feet on the bedsheets for days and has tiny red bumps and scabs on them. I tried diaper rash cream and moisturizer, nothing helped, and now my arms itch too.",scabies,"hands and feet",moderate,synthetic_llm
+"After a long hospital stay my father came home with a very itchy rash across his back and hands. He's 78 and scratches until he bleeds. We tried baby oil and an oatmeal lotion with no luck, and I worry the rest of the family will catch it.",scabies,"back and hands",severe,synthetic_llm
+"whats this itchy rash between my fingers and on my wrist i only itch at night",scabies,"fingers and wrist",moderate,synthetic_llm
+"im so itchy omg my hands and belly r covered in small red bumps and my sister has them 2",scabies,"hands and belly",moderate,synthetic_llm
+"Is it normal for the itch to be this bad but only in certain spots like my fingers, waist, and genitals?",scabies,"fingers, waist and genitals",moderate,synthetic_llm
+"Why do I have itchy bumps in my armpits and on my wrists and none on my face or scalp?",scabies,"armpits and wrists",moderate,synthetic_llm
+"Could this be scabies? The itching is mostly at night and I see small lines on my fingers.",scabies,"fingers",moderate,synthetic_llm
