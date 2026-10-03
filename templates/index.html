@@ -26,9 +26,9 @@
 
     <form class="composer" id="form" novalidate>
       <div class="field">
-        <label for="symptomInput" hidden>Describe your symptoms</label>
-        <input id="symptomInput" type="text" autocomplete="off" maxlength="300"
-               placeholder="Describe your symptoms, e.g. dry cracked skin behind my knees">
+        <label for="symptomInput" hidden>Message</label>
+        <input id="symptomInput" type="text" autocomplete="off" maxlength="400"
+               placeholder="Describe your symptoms, or ask a question about a skin condition">
         <button class="send" id="sendBtn" type="submit">Send</button>
       </div>
       <p class="hint">Not a diagnosis. See a dermatologist for any skin concern.</p>
@@ -42,27 +42,27 @@
     const sendBtn = document.getElementById("sendBtn");
     const resetBtn = document.getElementById("resetBtn");
 
+    const DEFAULT_PLACEHOLDER = "Describe your symptoms, or ask a question about a skin condition";
     const EXAMPLES = [
       "itchy red patches on my elbows",
       "small pimples and oily skin on my face",
-      "circular ring shaped rash on my arm",
+      "circular rash on my arm",
       "white patches where my skin lost color",
-      "intense itching between my fingers at night",
+      "Is eczema contagious?",
     ];
+
+    let ctx = null;
 
     const esc = (s) => {
       const d = document.createElement("div");
       d.textContent = s;
       return d.innerHTML;
     };
-
-    const clock = () =>
-      new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+    const paras = (s) => s.split("\n").map((t) => `<p>${esc(t)}</p>`).join("");
+    const clock = () => new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
 
     function toEnd() {
-      requestAnimationFrame(() => {
-        log.scrollTop = log.scrollHeight;
-      });
+      requestAnimationFrame(() => { log.scrollTop = log.scrollHeight; });
     }
 
     function row(who, inner, wide = false) {
@@ -77,41 +77,81 @@
       return el;
     }
 
-    function greet() {
-      const chips = EXAMPLES.map((t) => `<button type="button" class="chip">${esc(t)}</button>`).join("");
-      const el = row("bot",
-        `<div class="bubble">Hi, I'm the Skin Assistant. Tell me what you see or feel on your skin and I'll suggest the closest match from ten common conditions.</div>
-         <div class="bubble note"><strong>Not medical advice.</strong> I can't diagnose anything. This is a college project.</div>
-         <div class="quick">${chips}</div>`);
+    function clearQuick() {
+      log.querySelectorAll(".quick").forEach((q) => q.remove());
+    }
+
+    function quickHtml(options) {
+      if (!options || !options.length) return "";
+      return `<div class="quick">${options.map((o) => `<button type="button" class="chip">${esc(o)}</button>`).join("")}</div>`;
+    }
+
+    function bindChips(el) {
       el.querySelectorAll(".chip").forEach((b) =>
         b.addEventListener("click", () => send(b.textContent))
       );
+    }
+
+    function bubble(rep) {
+      switch (rep.type) {
+        case "urgent":
+          return `<div class="bubble urgent" role="alert"><strong>Please get medical care now.</strong>${paras(rep.text)}</div>`;
+        case "question":
+          return `<div class="bubble ask">${esc(rep.text)}</div>`;
+        case "info":
+          return `<div class="bubble info"><p class="head">${esc(rep.title)}</p><h4>${esc(rep.heading)}</h4>${paras(rep.text)}</div>`;
+        case "result": {
+          const d = rep.disease;
+          const tags = d.common_symptoms.map((s) => `<li>${esc(s)}</li>`).join("");
+          const alts = rep.alternatives.length
+            ? `<div class="fact"><dt>Also possible</dt><dd><ul class="alts">${rep.alternatives
+                .map((a) => `<li><strong>${esc(a.name)}</strong>, usually ${esc(a.hint)}</li>`).join("")}</ul></dd></div>`
+            : "";
+          return `<div class="bubble result">
+              <p class="head">Closest match <span class="conf">${esc(rep.confidence.label)}</span></p>
+              <h3>${esc(d.name)}</h3>
+              <p class="about">${esc(d.description)}</p>
+              <p class="why">${esc(rep.confidence.note)}</p>
+              <dl class="facts">
+                <div class="fact"><dt>Often seen with</dt><dd><ul class="tags">${tags}</ul></dd></div>
+                <div class="fact"><dt>Usually appears on</dt><dd>${esc(d.typically_affects)}</dd></div>
+                <div class="fact"><dt>General advice</dt><dd>${esc(d.general_advice)}</dd></div>
+                ${alts}
+              </dl>
+              <p class="caveat">${esc(rep.disclaimer)}</p>
+            </div>`;
+        }
+        default:
+          return `<div class="bubble">${esc(rep.text)}</div>`;
+      }
+    }
+
+    function render(data) {
+      const wide = data.replies.some((r) => r.type === "result" || r.type === "info");
+      const el = row("bot", data.replies.map(bubble).join("") + quickHtml(data.quick), wide);
+      bindChips(el);
+      const q = data.replies.find((r) => r.type === "question");
+      input.placeholder = q
+        ? (q.kind === "yn" ? "Answer yes or no, or add more detail" : "Type a location, or skip")
+        : DEFAULT_PLACEHOLDER;
+    }
+
+    function greet() {
+      ctx = null;
+      input.placeholder = DEFAULT_PLACEHOLDER;
+      const el = row("bot",
+        `<div class="bubble">Hi, I'm the Skin Assistant. Describe what you see or feel on your skin and I'll ask a few short questions, then suggest the closest match from ten common conditions. You can also ask me things like "is eczema contagious?"</div>
+         <div class="bubble note"><strong>Not medical advice.</strong> I can't diagnose anything. This is a college project.</div>
+         ${quickHtml(EXAMPLES)}`);
+      bindChips(el);
     }
 
     function typing() {
       return row("bot", '<div class="bubble"><div class="typing" aria-label="Typing"><span></span><span></span><span></span></div></div>');
     }
 
-    function replyResult(data) {
-      const d = data.disease;
-      const tags = d.common_symptoms.map((s) => `<li>${esc(s)}</li>`).join("");
-      return row("bot",
-        `<div class="bubble">Thanks. Based on what you described, this is the closest match:</div>
-         <div class="bubble result">
-           <p class="head">Closest match</p>
-           <h3>${esc(d.name)}</h3>
-           <p class="about">${esc(d.description)}</p>
-           <dl class="facts">
-             <div class="fact"><dt>Often seen with</dt><dd><ul class="tags">${tags}</ul></dd></div>
-             <div class="fact"><dt>Usually appears on</dt><dd>${esc(d.typically_affects)}</dd></div>
-             <div class="fact"><dt>General advice</dt><dd>${esc(d.general_advice)}</dd></div>
-           </dl>
-           <p class="caveat">${esc(data.disclaimer)}</p>
-         </div>`, true);
-    }
-
-    function replyError(msg) {
-      return row("bot", `<div class="bubble err" role="alert">${esc(msg)}</div>`);
+    function errorReply(msg) {
+      row("bot", `<div class="bubble err" role="alert">${esc(msg)}</div>`);
     }
 
     async function send(text) {
@@ -119,24 +159,25 @@
       if (!text) return;
       input.value = "";
       sendBtn.disabled = true;
+      clearQuick();
       row("user", `<div class="bubble">${esc(text)}</div>`);
       const wait = typing();
       try {
         const [res] = await Promise.all([
-          fetch("/predict", {
+          fetch("/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ symptoms: text }),
+            body: JSON.stringify({ message: text, context: ctx }),
           }),
           new Promise((r) => setTimeout(r, 600)),
         ]);
         const data = await res.json();
         wait.remove();
-        if (!res.ok) replyError(data.error || "Something went wrong. Please try again.");
-        else replyResult(data);
+        if (!res.ok) errorReply(data.error || "Something went wrong. Please try again.");
+        else { ctx = data.context; render(data); }
       } catch (e) {
         wait.remove();
-        replyError("I couldn't reach the server. Check that the app is running and try again.");
+        errorReply("I couldn't reach the server. Check that the app is running and try again.");
       }
       sendBtn.disabled = false;
       input.focus();

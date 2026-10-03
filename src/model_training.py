@@ -61,7 +61,7 @@ def build_pipelines():
         ]),
         "Logistic Regression": Pipeline([
             ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
-            ("clf", LogisticRegression(max_iter=1000, C=1.0)),
+            ("clf", LogisticRegression(max_iter=2000, C=30.0)),
         ]),
         "Random Forest": Pipeline([
             ("tfidf", TfidfVectorizer(max_features=5000, ngram_range=(1, 2), sublinear_tf=True)),
@@ -104,8 +104,14 @@ def evaluate_all(pipelines, X_train, y_train, X_test, y_test, label_names):
 
 
 def select_best(results):
-    best_name = max(results, key=lambda k: results[k]["test_accuracy"])
-    best = results[best_name]
+    # The chatbot needs class probabilities to decide when to ask follow-ups,
+    # so only models with predict_proba are eligible.
+    eligible = {
+        k: v for k, v in results.items()
+        if hasattr(v["pipeline"].named_steps["clf"], "predict_proba")
+    }
+    best_name = max(eligible, key=lambda k: eligible[k]["test_accuracy"])
+    best = eligible[best_name]
     print(f"\nBest model: {best_name}")
     print(f"  CV accuracy:   {best['cv_mean']:.4f} (+/- {best['cv_std']:.4f})")
     print(f"  Test accuracy: {best['test_accuracy']:.4f}")

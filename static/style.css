@@ -402,6 +402,31 @@ body {
   text-align: center;
 }
 
+.bubble p + p { margin-top: 6px; }
+.bubble.ask { border-color: var(--accent); }
+.bubble.urgent {
+  background: var(--note-bg) !important;
+  border-color: var(--error) !important;
+  border-left-width: 3px !important;
+}
+.bubble.urgent strong { display: block; color: var(--error); margin-bottom: 4px; }
+.bubble.info .head { font-size: 0.8125rem; color: var(--ink-faint); }
+.bubble.info h4 {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--accent);
+  margin: 2px 0 6px;
+}
+.conf {
+  margin-left: 8px;
+  font-family: "Geist Mono", monospace;
+  font-size: 0.75rem;
+  color: var(--accent);
+}
+.result .why { margin-top: 8px; font-size: 0.875rem; color: var(--ink-faint); }
+.alts { list-style: none; padding: 0; display: grid; gap: 4px; font-size: 0.875rem; }
+
 @keyframes rise {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
